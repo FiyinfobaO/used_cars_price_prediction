@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- link css to flask app -->
+    <link rel="stylesheet" type='text/css' href="{{ url_for('static', filename='css/style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Used Cars ML API</title>
+</head>
+
+<body>
+    <main>
+        <div class="main-text">
+            <h1>Predict Used Car Price</h1>
+        </div>
+        <div class="container">
+            <!-- Main Input For Receiving Query to our ML -->
+            <form action="{{ url_for('predict')}}" method="post">
+                <div>
+                    <label for="manufacturer">Choose a Car brand/manufacturer:</label>
+
+                    <select name="manufacturers" id="manufacturer" onchange="filterList(this)" required="required">
+                        <option value="">--Select an option--</option>
+                        <option value="acura">Acura</option>
+                        <option value="audi">Audi</option>
+                        <option value="bmw">BMW</option>
+                        <option value="cadillac">Cadillac</option>
+                        <option value="chery">Chery</option>
+                        <option value="chevrolet">Chevrolet</option>
+                        <option value="chrysler">Chrysler</option>
+                        <option value="citroen">Citroen</option>
+                        <option value="dodge">Dodge</option>
+                        <option value="fiat">Fiat</option>
+                        <option value="ford">Ford</option>
+                        <option value="foton">Foton</option>
+                        <option value="gac">Gac</option>
+                        <option value="gmc">GMC</option>
+                        <option value="honda">Honda</option>
+                        <option value="hummer">Hummer</option>
+                        <option value="hyundai">Hyundai</option>
+                        <option value="infiniti">Infiniti</option>
+                        <option value="innoson">Innoson</option>
+                        <option value="isuzu">Isuzu</option>
+                        <option value="jaguar">Jaguar</option>
+                        <option value="jeep">Jeep</option>
+                        <option value="kia">Kia</option>
+                        <option value="land rover">Land Rover</option>
+                        <option value="lexus">Lexus</option>
+                        <option value="lincoln">Lincoln</option>
+                        <option value="mazda">Mazda</option>
+                        <option value="mercedes-benz">Mercedes-Benz</option>
+                        <option value="mercury">Mercury</option>
+                        <option value="mg">MG</option>
+                        <option value="mini">Mini</option>
+                        <option value="mitsubishi">Mitsubishi</option>
+                        <option value="nissan">Nissan</option>
+                        <option value="opel">Opel</option>
+                        <option value="peugeot">Peugeot</option>
+                        <option value="pontiac">Pontiac</option>
+                        <option value="porsche">Porsche</option>
+                        <option value="renault">Renault</option>
+                        <option value="saturn">Saturn</option>
+                        <option value="skoda">Skoda</option>
+                        <option value="ssangyong">Ssangyong</option>
+                        <option value="subaru">Subaru</option>
+                        <option value="suzuki">Suzuki</option>
+                        <option value="tata">Tata</option>
+                        <option value="toyota">Toyota</option>
+                        <option value="volkswagen">Volkswagen</option>
+                        <option value="volvo">Volvo</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="model">Choose a Car model:</label>
+                    <select name='models' id="model" required="required">
+                    </select>
+                </div>
+
+                <div>
+                    <label for="mileage">Type the Mileage value:</label>
+                    <input type="number" name="mileage_value" id='mileage' placeholder="Mileage(km)" required="required" />
+                </div>
+
+                <div>
+                    <label for="year">Choose a Year:</label>
+                    <input name="year_value" id='year' list="years" placeholder="--Select an option--" required="required">
+                    <datalist id="years">
+                        <option value="1990">
+                        <option value="1991">
+                        <option value="1992">
+                        <option value="1993">
+                        <option value="1994">
+                        <option value="1995">
+                        <option value="1996">
+                        <option value="1997">
+                        <option value="1998">
+                        <option value="1999">
+                        <option value="2000">
+                        <option value="2001">
+                        <option value="2002">
+                        <option value="2003">
+                        <option value="2004">
+                        <option value="2005">
+                        <option value="2006">
+                        <option value="2007">
+                        <option value="2008">
+                        <option value="2009">
+                        <option value="2010">
+                        <option value="2011">
+                        <option value="2012">
+                        <option value="2013">
+                        <option value="2014">
+                        <option value="2015">
+                        <option value="2016">
+                        <option value="2017">
+                        <option value="2018">
+                        <option value="2019">
+                        <option value="2020">
+                    </datalist>
+                </div>
+
+                <div>
+                    <label for="sell_cond">Choose the Car selling condition:</label>
+
+                    <select name="selling_condition" id="sell_cond" required="required">
+                        <option value="">--Select an option--</option>
+                        <option value="nigerian used">Nigerian used</option>
+                        <option value="foreign used">Foreign used</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="grade">Choose the Car grade:</label>
+
+                    <select name="grades" id="grade" required="required">
+                        <option value="">--Select an option--</option>
+                        <option value="b">B</option>
+                        <option value="c">C</option>
+                        <option value="d">D</option>
+                        <option value="e">E</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="transmission">Choose the Car transmission:</label>
+
+                    <select name="transmissions" id="transmission" required="required">
+                        <option value="">--Select an option--</option>
+                        <option value="automatic">Automatic</option>
+                        <option value="manual">Manual</option>
+                    </select>
+                </div>
+
+                <div class="form-button">
+                    <button type="submit" class="btn btn-main">Predict</button>
+                </div>
+            </form>
+        </div>
+        <div class="prediction-results">{{ prediction_text }}</div>
+    </main>
+
+</body>
+<script type="text/javascript" src="{{ url_for('static', filename='js/filter.js') }}"></script>
+
+</html>

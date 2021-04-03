@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: local("SF Pro Text"), url('./font.ttf') format("truetype");
+}
+
+@keyframes moveInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-10rem);
+    }
+    80% {
+        transform: translateX(1rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'SF Pro Text'
+}
+
+main {
+    max-width: 70rem;
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+    background-color: rgb(119, 116, 116);
+    animation-name: moveInLeft;
+    animation-duration: 2s;
+    animation-timing-function: fade-in;
+    animation-delay: .15s;
+    animation-fill-mode: backwards;
+    padding-bottom: 5rem;
+}
+
+.container {
+    background-color: #ddd;
+    padding: 2rem;
+    max-width: 50rem;
+    margin: 0 auto;
+    margin-top: 3rem;
+    border-radius: .5rem;
+}
+
+.form-button {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 1rem 4rem;
+    display: inline-block;
+    border-radius: 10rem;
+    transition: all .2s;
+    position: relative;
+    cursor: pointer;
+    border: none;
+    font-size: 1.6rem;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 1rem 2rem rgba(#000, 0.2);
+}
+
+.btn::after {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    border-radius: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    transition: all .4s;
+}
+
+.btn:hover::after {
+    transform: scaleX(1.4) scaleY(1.6);
+    opacity: 0;
+}
+
+.btn-main {
+    color: #fff;
+    background-color: #55c57a;
+}
+
+.btn-main::after {
+    background-color: #55c57a;
+}
+
+.main-text {
+    color: #fff;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+label {
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 1.4rem;
+}
+
+input,
+select {
+    width: 100%;
+    border-radius: .5rem;
+    padding: .8rem;
+    border: .2rem solid transparent;
+    transition: border .3s;
+}
+
+input:active,
+input:focus,
+select:active,
+select:focus {
+    outline: none;
+    border: .2rem solid rgba(190, 194, 206, 0.678);
+}
+
+.prediction-results {
+    max-width: 50rem;
+    margin: 0 auto;
+    height: 10rem;
+    background-color: #fff;
+    padding: 1rem;
+    margin-top: -.5rem;
+    font-size: 1.4rem;
+    font-weight: bolder;
+}
