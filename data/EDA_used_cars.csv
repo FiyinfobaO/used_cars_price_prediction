@@ -1,0 +1,2507 @@
+manufacturer,model,year,mileage,selling_condition,grade,fuel,transmission,color,price,car_age
+Acura,Mdx,2008,105242,Nigerian used,D,Petrol,Automatic,grey,2586000,13
+Toyota,Highlander,2001,152321,Nigerian used,C,Petrol,Automatic,green,1914000,20
+Ford,Explorer,2014,60187,Nigerian used,C,Petrol,Automatic,brown,4154000,7
+Toyota,Camry,2002,145156,Nigerian used,E,Petrol,Automatic,black,1354000,19
+Toyota,Corolla,2007,192775,Nigerian used,D,Petrol,Automatic,gold,1522000,14
+Toyota,Camry,2005,164151,Nigerian used,C,Petrol,Automatic,red,1634000,16
+Kia,Sportage,2011,86318,Nigerian used,C,Petrol,Manual,brown,1802000,10
+Toyota,Camry,2007,156872,Nigerian used,E,Petrol Electric,Automatic,gold,1466000,14
+Toyota,Sequoia,2005,5286,Nigerian used,C,Petrol,Automatic,blue,1690000,16
+Toyota,Camry,2005,140388,Nigerian used,D,Petrol,Automatic,gold,1354000,16
+Honda,Pilot,2004,201697,Nigerian used,E,Petrol,Automatic,black,1242000,17
+Honda,Accord,2006,141155,Nigerian used,E,Petrol,Automatic,grey,794000,15
+Ford,Escape,2005,202726,Nigerian used,D,Petrol,Automatic,green,570000,16
+Lexus,Es 350,2007,108502,Nigerian used,C,Petrol,Automatic,silver,3090000,14
+Honda,Pilot,2003,1010,Nigerian used,C,Petrol,Automatic,silver,1634000,18
+Honda,Accord,2008,209833,Nigerian used,C,Petrol,Automatic,black,1746000,13
+Toyota,Corolla,2005,128055,Nigerian used,E,Petrol,Automatic,black,1690000,16
+Toyota,Avalon,2006,183384,Nigerian used,C,Petrol,Automatic,black,1186000,15
+Mercedes-Benz,GL450,2011,87660,Nigerian used,D,Petrol,Automatic,silver,5554000,10
+Toyota,Sienna,2002,214532,Nigerian used,C,Petrol,Automatic,white,1354000,19
+Toyota,Camry,2009,95252,Foreign used,C,Petrol,Automatic,grey,2698000,12
+Honda,Accord,2003,159702,Nigerian used,E,Petrol,Automatic,blue,570000,18
+Kia,Sportage,2011,96593,Nigerian used,D,Petrol,Automatic,brown,1970000,10
+Hyundai,Santa Fe,2002,186287,Nigerian used,D,Petrol,Automatic,gold,738000,19
+GMC,Acadia,2014,112892,Nigerian used,D,Petrol,Automatic,white,5162000,7
+Toyota,Camry,2007,135824,Nigerian used,E,Petrol,Automatic,black,962000,14
+Lexus,Es,2007,99751,Nigerian used,D,Petrol,Automatic,silver,3034000,14
+Toyota,Camry,2007,129315,Nigerian used,E,Petrol,Automatic,green,1802000,14
+Infiniti,Fx,2004,84152,Nigerian used,E,Petrol,Automatic,grey,794000,17
+Hyundai,Veloster,2013,33027,Nigerian used,C,Petrol,Automatic,gold,2922000,8
+Honda,Pilot,2003,154638,Nigerian used,D,Petrol,Automatic,black,1018000,18
+Kia,Mohave,2013,107620,Nigerian used,E,Petrol,Automatic,black,1690000,8
+Toyota,Corolla,2008,113802,Nigerian used,D,Petrol,Manual,black,794000,13
+Toyota,Camry,2012,81037,Foreign used,E,Petrol,Automatic,silver,4266000,9
+Lexus,Es 350,2011,69518,Foreign used,C,Petrol,Automatic,black,5274000,10
+Chevrolet,Epica,2007,144346,Nigerian used,C,Petrol,Automatic,white,1914000,14
+Toyota,Camry,2004,321191,Nigerian used,E,Petrol,Automatic,black,1354000,17
+Peugeot,307,2008,98724,Nigerian used,D,Petrol,Automatic,black,850000,13
+Toyota,Corolla,2003,144406,Nigerian used,D,Petrol,Automatic,beige,1578000,18
+Honda,Ridgeline,2007,180480,Nigerian used,E,Petrol,Automatic,silver,1354000,14
+Toyota,Corolla,2010,81896,Nigerian used,D,Petrol,Automatic,black,2362000,11
+Toyota,Venza,2015,71484,Nigerian used,D,Petrol,Automatic,blue,5610000,6
+Toyota,Rav4,2002,181469,Nigerian used,D,Petrol,Automatic,black,1130000,19
+Toyota,Highlander,2009,263078,Nigerian used,D,Petrol,Automatic,grey,3370000,12
+Honda,Cr-V,2008,182493,Nigerian used,C,Petrol,Automatic,grey,2026000,13
+Mazda,Cx-7,2008,83423,Nigerian used,D,Petrol,Automatic,black,1690000,13
+Toyota,Highlander,2007,93857,Nigerian used,D,Petrol,Automatic,white,4714000,14
+Toyota,Corolla,2011,66899,Foreign used,D,Petrol,Automatic,silver,3706000,10
+Toyota,Camry,2007,111326,Nigerian used,C,Petrol,Automatic,blue,1522000,14
+Mercedes-Benz,C300,2009,133047,Nigerian used,D,Petrol,Automatic,black,2810000,12
+Toyota,Camry,2011,68640,Foreign used,D,Petrol,Automatic,silver,2810000,10
+BMW,X5,2004,186561,Nigerian used,E,Petrol,Automatic,brown,850000,17
+Nissan,Xterra,2006,114063,Nigerian used,D,Petrol,Automatic,black,1018000,15
+Toyota,Camry,2009,277218,Foreign used,C,Petrol Electric,Semiautomatic,red,2306000,12
+Toyota,Sienna,2004,261729,Foreign used,C,Petrol,Automatic,grey,2586000,17
+Mercedes-Benz,E320,2005,142373,Nigerian used,C,Petrol,Automatic,grey,1242000,16
+Land Rover,Range Rover Sport,2010,72071,Nigerian used,C,Petrol,Automatic,red,5050000,11
+Honda,Cr-V,2008,207839,Nigerian used,E,Petrol,Automatic,red,1858000,13
+Toyota,Solara,2004,1010,Nigerian used,D,Petrol,Automatic,red,1746000,17
+Volkswagen,Passat,2006,112372,Nigerian used,D,Petrol,Automatic,black,682000,15
+Peugeot,307,2008,165848,Nigerian used,C,Petrol,Automatic,pink,906000,13
+Nissan,Pathfinder,2001,141017,Nigerian used,D,Petrol,Manual,silver,458000,20
+Honda,Cr-V,2003,335401,Nigerian used,D,Petrol,Automatic,gold,906000,18
+Kia,Cerato,2014,47342,Nigerian used,C,Electric,Automatic,black,2026000,7
+Toyota,Matrix,2006,171208,Nigerian used,E,Petrol,Automatic,blue,1074000,15
+Land Rover,Range Rover Sport,2010,123598,Nigerian used,C,Petrol,Automatic,white,3930000,11
+Lexus,Rx 300,2000,164,Nigerian used,D,Petrol,Automatic,silver,1690000,21
+Hyundai,Ix35,2011,79404,Nigerian used,C,Petrol,Automatic,green,2418000,10
+Toyota,Rav4,2007,147370,Nigerian used,D,Petrol,Automatic,black,1690000,14
+Toyota,Camry,1995,246525,Nigerian used,D,Petrol,Automatic,green,458000,26
+Lexus,Is 250,2008,83378,Nigerian used,C,Petrol,Automatic,black,2586000,13
+Lexus,Gx 470,2004,86693,Foreign used,D,Petrol,Automatic,black,4490000,17
+Kia,Optima,2013,119553,Nigerian used,C,Petrol,Automatic,silver,2362000,8
+Honda,Accord Crosstour,2010,86997,Nigerian used,D,Petrol,Automatic,opal sage,2922000,11
+Honda,Accord,2003,82972,Nigerian used,E,Petrol,Automatic,blue,682000,18
+Lexus,Rx 330,2004,94771,Nigerian used,D,Petrol,Automatic,silver,2026000,17
+Ford,Edge,2011,316622,Nigerian used,D,Petrol,Automatic,black,2810000,10
+Infiniti,Qx,1997,226429,Nigerian used,E,Petrol,Automatic,green,738000,24
+Lexus,Gs 300,2006,137698,Foreign used,C,Petrol,Automatic,grey,3706000,15
+Toyota,Camry,2005,105516,Nigerian used,C,Petrol,Automatic,blue,1354000,16
+Mercedes-Benz,Ml500,2003,167308,Nigerian used,D,Petrol,Automatic,silver,1578000,18
+Toyota,Highlander,2003,183983,Nigerian used,E,Petrol,Automatic,grey,1410000,18
+Honda,Accord,2008,221321,Nigerian used,E,Petrol,Automatic,black,1018000,13
+Land Rover,RANGE ROVER,2004,140000,Nigerian used,D,Petrol,Automatic,silver,2250000,17
+Toyota,Venza,2010,114375,Foreign used,C,Petrol,Automatic,black,5610000,11
+Lexus,Gx 470,2004,163151,Nigerian used,D,Petrol,Automatic,silver,3930000,17
+Mercedes-Benz,A160,2001,247568,Foreign used,D,Diesel,Automatic,black,1466000,20
+Toyota,Sienna,2000,211709,Nigerian used,D,Petrol,Automatic,grey,1242000,21
+Honda,Pilot,2005,298797,Foreign used,D,Petrol,Automatic,silver,2250000,16
+Jeep,Liberty,2012,89781,Nigerian used,C,Petrol,Automatic,grey,4266000,9
+Toyota,Rav4,2004,133937,Nigerian used,D,Petrol,Automatic,black,1130000,17
+BMW,318i,2008,187017,Nigerian used,D,Petrol,Automatic,black,1354000,13
+Hyundai,Santa Fe,2004,197923,Nigerian used,D,Petrol,Automatic,black,1466000,17
+Toyota,Venza,2013,113446,Nigerian used,C,Petrol,Automatic,black,4546000,8
+Nissan,Versa,2014,84236,Foreign used,D,Petrol,Automatic,silver,2810000,7
+Toyota,Camry,2004,186331,Nigerian used,D,Petrol,Automatic,grey,1410000,17
+Honda,Accord,2015,69811,Nigerian used,C,Petrol,Automatic,blue,5050000,6
+Hyundai,Sonata,2012,106382,Foreign used,D,Petrol,Automatic,silver,3034000,9
+Toyota,Rav4,2006,152277,Nigerian used,D,Petrol,Automatic,blue,1858000,15
+Volkswagen,Passat,2008,125452,Nigerian used,D,Petrol,Automatic,grey,1354000,13
+Peugeot,508,2012,71227,Nigerian used,C,Petrol,Automatic,black,3370000,9
+Hyundai,Santa Fe,2007,198052,Foreign used,C,Petrol,Automatic,grey,2810000,14
+Toyota,Matrix,2003,206044,Nigerian used,D,Petrol,Automatic,blue,1578000,18
+Toyota,Camry,2013,76090,Foreign used,C,Petrol,Automatic,red,5610000,8
+Lexus,Es,2008,148410,Nigerian used,C,Petrol,Automatic,black,3370000,13
+Mercedes-Benz,C280,2007,183599,Foreign used,C,Petrol,Automatic,blue,2586000,14
+Toyota,Tacoma,2006,78658,Nigerian used,C,Petrol,Automatic,black,3370000,15
+Volkswagen,Touareg,2004,183839,Nigerian used,E,Petrol,Automatic,red,1690000,17
+Toyota,Sienna,2013,179750,Nigerian used,C,Petrol,Automatic,black,3930000,8
+Kia,Optima,2012,111140,Nigerian used,C,Petrol,Automatic,black,2700000,9
+Kia,Rio,2013,127373,Nigerian used,D,Petrol,Automatic,blue,1690000,8
+Toyota,Corolla,2008,211181,Nigerian used,D,Petrol,Manual,blue,1018000,13
+Land Rover,Range Rover HSE,2008,167396,Nigerian used,E,Petrol,Automatic,black,2586000,13
+Kia,K3000,2013,113527,Foreign used,D,Petrol,Automatic,white,4042000,8
+Nissan,Xterra,2006,237351,Nigerian used,C,Petrol,Automatic,grey,1354000,15
+Toyota,Tacoma,2006,122941,Nigerian used,D,Petrol,Automatic,black,4154000,15
+Lexus,Es 300,2002,215064,Nigerian used,E,Petrol,Automatic,wine,1242000,19
+Toyota,Rav4,1997,240167,Nigerian used,E,Petrol,Automatic,black,626000,24
+Nissan,Altima,2014,44140,Nigerian used,C,Petrol,Automatic,grey,5386000,7
+Ford,Taurus,2008,167869,Nigerian used,D,Petrol,Automatic,blue,1298000,13
+Toyota,Corolla,2009,148717,Nigerian used,D,Petrol,Manual,gold,1074000,12
+Toyota,Camry,2000,236315,Nigerian used,D,Petrol,Automatic,gold,962000,21
+Toyota,Camry,2008,121984,Nigerian used,D,Petrol,Automatic,grey,2250000,13
+Toyota,Camry,2007,100609,Nigerian used,E,Petrol,Automatic,gold,1466000,14
+Toyota,Camry,1995,244360,Nigerian used,D,Petrol,Automatic,black,420000,26
+Toyota,Camry,2012,54247,Foreign used,C,Petrol,Automatic,red,4938000,9
+Hyundai,Sonata,2012,112051,Foreign used,C,Petrol,Automatic,silver,3272500,9
+Toyota,Corolla,2009,141529,Nigerian used,E,Petrol,Automatic,black,2026000,12
+Mini,Cooper,2002,319211,Nigerian used,D,Petrol,Automatic,blue,1018000,19
+Toyota,Highlander,2011,68731,Nigerian used,C,Petrol,Automatic,grey,5274000,10
+Kia,Sportage,2008,147916,Nigerian used,E,Petrol,Automatic,black,1354000,13
+Honda,Accord Crosstour,2010,62233,Nigerian used,C,Petrol,Automatic,grey,2026000,11
+Toyota,Camry,2002,315410,Nigerian used,E,Petrol,Automatic,ash,1018000,19
+Toyota,Highlander,2004,233569,Nigerian used,D,Petrol,Automatic,green,1746000,17
+Mercedes-Benz,C300,2010,141038,Foreign used,D,Petrol,Automatic,black,3594000,11
+Mercedes-Benz,E350,2010,65126,Nigerian used,C,Petrol,Automatic,black,4490000,11
+Audi,A6,2000,321967,Nigerian used,D,Petrol,Manual,grey,738000,21
+Nissan,Altima,2012,190209,Nigerian used,C,Petrol,Automatic,red,2250000,9
+Mercedes-Benz,E350,2007,86981,Nigerian used,D,Petrol,Automatic,black,1802000,14
+Toyota,Rav4,2008,129937,Nigerian used,D,Petrol,Automatic,blue,2586000,13
+Honda,Accord,2008,150026,Nigerian used,D,Petrol,Automatic,grey,1690000,13
+Chrysler,Sebring,2004,191755,Nigerian used,D,Petrol,Automatic,silver,1130000,17
+Lexus,Rx 330,2005,126602,Nigerian used,E,Petrol,Automatic,silver,2250000,16
+Toyota,Avalon,2003,206142,Nigerian used,C,Petrol,Automatic,green,1242000,18
+Mercedes-Benz,C240,2005,208460,Nigerian used,E,Petrol,Automatic,blue,1354000,16
+Chrysler,Town & Country,2005,119631,Nigerian used,D,Petrol,Automatic,white,570000,16
+Toyota,Land Cruiser,2007,1544,Nigerian used,D,Petrol,Automatic,black,4490000,14
+Toyota,Highlander,2006,123480,Nigerian used,D,Petrol,Automatic,cream,2250000,15
+Mercedes-Benz,GL450,2007,122890,Nigerian used,D,Petrol,Automatic,black,3034000,14
+Toyota,Corolla,2004,299999,Nigerian used,D,Petrol,Automatic,grey,1802000,17
+Ford,Focus,2016,36765,Nigerian used,D,Petrol,Automatic,ash,4490000,5
+Honda,Accord,2015,15489,Nigerian used,C,Petrol,Automatic,grey,4378000,6
+Lexus,Gx 470,2005,110044,Nigerian used,C,Petrol,Automatic,blue,3930000,16
+Hyundai,Elantra,2008,160243,Foreign used,D,Petrol,Automatic,red,2082000,13
+Toyota,Venza,2010,168746,Nigerian used,C,Petrol,Automatic,silver,6170000,11
+Ford,Explorer,2002,275643,Nigerian used,D,Petrol,Automatic,white,1130000,19
+Toyota,Highlander,2008,67400,Nigerian used,D,Petrol,Automatic,wine,5050000,13
+Ford,Edge,2009,99026,Foreign used,D,Petrol,Automatic,white,2250000,12
+Hyundai,I10,2019,69077,Foreign used,C,Petrol,Automatic,grey,2810000,2
+Toyota,Camry,2002,190561,Nigerian used,D,Petrol,Automatic,blue,1466000,19
+Toyota,Corolla,2016,13470,Nigerian used,C,Petrol,Automatic,black,5946000,5
+Land Rover,Range Rover Sport,2006,192990,Nigerian used,C,Petrol,Automatic,white,3370000,15
+Volkswagen,Jetta,2003,236570,Nigerian used,D,Petrol,Automatic,grey,794000,18
+Toyota,Rav4,2007,126233,Nigerian used,C,Petrol,Automatic,blue,2138000,14
+Toyota,Sienna,2008,128388,Nigerian used,E,Petrol,Automatic,blue,1914000,13
+Toyota,Camry,2011,230545,Foreign used,D,Petrol,Automatic,silver,3930000,10
+Toyota,Highlander,2008,104840,Nigerian used,E,Petrol,Automatic,silver,2922000,13
+Toyota,Sienna,2006,320092,Nigerian used,E,Petrol,Automatic,blue,1802000,15
+Honda,Accord,2003,203100,Nigerian used,E,Petrol,Automatic,grey,682000,18
+Toyota,Venza,2011,70536,Nigerian used,C,Petrol,Automatic,black,2978000,10
+Mercedes-Benz,C230,2006,126999,Nigerian used,C,Petrol,Automatic,black,2698000,15
+Toyota,Highlander,2006,273080,Foreign used,D,Petrol,Automatic,black,3818000,15
+Toyota,Highlander,2009,92434,Foreign used,C,Petrol,Automatic,silver,5162000,12
+Honda,Odyssey,2007,258939,Nigerian used,D,Petrol,Automatic,cream,1410000,14
+Toyota,Camry,2005,191262,Foreign used,E,Petrol,Automatic,black,2362000,16
+Honda,Accord,2008,63653,Nigerian used,C,Petrol,Automatic,black,1858000,13
+BMW,3 Series,2006,149130,Foreign used,C,Petrol,Automatic,blue,2586000,15
+Toyota,Corolla,2003,205887,Nigerian used,E,Petrol,Automatic,blue,1130000,18
+Ford,Explorer,2011,43186,Nigerian used,C,Petrol,Automatic,silver,5162000,10
+Acura,Mdx,2001,311509,Nigerian used,E,Petrol,Automatic,silver,906000,20
+Toyota,Venza,2010,43839,Nigerian used,D,Petrol,Automatic,gold,4882000,11
+Nissan,Pathfinder,2002,97791,Nigerian used,E,Petrol,Automatic,black,906000,19
+Lexus,Rx 330,2004,243562,Nigerian used,C,Petrol,Automatic,white,1690000,17
+Honda,Pilot,2003,162874,Foreign used,E,Petrol,Automatic,silver,1746000,18
+Skoda,Fabia,2008,7748,Nigerian used,D,Petrol,Manual,blue,514000,13
+Ford,Explorer,2006,64811,Nigerian used,C,Petrol,Automatic,black,2250000,15
+Toyota,Highlander,2008,172070,Nigerian used,D,Petrol,Automatic,black,3594000,13
+Mercedes-Benz,C300,2010,143685,Foreign used,C,Petrol,Automatic,black,3930000,11
+Toyota,Venza,2009,104020,Nigerian used,C,Petrol,Automatic,red,3706000,12
+Acura,Rdx,2008,43858,Foreign used,D,Petrol,Automatic,black,3146000,13
+Mercedes-Benz,CLS350,2005,195322,Nigerian used,E,Petrol,Automatic,white,3146000,16
+Toyota,Camry,2007,127849,Nigerian used,C,Petrol,Automatic,black,2250000,14
+Suzuki,Forenza,2004,99514,Nigerian used,D,Petrol,Automatic,red,738000,17
+Toyota,Highlander,2002,169390,Nigerian used,D,Petrol,Automatic,blue,1802000,19
+Lexus,Rx 300,2002,168174,Nigerian used,D,Petrol,Automatic,silver,2026000,19
+Toyota,Camry,2006,271856,Nigerian used,D,Petrol,Automatic,silver,1690000,15
+Nissan,Altima,2003,231979,Nigerian used,E,Petrol,Automatic,red,402000,18
+Ford,Focus,2003,219346,Nigerian used,C,Petrol,Manual,grey,794000,18
+Nissan,Sentra,2012,287510,Nigerian used,D,Petrol,Automatic,grey,1466000,9
+Toyota,Corolla,2008,163507,Nigerian used,D,Petrol,Automatic,black,1858000,13
+Mini,Cooper,2012,129994,Nigerian used,C,Petrol,Manual,white,5610000,9
+Toyota,Camry,2003,209800,Nigerian used,D,Petrol,Automatic,gold,1410000,18
+Toyota,Corolla,2009,198402,Nigerian used,D,Petrol,Automatic,black,1634000,12
+Toyota,Corolla,2005,134594,Nigerian used,C,Petrol,Automatic,grey,1690000,16
+Honda,Civic,2004,101256,Nigerian used,D,Petrol,Automatic,blue,659600,17
+Toyota,Corolla,2000,157615,Nigerian used,D,Petrol,Automatic,red,794000,21
+Dodge,Charger,2008,105249,Nigerian used,E,Petrol,Automatic,black,1130000,13
+Nissan,Maxima,2007,83648,Foreign used,C,Petrol,Automatic,silver,1242000,14
+Acura,Tl,2004,139505,Nigerian used,C,Petrol,Automatic,black,1018000,17
+Toyota,Corolla,2002,131615,Nigerian used,D,Petrol,Automatic,blue,850000,19
+Honda,Accord,2007,148147,Nigerian used,D,Petrol,Automatic,blue,1242000,14
+Infiniti,Qx,2001,143177,Nigerian used,D,Petrol,Automatic,gold,1242000,20
+Volkswagen,Sharan,2000,231784,Foreign used,D,Petrol,Manual,green,1970000,21
+Ford,Edge,2007,108642,Nigerian used,C,Petrol,Automatic,white,1690000,14
+Hyundai,Accent,2008,121767,Nigerian used,D,Petrol,Manual,gold,626000,13
+Toyota,Corolla,2007,138146,Nigerian used,E,Petrol,Manual,black,682000,14
+Lexus,Is 250,2006,86331,Nigerian used,C,Petrol,Automatic,silver,2362000,15
+Nissan,Xterra,2007,154979,Nigerian used,E,Petrol,Automatic,black,1242000,14
+Honda,Odyssey,2006,148669,Foreign used,C,Petrol,Automatic,grey,2586000,15
+Nissan,Armada,2007,63889,Nigerian used,D,Petrol,Automatic,green,1186000,14
+Toyota,4Runner,2000,208209,Nigerian used,D,Petrol,Automatic,silver,794000,21
+Volkswagen,Passat,2012,59082,Nigerian used,C,Petrol,Automatic,black,3090000,9
+Honda,Accord,2007,133778,Nigerian used,D,Petrol,Automatic,grey,962000,14
+Toyota,Avalon,2006,86719,Nigerian used,C,Petrol,Automatic,beige,1858000,15
+Toyota,Camry,2008,233603,Nigerian used,E,Petrol,Automatic,black,2026000,13
+Honda,Cr-V,2005,85995,Nigerian used,C,Petrol,Automatic,silver,1354000,16
+Toyota,Camry,2013,149729,Nigerian used,E,Petrol,Automatic,white,2922000,8
+Lexus,Es 350,2013,136283,Nigerian used,C,Petrol,Automatic,ash,7140000,8
+Toyota,Camry,2008,116583,Nigerian used,C,Petrol,Automatic,grey,2138000,13
+Nissan,Pathfinder,2005,134066,Nigerian used,D,Petrol,Automatic,red,1068400,16
+Toyota,Sienna,2005,175001,Nigerian used,D,Petrol,Automatic,silver,1914000,16
+Toyota,Camry,2004,116439,Foreign used,D,Petrol,Automatic,beige,2138000,17
+Honda,Accord,2003,91393,Nigerian used,D,Petrol,Automatic,blue,1074000,18
+Lexus,Gx 470,2004,94953,Nigerian used,E,Petrol,Automatic,blue,3370000,17
+Toyota,Camry,2013,110845,Nigerian used,C,Petrol,Automatic,grey,3370000,8
+Nissan,Titan,2007,250091,Foreign used,C,Petrol,Automatic,red,4510000,14
+Honda,Cr-V,2010,286010,Foreign used,E,Petrol,Automatic,black,3146000,11
+Ford,Taurus,2011,76003,Nigerian used,C,Petrol,Automatic,black,2026000,10
+Hyundai,Sonata,2015,133217,Foreign used,C,Petrol,Automatic,silver,4735000,6
+Toyota,Corolla,2009,252128,Nigerian used,C,Petrol,Automatic,black,2810000,12
+Acura,Mdx,2001,253471,Nigerian used,D,Petrol,Automatic,wine,1130000,20
+Ford,Escape,2014,44357,Nigerian used,C,Petrol,Automatic,blue,6730000,7
+Toyota,Sienna,2004,150069,Nigerian used,D,Petrol,Automatic,sky blue,1242000,17
+Nissan,Rogue,2011,157152,Nigerian used,C,Petrol,Automatic,silver,2362000,10
+Hyundai,Elantra,2008,94054,Nigerian used,C,Petrol,Automatic,black,1466000,13
+Toyota,Camry,2010,60168,Nigerian used,D,Petrol,Automatic,silver,2250000,11
+Volkswagen,Jetta,1999,117808,Nigerian used,D,Petrol,Automatic,red,536400,22
+Nissan,Maxima,2009,138830,Foreign used,C,Petrol,Automatic,white,2586000,12
+Ford,Edge,2011,162179,Foreign used,C,Petrol,Automatic,red,3818000,10
+Mercedes-Benz,C 240,2001,276543,Nigerian used,E,Petrol,Automatic,blue,794000,20
+Hyundai,Elantra,2011,97960,Foreign used,E,Petrol,Automatic,white,3146000,10
+Hyundai,Veloster,2012,117496,Nigerian used,C,Petrol,Automatic,orange,3146000,9
+Toyota,Corolla,2011,86648,Foreign used,D,Petrol,Automatic,silver,3047500,10
+Volkswagen,Sharan,2001,224602,Nigerian used,E,Petrol,Manual,blue,906000,20
+Mazda,626,1999,185890,Nigerian used,E,Petrol,Manual,silver,850000,22
+Mercedes-Benz,GL450,2008,103454,Nigerian used,D,Petrol,Automatic,silver,3034000,13
+Toyota,Highlander,2012,53156,Nigerian used,D,Petrol,Automatic,purple,5610000,9
+Toyota,Rav4,2009,89433,Nigerian used,C,Petrol,Automatic,silver,3370000,12
+Lexus,Es300,1998,244305,Nigerian used,D,Petrol,Automatic,black,592400,23
+Honda,Civic,2007,71614,Nigerian used,D,Petrol,Automatic,grey,984400,14
+Honda,Accord,2006,266453,Foreign used,C,Diesel,Manual,wine,1690000,15
+Toyota,Camry,2012,123574,Foreign used,C,Petrol,Automatic,red,4490000,9
+Nissan,Altima,2008,168602,Nigerian used,E,Petrol,Automatic,green,1018000,13
+Honda,Accord,2008,108814,Nigerian used,D,Petrol,Automatic,blue,1130000,13
+Toyota,Camry,2008,119217,Foreign used,C,Petrol,Automatic,blue,3258000,13
+Honda,Odyssey,2005,207368,Nigerian used,D,Petrol,Automatic,green,794000,16
+Mercedes-Benz,S350,2006,112124,Foreign used,C,Petrol,Automatic,black,3594000,15
+Honda,Odyssey,2012,88720,Nigerian used,D,Petrol,Automatic,black,2810000,9
+Toyota,Sienna,2004,198032,Nigerian used,D,Petrol,Automatic,blue,2082000,17
+Volkswagen,Passat,2008,83844,Nigerian used,D,Petrol,Automatic,black,1410000,13
+Toyota,Camry,2002,184498,Nigerian used,D,Petrol,Automatic,red,1690000,19
+Honda,Cr-V,2001,170792,Nigerian used,E,Petrol,Automatic,silver,458000,20
+Ford,Freestyle,2005,214567,Nigerian used,E,Petrol,Automatic,green,794000,16
+Nissan,Murano,2004,168357,Nigerian used,E,Petrol,Automatic,gold,850000,17
+Honda,Cr-V,2005,338230,Nigerian used,D,Petrol,Automatic,silver,1186000,16
+Hummer,H3,2008,27582,Nigerian used,D,Petrol,Automatic,black,2260000,13
+Ford,Escape,2005,301670,Nigerian used,D,Petrol,Automatic,black,1690000,16
+Volkswagen,Golf,1994,248815,Nigerian used,D,Petrol,Manual,black,458000,27
+Nissan,Maxima,2012,75011,Nigerian used,D,Petrol,Automatic,black,1578000,9
+Mercedes-Benz,GLK 350,2012,182638,Nigerian used,C,Petrol,Automatic,black,4490000,9
+Toyota,Corolla,2012,145647,Nigerian used,D,Petrol,Automatic,gold,2362000,9
+Toyota,Camry,2013,161235,Nigerian used,C,Petrol,Automatic,grey,4042000,8
+Mazda,5,2007,175347,Nigerian used,E,Petrol,Automatic,white,1074000,14
+Honda,Accord,2013,107706,Nigerian used,D,Petrol,Automatic,grey,3930000,8
+Toyota,Picnic,2001,170241,Foreign used,D,Petrol,Automatic,gold,2586000,20
+Ford,Windstar,2003,129247,Nigerian used,C,Petrol,Automatic,white,570000,18
+Toyota,Sienna,2015,55719,Nigerian used,D,Petrol,Automatic,black,4490000,6
+Toyota,Sienna,2001,251637,Nigerian used,E,Petrol,Automatic,blue,906000,20
+Toyota,Camry,2009,145587,Foreign used,E,Petrol,Automatic,black,2922000,12
+Infiniti,Qx,2001,88566,Nigerian used,E,Petrol,Automatic,black,794000,20
+Toyota,Corolla,2010,122756,Nigerian used,C,Petrol,Automatic,black,2810000,11
+Honda,Pilot,2006,128687,Nigerian used,D,Petrol,Automatic,white,1242000,15
+Nissan,Altima,2003,239721,Nigerian used,D,Petrol,Automatic,silver,614800,18
+Honda,Cr-V,2007,246449,Nigerian used,D,Petrol,Automatic,black,1746000,14
+Toyota,Camry,2003,236715,Nigerian used,D,Petrol,Automatic,green,1354000,18
+Toyota,Matrix,2006,202238,Nigerian used,D,Petrol,Automatic,silver,1466000,15
+Toyota,Corolla,2004,69516,Nigerian used,E,Petrol,Automatic,grey,1466000,17
+Infiniti,Fx,2004,178082,Foreign used,D,Petrol,Automatic,gold,1130000,17
+Honda,Civic,2006,136485,Nigerian used,E,Petrol,Automatic,blue,1130000,15
+Toyota,Rav4,2005,99178,Foreign used,E,Petrol,Automatic,red,1858000,16
+Honda,Accord,2010,152417,Nigerian used,C,Petrol,Automatic,ash,1578000,11
+Nissan,Titan,2006,188942,Nigerian used,C,Petrol,Automatic,black,2586000,15
+Honda,Pilot,2005,98335,Nigerian used,D,Petrol,Automatic,black,2362000,16
+Kia,Rio,2020,11673,Nigerian used,C,Petrol,Automatic,red,5946000,1
+Toyota,Corolla,2005,233560,Foreign used,D,Petrol,Automatic,red,2810000,16
+Lexus,Rx,2006,188211,Foreign used,C,Petrol,Automatic,blue,3706000,15
+Mercedes-Benz,C300,2010,116199,Foreign used,C,Petrol,Automatic,silver,4490000,11
+Toyota,Camry,2012,177369,Foreign used,D,Petrol,Automatic,sky blue,4714000,9
+Acura,Mdx,2007,227584,Nigerian used,D,Petrol,Automatic,silver,2026000,14
+Toyota,Camry,2015,78796,Foreign used,D,Petrol,Automatic,black,6730000,6
+Toyota,Corolla,2003,208809,Nigerian used,E,Petrol,Automatic,silver,1186000,18
+Toyota,Avalon,2011,105765,Foreign used,C,Petrol,Semiautomatic,white,4266000,10
+Mercedes-Benz,GL450,2007,193795,Nigerian used,E,Petrol,Automatic,black,3370000,14
+Toyota,Camry,2004,123335,Foreign used,C,Petrol,Automatic,silver,1970000,17
+Honda,Accord,2003,261968,Nigerian used,D,Petrol,Automatic,silver,738000,18
+Honda,Accord,2008,232560,Nigerian used,C,Petrol,Automatic,blue,1690000,13
+Cadillac,Srx,2010,289580,Foreign used,C,Petrol,Automatic,silver,6730000,11
+Kia,Joice,1999,112233,Nigerian used,D,Petrol,Manual,silver,626000,22
+Lexus,Is 250,2006,95304,Nigerian used,D,Petrol,Automatic,black,2586000,15
+Mercedes-Benz,C230,2005,179487,Nigerian used,D,Petrol,Automatic,silver,1242000,16
+Lexus,Rx 330,2003,149907,Foreign used,C,Petrol,Automatic,black,3930000,18
+Toyota,Venza,2009,84235,Nigerian used,C,Petrol,Automatic,silver,4714000,12
+Honda,Civic,2012,133106,Nigerian used,C,Petrol,Automatic,black,2810000,9
+Peugeot,307,2004,164570,Nigerian used,E,Petrol,Manual,ash,402000,17
+Audi,A4,2009,88210,Foreign used,C,Petrol,Automatic,black,2922000,12
+Ford,F-150,2010,111867,Foreign used,C,Petrol,Automatic,blue,4490000,11
+Honda,Cr-V,2000,191342,Nigerian used,E,Petrol,Automatic,gold,458000,21
+Honda,Accord,2011,82222,Nigerian used,C,Petrol,Automatic,black,1578000,10
+Mercedes-Benz,S600,2007,173040,Foreign used,C,Petrol,Automatic,black,5747500,14
+Hyundai,Elantra,2013,131771,Foreign used,D,Petrol,Automatic,black,3482000,8
+Lexus,Gx 470,2007,106218,Nigerian used,D,Petrol,Automatic,black,3258000,14
+Toyota,Solara,2007,92872,Nigerian used,C,Petrol,Automatic,black,1690000,14
+Acura,Zdx,2010,92564,Nigerian used,C,Petrol,Automatic,white,3482000,11
+Toyota,Yaris,2003,124246,Foreign used,C,Petrol,Automatic,silver,1466000,18
+Toyota,Sienna,2011,223269,Foreign used,C,Petrol,Automatic,grey,4938000,10
+Toyota,Sequoia,2008,94816,Nigerian used,C,Petrol,Automatic,black,5610000,13
+Infiniti,Fx,2003,61906,Nigerian used,D,Petrol,Automatic,ash,2250000,18
+Lexus,Gx 470,2006,140875,Nigerian used,D,Petrol,Automatic,black,1858000,15
+Hyundai,Sonata,2006,106302,Foreign used,D,Petrol,Automatic,silver,1300000,15
+Nissan,Altima,2005,124984,Nigerian used,D,Petrol,Automatic,blue,906000,16
+Ford,Galaxy,1999,270314,Nigerian used,E,Petrol,Manual,white,738000,22
+Honda,Accord,2013,12206,Foreign used,D,Petrol,Automatic,red,5162000,8
+BMW,5 Series,2007,199000,Nigerian used,C,Petrol,Automatic,black,2026000,14
+Land Rover,Range Rover Vogue,2007,34236,Nigerian used,E,Petrol,Automatic,white,1130000,14
+Toyota,Camry,2006,160854,Nigerian used,D,Petrol,Automatic,white,1522000,15
+Mazda,Cx-7,2012,100272,Nigerian used,D,Petrol,Automatic,ash,5610000,9
+Toyota,Camry,2004,215683,Foreign used,D,Petrol,Automatic,white,1970000,17
+Honda,Accord,2008,120801,Foreign used,C,Petrol,Automatic,grey,2586000,13
+BMW,X5,2013,165602,Nigerian used,D,Petrol,Automatic,black,3090000,8
+Kia,Optima,2013,100614,Nigerian used,D,Petrol,Automatic,blue,2250000,8
+Honda,Cr-V,2002,170797,Nigerian used,D,Petrol,Automatic,blue,659600,19
+Honda,Odyssey,2008,195211,Foreign used,C,Petrol,Automatic,wine,2026000,13
+Lexus,Es,2006,175275,Nigerian used,D,Petrol,Automatic,silver,1768400,15
+Volkswagen,Passat,1998,224621,Nigerian used,D,Petrol,Automatic,red,458000,23
+Toyota,Highlander,2002,205084,Nigerian used,D,Petrol,Automatic,red,1802000,19
+Mercedes-Benz,GLK 350,2011,116383,Nigerian used,C,Petrol,Automatic,red,5274000,10
+Toyota,Rav4,2008,186370,Foreign used,C,Petrol,Automatic,grey,4042000,13
+Toyota,Camry,2003,184952,Foreign used,D,Petrol,Automatic,blue,2362000,18
+Mercedes-Benz,C320,2002,200999,Nigerian used,D,Petrol,Automatic,gold,1130000,19
+Mercedes-Benz,C300,2011,52480,Foreign used,C,Petrol,Automatic,black,5834000,10
+Hyundai,Sonata,2012,169097,Foreign used,C,Petrol,Automatic,red,3370000,9
+Acura,Tl,2003,196273,Nigerian used,D,Petrol,Automatic,grey,682000,18
+Acura,Mdx,2008,97800,Foreign used,C,Petrol,Automatic,grey,3930000,13
+Honda,Accord,1998,171902,Nigerian used,D,Petrol,Automatic,black,570000,23
+Toyota,Avensis,2007,117024,Nigerian used,E,Petrol,Manual,silver,853750,14
+Toyota,Sequoia,2003,149393,Nigerian used,D,Petrol,Automatic,ash,1298000,18
+Toyota,Highlander,2011,153503,Nigerian used,C,Petrol,Automatic,white,5890000,10
+Volkswagen,Beatle,2003,269496,Nigerian used,D,Petrol,Manual,red,435600,18
+Nissan,Altima,2005,119212,Nigerian used,D,Petrol,Automatic,gold,797500,16
+Hyundai,Azera,2015,48700,Nigerian used,C,Petrol,Automatic,black,3930000,6
+Honda,Pilot,2005,127486,Nigerian used,C,Petrol,Automatic,black,1152400,16
+Toyota,Camry,2010,183363,Nigerian used,D,Petrol,Automatic,blue,2362000,11
+Chevrolet,Traverse,2014,41558,Nigerian used,C,Petrol,Automatic,black,3930000,7
+Mercedes-Benz,S550,2011,29644,Foreign used,C,Petrol,Automatic,black,6730000,10
+Nissan,Pathfinder,2013,47283,Nigerian used,C,Petrol,Automatic,silver,5610000,8
+Acura,Tl,2009,88022,Foreign used,C,Petrol,Automatic,blue,3594000,12
+Acura,Mdx,2007,166543,Nigerian used,D,Petrol,Automatic,red,1802000,14
+Honda,Accord,2001,250393,Nigerian used,D,Petrol,Automatic,green,458000,20
+Nissan,Pathfinder,2001,117216,Nigerian used,D,Petrol,Automatic,grey,570000,20
+Toyota,Matrix,2004,209415,Nigerian used,D,Petrol,Automatic,silver,1186000,17
+Toyota,Highlander,2005,203616,Nigerian used,D,Petrol,Automatic,grey,1690000,16
+Toyota,Corolla,2004,299999,Nigerian used,E,Petrol,Automatic,brown,1578000,17
+Toyota,Corolla,2009,239514,Nigerian used,C,Petrol,Automatic,grey,2138000,12
+Honda,Accord,2006,177628,Nigerian used,D,Petrol,Automatic,silver,850000,15
+Infiniti,Qx,1999,141626,Nigerian used,D,Petrol,Automatic,wine,570000,22
+Toyota,Tundra,2007,233251,Nigerian used,E,Petrol,Automatic,grey,2250000,14
+Ford,Everest,2006,93628,Nigerian used,C,Petrol,Automatic,black,2922000,15
+Acura,Rl,2006,116860,Foreign used,E,Petrol,Automatic,sky blue,1858000,15
+Honda,Accord,2006,123479,Nigerian used,E,Petrol,Automatic,grey,850000,15
+Toyota,Avalon,2006,178866,Nigerian used,C,Petrol,Automatic,gold,1746000,15
+Hyundai,Tucson,2009,109377,Nigerian used,E,Petrol,Automatic,black,1242000,12
+Ford,Edge,2010,297400,Nigerian used,D,Petrol,Automatic,silver,1466000,11
+Kia,Optima,2013,103338,Nigerian used,D,Petrol,Automatic,grey,2978000,8
+Toyota,Camry,2011,187878,Foreign used,D,Petrol,Automatic,gold,3385000,10
+Honda,Odyssey,2002,205760,Foreign used,D,Petrol,Automatic,silver,1130000,19
+Mercedes-Benz,Ml500,2008,134256,Foreign used,E,Petrol,Automatic,silver,4266000,13
+Infiniti,G,2004,274687,Nigerian used,D,Petrol,Automatic,silver,1466000,17
+Toyota,Rav4,2003,184952,Nigerian used,E,Petrol,Automatic,black,1130000,18
+Nissan,Altima,2008,110765,Nigerian used,C,Petrol,Automatic,black,1690000,13
+Toyota,Corolla,2010,134560,Nigerian used,D,Petrol,Automatic,black,1472500,11
+Mercedes-Benz,Ml350,2006,69439,Nigerian used,C,Petrol,Automatic,brown,2474000,15
+Toyota,Corolla,2016,18462,Foreign used,D,Petrol,Automatic,gold,5274000,5
+Toyota,4Runner,2004,95805,Nigerian used,D,Petrol,Automatic,silver,2026000,17
+Land Rover,Range Rover Sport,2009,138808,Nigerian used,D,Petrol,Automatic,black,2810000,12
+Mercedes-Benz,C320,2002,292164,Nigerian used,C,Petrol,Automatic,silver,962000,19
+Toyota,Camry,1998,276282,Nigerian used,D,Petrol,Automatic,gold,906000,23
+Ford,Escape,2013,206590,Nigerian used,C,Petrol,Automatic,grey,4154000,8
+Porsche,Boxster,2003,130507,Foreign used,D,Petrol,Manual,silver,4714000,18
+Toyota,Tundra,2012,109463,Foreign used,E,Petrol,Automatic,grey,6170000,9
+Peugeot,406,2000,42062,Nigerian used,D,Petrol,Automatic,silver,906000,21
+Mitsubishi,Montero,2002,118533,Nigerian used,D,Petrol,Automatic,black,682000,19
+Toyota,Venza,2009,97207,Nigerian used,C,Petrol,Automatic,black,4266000,12
+Honda,Pilot,2005,122361,Nigerian used,E,Petrol,Automatic,blue,906000,16
+Land Rover,Range Rover Sport,2008,167514,Foreign used,C,Petrol,Automatic,white,3385000,13
+Lexus,Rx 350,2008,86079,Nigerian used,C,Petrol,Automatic,black,3594000,13
+Volkswagen,Jetta,2011,93865,Nigerian used,D,Petrol,Manual,brown,1466000,10
+Mitsubishi,L200,2014,109895,Nigerian used,E,Petrol,Manual,white,2922000,7
+Toyota,Hilux,2007,339935,Nigerian used,D,Petrol,Manual,white,2810000,14
+Peugeot,307,2004,238198,Foreign used,D,Petrol,Manual,wine,1522000,17
+Land Rover,Range Rover HSE,2008,123000,Nigerian used,D,Petrol,Automatic,black,2810000,13
+Peugeot,307,2002,142197,Foreign used,C,Petrol,Automatic,black,1522000,19
+Honda,Pilot,2005,217266,Nigerian used,D,Petrol,Automatic,brown,1466000,16
+Toyota,Rav4,2004,159010,Nigerian used,D,Petrol,Automatic,black,1360000,17
+Honda,Accord,2008,176909,Nigerian used,D,Petrol,Automatic,black,1466000,13
+Toyota,Avensis,2011,164491,Nigerian used,C,Petrol,Automatic,black,2474000,10
+Lexus,Rx 300,2000,218484,Nigerian used,E,Petrol,Automatic,grey,1914000,21
+Mercedes-Benz,C300,2008,197326,Nigerian used,C,Petrol,Automatic,white,2474000,13
+Toyota,Solara,2008,114633,Foreign used,D,Petrol,Automatic,grey,2810000,13
+Nissan,Pathfinder,2002,134004,Nigerian used,D,Petrol,Automatic,blue,570000,19
+Toyota,Camry,2004,135165,Nigerian used,E,Petrol,Automatic,black,1130000,17
+Mercedes-Benz,E350,2011,41124,Foreign used,C,Petrol,Automatic,white,5834000,10
+Honda,Accord Crosstour,2010,80017,Nigerian used,C,Petrol,Automatic,black,2698000,11
+Hyundai,Elantra,2008,129927,Nigerian used,C,Petrol,Automatic,black,1242000,13
+Toyota,Avensis,2009,178646,Nigerian used,D,Petrol,Automatic,purple,2474000,12
+Toyota,Highlander,2001,162578,Nigerian used,C,Petrol,Automatic,ash,2026000,20
+Dodge,Journey,2009,138131,Nigerian used,E,Petrol,Automatic,white,1250000,12
+Mercedes-Benz,E280,2007,72023,Nigerian used,D,Petrol,Automatic,black,1466000,14
+Toyota,Corolla,2008,153731,Nigerian used,E,Petrol,Automatic,black,1074000,13
+Toyota,Corolla,2005,128547,Nigerian used,D,Petrol,Automatic,red,1578000,16
+Mitsubishi,Endeavor,2004,218372,Nigerian used,E,Petrol,Automatic,red,1130000,17
+Honda,Pilot,2009,74845,Nigerian used,C,Petrol,Automatic,blue,2832500,12
+BMW,X5,2008,110861,Foreign used,E,Petrol,Automatic,white,2810000,13
+Toyota,Camry,2003,184976,Nigerian used,D,Petrol,Automatic,green,1690000,18
+Mercedes-Benz,C250,2011,110753,Foreign used,C,Petrol,Manual,white,3930000,10
+Toyota,Corolla,2009,178020,Nigerian used,C,Petrol,Automatic,blue,2597200,12
+Kia,Carens,2003,136038,Nigerian used,D,Petrol,Manual,grey,910000,18
+Toyota,Camry,2009,191467,Foreign used,D,Petrol,Automatic,silver,2586000,12
+Mercedes-Benz,C300,2009,95702,Foreign used,D,Petrol,Manual,silver,3706000,12
+Mazda,Mx-5 Miata,2011,9864,Nigerian used,C,Petrol,Manual,red,5050000,10
+Toyota,Camry,2007,196060,Nigerian used,C,Petrol,Automatic,black,2082000,14
+Nissan,Pathfinder,2014,7713,Nigerian used,B,Petrol,Automatic,black,6000000,7
+Renault,Kangoo,2005,297800,Foreign used,D,Petrol,Automatic,black,1354000,16
+Kia,Rio,2011,133436,Nigerian used,D,Petrol,Manual,blue,794000,10
+Toyota,Land Cruiser Prado,2009,140321,Nigerian used,C,Petrol,Automatic,silver,5302000,12
+Ford,Escape,2014,69530,Nigerian used,C,Petrol,Automatic,red,3957500,7
+Toyota,Land Cruiser,2008,182811,Nigerian used,D,Petrol,Automatic,black,3957500,13
+Land Rover,Range Rover Sport,2006,179633,Foreign used,C,Petrol,Automatic,white,5050000,15
+Toyota,Camry,2013,78355,Foreign used,C,Petrol,Automatic,black,4602000,8
+Nissan,Kicks,2019,19493,Nigerian used,D,Petrol,Automatic,grey,6730000,2
+Toyota,Highlander,2002,82926,Nigerian used,D,Petrol,Automatic,ash,1634000,19
+Skoda,Fabia,2011,231563,Nigerian used,D,Petrol,Automatic,grey,794000,10
+Chevrolet,Trailblazer,2008,225848,Foreign used,C,Petrol,Automatic,black,1932500,13
+Lexus,Rx 330,2005,1410,Nigerian used,E,Petrol,Automatic,gold,3034000,16
+Acura,Mdx,2003,145434,Nigerian used,E,Petrol,Automatic,ash,1201250,18
+Lexus,Es 350,2007,119851,Foreign used,C,Petrol,Automatic,grey,4154000,14
+Ford,Escape,2014,49215,Nigerian used,C,Petrol,Automatic,black,3930000,7
+Volkswagen,Passat,2008,103380,Nigerian used,E,Petrol,Automatic,grey,850000,13
+Mitsubishi,L200,2013,123713,Nigerian used,D,Petrol,Manual,white,1690000,8
+Infiniti,G,2005,57216,Nigerian used,D,Petrol,Automatic,red,1466000,16
+Mercedes-Benz,Slk350,2006,111079,Foreign used,D,Petrol,Automatic,black,2922000,15
+Toyota,Corolla,2014,28586,Foreign used,C,Petrol,Automatic,black,5870000,7
+Mitsubishi,L200,2013,160007,Nigerian used,E,Petrol,Manual,white,2698000,8
+Ford,Escape,2008,324614,Nigerian used,D,Petrol,Automatic,green,1242000,13
+Lexus,Gs 300,2001,99391,Foreign used,D,Petrol,Automatic,black,2026000,20
+Hyundai,Sonata,2013,15711,Nigerian used,D,Petrol,Automatic,white,3706000,8
+Toyota,Avalon,2000,137091,Nigerian used,E,Petrol,Automatic,silver,1018000,21
+Ford,Edge,2007,213437,Nigerian used,E,Petrol,Automatic,green,2045000,14
+Toyota,Highlander,2011,52568,Nigerian used,C,Petrol,Automatic,black,5610000,10
+Jeep,Liberty,2002,126591,Nigerian used,E,Petrol,Automatic,silver,751250,19
+Mercedes-Benz,C280,2006,107493,Nigerian used,D,Petrol,Automatic,silver,906000,15
+Toyota,Camry,2002,234033,Foreign used,C,Petrol,Automatic,black,2250000,19
+Toyota,Sienna,2008,125469,Nigerian used,D,Petrol,Automatic,silver,2978000,13
+Toyota,Corolla,2005,172618,Nigerian used,E,Petrol,Automatic,grey,1482500,16
+Toyota,Sienna,2011,62701,Foreign used,D,Petrol,Automatic,white,5645000,10
+Honda,Accord,2003,193490,Nigerian used,D,Petrol,Automatic,silver,794000,18
+Peugeot,407,2006,69745,Foreign used,E,Diesel,Manual,silver,1932500,15
+Toyota,Camry,2007,160649,Foreign used,D,Petrol,Automatic,grey,2810000,14
+Toyota,Corolla,2006,143272,Nigerian used,D,Petrol,Automatic,black,1595000,15
+Honda,Accord,2008,150492,Foreign used,C,Petrol,Automatic,blue,2270000,13
+Toyota,Venza,2011,185479,Foreign used,C,Petrol,Automatic,white,6320000,10
+Mercedes-Benz,Ml350,2008,70513,Nigerian used,C,Petrol,Automatic,blue,3930000,13
+Toyota,Rav4,2008,141772,Nigerian used,E,Petrol,Automatic,black,1690000,13
+Toyota,Camry,2005,191528,Foreign used,D,Petrol,Automatic,silver,2257500,16
+Toyota,Avalon,2003,206161,Nigerian used,D,Petrol,Automatic,grey,1354000,18
+Lexus,Rx 300,2000,264326,Foreign used,D,Petrol,Automatic,gold,2485000,21
+Volvo,S80,2000,165393,Nigerian used,E,Petrol,Automatic,silver,807500,21
+Hyundai,Genesis,2014,152208,Foreign used,C,Petrol,Automatic,black,6170000,7
+Mercedes-Benz,C300,2012,153769,Foreign used,C,Petrol,Automatic,black,5610000,9
+Mercedes-Benz,Ml350,2006,201670,Nigerian used,D,Petrol,Automatic,sky blue,2810000,15
+Volkswagen,Touareg,2003,139732,Nigerian used,D,Petrol,Automatic,blue,1242000,18
+Lexus,Gs 300,2006,147574,Foreign used,C,Petrol,Automatic,black,3620000,15
+Honda,Accord,2003,247061,Nigerian used,E,Petrol,Automatic,gold,1018000,18
+Toyota,Fortuner,2013,116649,Nigerian used,D,Petrol,Automatic,black,5860000,8
+Toyota,Camry,2009,78299,Nigerian used,D,Petrol,Automatic,silver,2250000,12
+Ford,Edge,2011,50600,Nigerian used,D,Petrol,Automatic,silver,3146000,10
+Toyota,Tacoma,2008,158043,Nigerian used,D,Petrol,Automatic,red,5050000,13
+Mercedes-Benz,C180,2001,204140,Foreign used,D,Petrol,Manual,black,1242000,20
+Honda,Accord Crosstour,2010,136281,Nigerian used,C,Petrol,Automatic,white,3034000,11
+Honda,Odyssey,2000,206805,Nigerian used,D,Petrol,Automatic,grey,807500,21
+Toyota,Camry,2009,51859,Nigerian used,C,Hybrid,Automatic,grey,2270000,12
+Mercedes-Benz,E240,2004,285813,Nigerian used,C,Petrol,Automatic,black,1370000,17
+Toyota,4Runner,2005,192488,Foreign used,D,Petrol,Automatic,black,3818000,16
+Lexus,Rx 300,2001,122080,Nigerian used,E,Petrol,Automatic,grey,1257500,20
+Mercedes-Benz,C300,2008,125233,Nigerian used,C,Petrol,Automatic,black,2832500,13
+Toyota,Camry,2009,74937,Nigerian used,E,Petrol,Automatic,grey,1858000,12
+Toyota,Sienna,2005,205780,Foreign used,D,Petrol,Automatic,gold,2586000,16
+Lexus,Rx 330,2004,111128,Nigerian used,C,Petrol,Automatic,gold,2888750,17
+Infiniti,Qx,2001,187665,Nigerian used,D,Petrol,Automatic,black,638750,20
+Honda,Odyssey,2003,215678,Foreign used,E,Petrol,Automatic,grey,1578000,18
+Audi,Q7,2007,86954,Nigerian used,E,Petrol,Automatic,black,1802000,14
+Toyota,Camry,2014,85284,Foreign used,E,Petrol,Automatic,blue,4826000,7
+Toyota,Corolla,2009,157207,Nigerian used,C,Petrol,Automatic,red,2026000,12
+Toyota,Highlander,2005,333875,Foreign used,E,Petrol,Automatic,blue,2607500,16
+Toyota,Matrix,2010,174452,Nigerian used,D,Petrol,Automatic,black,2270000,11
+Lexus,Rx 350,2008,75168,Nigerian used,D,Petrol,Automatic,gold,3620000,13
+Lexus,Gx470,2006,145609,Nigerian used,D,Petrol,Automatic,green,2474000,15
+Toyota,Camry,2009,144283,Foreign used,D,Petrol,Automatic,black,2597500,12
+Toyota,Camry,2010,95650,Nigerian used,E,Petrol,Automatic,black,3370000,11
+Hyundai,Elantra,2014,75559,Nigerian used,C,Petrol,Automatic,black,2474000,7
+Toyota,Corolla,2014,78599,Nigerian used,C,Petrol,Automatic,black,3732500,7
+Toyota,Avalon,2006,240065,Nigerian used,E,Petrol,Automatic,grey,2035000,15
+Peugeot,406,2004,266745,Nigerian used,D,Petrol,Manual,blue,1032500,17
+Honda,Pilot,2009,89701,Nigerian used,E,Petrol,Automatic,grey,2157500,12
+Volkswagen,CC,2013,85793,Nigerian used,D,Petrol,Automatic,blue,2485000,8
+Toyota,Camry,1998,177341,Nigerian used,D,Petrol,Automatic,green,695000,23
+Toyota,Venza,2009,111974,Nigerian used,C,Petrol,Automatic,brown,4407500,12
+Mitsubishi,Pajero,2013,167828,Nigerian used,C,Petrol,Automatic,black,3706000,8
+Honda,Accord,2003,136395,Nigerian used,C,Petrol,Automatic,silver,1145000,18
+Toyota,Venza,2009,160532,Nigerian used,C,Petrol,Automatic,grey,4520000,12
+Infiniti,Qx,1999,142622,Nigerian used,D,Petrol,Automatic,gold,920000,22
+Chevrolet,Aveo,2009,36146,Nigerian used,D,Petrol,Manual,silver,413750,12
+Toyota,Corolla,2010,230414,Nigerian used,D,Petrol,Automatic,grey,2495000,11
+Mercedes-Benz,Clk200,2001,217389,Foreign used,C,Petrol,Automatic,silver,1707500,20
+Toyota,Camry,2003,206369,Nigerian used,E,Petrol,Automatic,grey,1354000,18
+Land Rover,Lr4,2010,53941,Nigerian used,E,Petrol,Automatic,black,3930000,11
+Mercedes-Benz,Glk350,2010,112830,Nigerian used,D,Petrol,Automatic,white,5274000,11
+Hyundai,Tucson,2005,119552,Foreign used,E,Petrol,Automatic,black,1303750,16
+Hyundai,Elantra,2005,48428,Nigerian used,C,Petrol,Automatic,black,1257500,16
+Acura,Mdx,2004,192204,Nigerian used,D,Petrol,Automatic,silver,1145000,17
+Ford,Focus,2013,76360,Nigerian used,C,Petrol,Automatic,black,2474000,8
+Mercedes-Benz,C300,2011,211611,Foreign used,D,Petrol,Automatic,black,5050000,10
+Hyundai,Accent,2011,98443,Nigerian used,C,Petrol,Manual,silver,1578000,10
+Toyota,Land Cruiser,2007,104948,Nigerian used,D,Petrol,Automatic,purple,3395000,14
+Toyota,Tundra,2008,105635,Foreign used,D,Petrol,Automatic,blue,5420000,13
+Chrysler,Pt Cruiser,2002,81377,Nigerian used,E,Petrol,Automatic,wine,695000,19
+Toyota,Rav4,2002,219542,Nigerian used,E,Petrol,Automatic,black,1018000,19
+Toyota,Camry,2013,123671,Foreign used,D,Petrol,Automatic,red,5162000,8
+Land Rover,Lr3,2005,117067,Nigerian used,D,Petrol,Automatic,red,2832500,16
+Honda,Civic,2013,45681,Nigerian used,C,Petrol,Automatic,brown,2832500,8
+Honda,Accord Crosstour,2012,117411,Foreign used,D,Petrol,Automatic,black,3818000,9
+Ford,Fiesta,2014,136588,Nigerian used,D,Petrol,Automatic,silver,962000,7
+Toyota,Camry,2009,202408,Foreign used,E,Petrol,Automatic,grey,3146000,12
+Toyota,Camry,2002,282788,Nigerian used,D,Petrol,Automatic,white,1257500,19
+Toyota,Rav4,2009,165345,Foreign used,D,Petrol,Automatic,red,4407500,12
+Ford,Edge,2011,121833,Nigerian used,E,Petrol,Automatic,black,3370000,10
+Nissan,Armada,2007,124514,Nigerian used,D,Petrol,Automatic,wine,1932500,14
+BMW,318i,2005,241957,Foreign used,C,Petrol,Automatic,blue,2607500,16
+Toyota,Highlander,2008,179690,Foreign used,C,Petrol,Automatic,gold,5162000,13
+Volkswagen,Golf,1999,244494,Nigerian used,D,Petrol,Automatic,blue,695000,22
+Mercedes-Benz,E350,2010,141377,Nigerian used,C,Petrol,Automatic,black,5645000,11
+Lexus,Is,2007,171442,Foreign used,D,Petrol,Automatic,black,3818000,14
+Hyundai,Elantra,2012,100123,Nigerian used,D,Petrol,Automatic,red,2400000,9
+Hyundai,I10,2015,33312,Nigerian used,B,Petrol,Automatic,grey,2250000,6
+Volkswagen,Passat,2002,172194,Nigerian used,D,Petrol,Automatic,green,906000,19
+Honda,Accord,2012,63491,Nigerian used,C,Petrol,Automatic,black,2832500,9
+BMW,X3,2004,128357,Foreign used,C,Petrol,Automatic,black,2698000,17
+Lexus,Es 350,2009,94931,Foreign used,E,Petrol,Automatic,grey,4378000,12
+Land Rover,Range Rover Sport,2006,145349,Nigerian used,E,Petrol,Automatic,grey,1914000,15
+Toyota,Rav4,2006,152938,Nigerian used,D,Petrol,Automatic,blue,2082000,15
+Lexus,Rx 300,2000,280167,Foreign used,D,Petrol,Automatic,white,2586000,21
+Volkswagen,Passat,1994,308055,Nigerian used,E,Petrol,Manual,blue,526250,27
+Toyota,Corona,2001,129702,Nigerian used,E,Petrol,Automatic,red,682000,20
+Infiniti,Qx,2001,295351,Nigerian used,D,Petrol,Automatic,gold,863750,20
+Toyota,Camry,2002,152893,Nigerian used,D,Petrol,Automatic,silver,1280000,19
+Toyota,Sienna,2005,111663,Nigerian used,E,Petrol,Automatic,gold,1707500,16
+Honda,Pilot,2003,300949,Nigerian used,D,Petrol,Automatic,brown,807500,18
+Ford,Expedition,2012,46762,Nigerian used,E,Petrol,Automatic,black,6170000,9
+Toyota,Highlander,2004,138716,Nigerian used,E,Petrol,Automatic,black,1802000,17
+Lexus,Es 330,2004,56145,Nigerian used,E,Petrol,Automatic,blue,1802000,17
+Acura,Mdx,2008,177728,Nigerian used,E,Petrol,Automatic,grey,2082000,13
+Peugeot,206,2004,315540,Foreign used,E,Diesel,Manual,white,1914000,17
+Toyota,Corolla,2008,86497,Foreign used,D,Petrol,Automatic,red,2810000,13
+Infiniti,G,2007,321618,Nigerian used,C,Petrol,Automatic,black,1634000,14
+Kia,Optima,2009,171306,Nigerian used,C,Petrol,Automatic,red,1370000,12
+Mercedes-Benz,C63 Amg,2013,44258,Nigerian used,C,Petrol,Automatic,silver,6770000,8
+Toyota,Hilux,2010,264563,Nigerian used,E,Petrol,Automatic,white,4714000,11
+Toyota,Corolla,2006,189488,Nigerian used,D,Petrol,Automatic,grey,1651250,15
+Toyota,Camry,2002,170813,Nigerian used,D,Petrol,Automatic,grey,1370000,19
+Jeep,Grand Cherokee,2008,186659,Foreign used,D,Petrol,Automatic,white,2147500,13
+Chevrolet,Aveo,2009,103185,Nigerian used,E,Petrol,Automatic,black,962000,12
+Renault,ESPACE,2002,287116,Nigerian used,E,Petrol,Manual,green,738000,19
+Toyota,Corolla,2003,330259,Nigerian used,E,Petrol,Automatic,blue,1482500,18
+Mitsubishi,L200,2013,94171,Nigerian used,D,Diesel,Manual,white,2754000,8
+Toyota,Avalon,2005,113341,Foreign used,C,Petrol,Automatic,silver,2382500,16
+Toyota,Camry,2007,132902,Nigerian used,C,Petrol,Automatic,gold,2866000,14
+Nissan,Murano,2010,47538,Nigerian used,C,Petrol,Automatic,black,2495000,11
+Toyota,Venza,2010,85502,Nigerian used,C,Petrol,Automatic,red,4520000,11
+Mercedes-Benz,Ml350,2009,159336,Foreign used,C,Petrol,Automatic,black,5498000,12
+Mercedes-Benz,Glk350,2010,161289,Nigerian used,C,Petrol,Automatic,black,6170000,11
+Mitsubishi,L200,2010,244347,Nigerian used,D,Petrol,Manual,white,1482500,11
+Toyota,Avalon,2004,204186,Nigerian used,E,Petrol,Automatic,white,794000,17
+Toyota,Corolla,2008,150267,Foreign used,C,Petrol,Automatic,grey,3034000,13
+Honda,Odyssey,2005,296932,Nigerian used,D,Petrol,Automatic,silver,1802000,16
+Nissan,Xterra,2005,82547,Nigerian used,D,Petrol,Automatic,black,1145000,16
+Mitsubishi,Montero,2001,220938,Nigerian used,E,Petrol,Automatic,red,516250,20
+Nissan,Pathfinder,2006,145037,Nigerian used,D,Petrol,Automatic,black,1032500,15
+Honda,Civic,2010,184297,Foreign used,E,Petrol,Manual,black,1370000,11
+Toyota,Sienna,2007,255341,Foreign used,E,Petrol,Automatic,silver,2810000,14
+Mercedes-Benz,Gl450,2008,170445,Foreign used,C,Petrol,Automatic,silver,4154000,13
+Mercedes-Benz,Gl450,2010,122071,Nigerian used,D,Petrol,Automatic,black,3395000,11
+Toyota,Camry,2004,224049,Nigerian used,E,Petrol,Automatic,grey,1578000,17
+Nissan,Maxima,2010,165866,Nigerian used,D,Petrol,Automatic,silver,962000,11
+Honda,Pilot,2004,114271,Nigerian used,C,Petrol,Automatic,grey,1032500,17
+Infiniti,G,2009,157356,Nigerian used,C,Petrol,Automatic,black,1538750,12
+Toyota,Camry,2009,93172,Foreign used,C,Petrol,Automatic,silver,3168400,12
+Opel,Zafira,2004,252752,Foreign used,C,Petrol,Manual,blue,1595000,17
+Toyota,Matrix,2006,38790,Nigerian used,E,Petrol,Automatic,grey,1774000,15
+Honda,Odyssey,2006,189935,Nigerian used,C,Petrol,Automatic,silver,2026000,15
+Toyota,Sienna,1999,240341,Nigerian used,E,Petrol,Automatic,grey,695000,22
+Nissan,X-Trail,2010,104888,Nigerian used,D,Petrol,Automatic,grey,1820000,11
+Toyota,Highlander,2008,86273,Nigerian used,C,Petrol,Automatic,blue,3845000,13
+Land Rover,Range Rover HSE,2007,170995,Foreign used,D,Petrol,Automatic,black,3395000,14
+Toyota,Camry,2012,165629,Nigerian used,C,Petrol,Automatic,black,3395000,9
+Toyota,Camry,2013,71510,Nigerian used,C,Petrol,Automatic,black,4154000,8
+Mazda,6,2004,298673,Nigerian used,C,Petrol,Automatic,blue,920000,17
+Toyota,Sienna,2014,138163,Nigerian used,C,Petrol,Automatic,white,5420000,7
+Lexus,Rx 300,1999,98454,Nigerian used,C,Petrol,Automatic,white,2250000,22
+BMW,5 Series,2004,131573,Nigerian used,D,Petrol,Automatic,green,976250,17
+Toyota,Corolla,2013,191983,Foreign used,C,Petrol,Automatic,white,5050000,8
+Toyota,Hilux,2008,239473,Nigerian used,E,Petrol,Manual,blue,5498000,13
+Nissan,Almera,2005,110045,Nigerian used,E,Petrol,Manual,black,751250,16
+Renault,Duster,2004,29955,Nigerian used,C,Petrol,Automatic,grey,1707500,17
+Toyota,Sienna,2009,127053,Nigerian used,D,Petrol,Automatic,grey,2026000,12
+Mercedes-Benz,GL 450,2006,127589,Nigerian used,C,Petrol,Automatic,grey,2500000,15
+BMW,320i,2008,212354,Nigerian used,E,Petrol,Automatic,white,928400,13
+Hyundai,Ix35,2011,101077,Nigerian used,C,Petrol,Automatic,grey,4520000,10
+Lexus,Rx 330,2004,20922,Foreign used,D,Petrol,Automatic,black,3594000,17
+Toyota,Sienna,1999,159368,Nigerian used,E,Petrol,Automatic,wine,807500,22
+Honda,Pilot,2004,137546,Nigerian used,C,Petrol,Automatic,black,1538750,17
+Toyota,Corolla,1999,148074,Nigerian used,E,Petrol,Automatic,green,526250,22
+Lexus,Rx 350,2008,81131,Nigerian used,C,Petrol,Automatic,gold,4295000,13
+Toyota,Camry,2003,266150,Nigerian used,E,Petrol,Automatic,silver,1595000,18
+Chevrolet,Aveo,2006,182580,Nigerian used,E,Petrol,Manual,blue,582500,15
+Toyota,Sienna,2007,190384,Foreign used,C,Petrol,Automatic,blue,2810000,14
+Kia,Rio,2007,142835,Nigerian used,C,Petrol,Automatic,silver,794000,14
+Mercedes-Benz,C240,2004,299155,Nigerian used,E,Petrol,Automatic,silver,850000,17
+Toyota,Venza,2009,69422,Nigerian used,C,Petrol,Automatic,brown,5082500,12
+Toyota,Camry,1998,197421,Nigerian used,E,Petrol,Automatic,black,807500,23
+Mazda,Cx-7,2011,94440,Foreign used,C,Petrol,Automatic,black,3594000,10
+Skoda,Octavia,2008,155585,Nigerian used,C,Petrol,Manual,black,1130000,13
+Nissan,Pathfinder,1997,285506,Nigerian used,D,Petrol,Automatic,black,695000,24
+Acura,Mdx,2008,201624,Nigerian used,D,Petrol,Automatic,wine,2698000,13
+Toyota,Corolla,2012,76324,Nigerian used,D,Petrol,Automatic,grey,2495000,9
+Toyota,Corolla,2005,119481,Foreign used,C,Petrol,Automatic,gold,2714800,16
+Toyota,Sienna,2002,144742,Nigerian used,D,Petrol,Automatic,silver,1130000,19
+Lexus,Es 300,2002,67845,Nigerian used,C,Petrol,Automatic,silver,1578000,19
+Toyota,Corolla,2010,162650,Nigerian used,E,Petrol,Automatic,black,2250000,11
+Toyota,Corolla,2005,153381,Nigerian used,C,Petrol,Manual,black,850000,16
+Infiniti,Fx,2003,147837,Nigerian used,E,Petrol,Automatic,silver,2026000,18
+Honda,Accord,2003,227795,Nigerian used,E,Petrol,Automatic,black,962000,18
+Honda,Accord,2003,231072,Nigerian used,D,Petrol,Automatic,wine,741250,18
+Chevrolet,Aveo,2006,84354,Nigerian used,D,Petrol,Automatic,blue,682000,15
+Mercedes-Benz,Gl450,2011,82218,Nigerian used,D,Petrol,Automatic,black,5645000,10
+Land Rover,Range Rover Sport,2006,89626,Nigerian used,C,Petrol,Automatic,black,3957500,15
+Mercedes-Benz,Gl450,2008,110507,Nigerian used,E,Petrol,Automatic,silver,2832500,13
+Land Rover,Range Rover Sport,2007,48915,Nigerian used,E,Petrol,Automatic,black,1914000,14
+Honda,Accord,1996,294674,Nigerian used,D,Petrol,Automatic,black,301250,25
+Toyota,Highlander,2010,150201,Foreign used,D,Petrol,Automatic,silver,5645000,11
+Toyota,Camry,2000,216845,Nigerian used,C,Petrol,Automatic,black,807500,21
+Pontiac,Vibe,2005,128304,Nigerian used,C,Petrol,Automatic,blue,1932500,16
+Honda,Accord,2006,143974,Nigerian used,D,Petrol,Automatic,grey,1257500,15
+Honda,Cr-V,2010,110801,Nigerian used,D,Petrol,Automatic,blue,1914000,11
+Mazda,Cx-7,2009,194594,Nigerian used,D,Petrol,Automatic,black,1753750,12
+Honda,Accord Crosstour,2010,91012,Nigerian used,D,Petrol,Automatic,black,2270000,11
+Mitsubishi,L200,2007,154738,Nigerian used,E,Diesel,Manual,white,1707500,14
+Toyota,Camry,2002,124022,Nigerian used,D,Petrol,Automatic,blue,1257500,19
+Mercedes-Benz,Gl550,2010,119031,Nigerian used,D,Petrol,Automatic,white,4295000,11
+Toyota,Avensis,2007,131352,Nigerian used,D,Petrol,Automatic,silver,1167500,14
+Mercury,Villager,1999,169252,Nigerian used,E,Petrol,Automatic,wine,797500,22
+Hyundai,Elantra,2012,62777,Nigerian used,C,Petrol,Automatic,white,3170000,9
+Ford,Ranger,2007,13808,Nigerian used,E,Diesel,Manual,blue,920000,14
+Land Rover,Range Rover Vogue,2010,197648,Nigerian used,E,Diesel,Automatic,grey,2045000,11
+Honda,Cr-V,2007,47483,Nigerian used,C,Petrol,Automatic,grey,1707500,14
+Toyota,Camry,2004,155724,Nigerian used,E,Petrol,Automatic,black,1242000,17
+Lexus,GS 350,2010,98889,Foreign used,E,Petrol,Automatic,red,3057500,11
+Honda,Accord,2008,103850,Nigerian used,C,Petrol,Automatic,black,1370000,13
+Toyota,Camry,2009,200705,Foreign used,C,Petrol,Automatic,grey,3258000,12
+Chrysler,300,2006,113316,Nigerian used,D,Petrol,Automatic,black,1088750,15
+Jeep,Liberty,2008,161314,Foreign used,C,Petrol,Automatic,black,4042000,13
+Toyota,Avensis,2007,135917,Nigerian used,C,Petrol,Automatic,silver,1932500,14
+Hyundai,Accent,2009,103980,Nigerian used,E,Petrol,Manual,silver,1018000,12
+Mitsubishi,Montero,2003,194016,Nigerian used,D,Petrol,Automatic,silver,526250,18
+Ford,Econoline,2009,101497,Nigerian used,D,Petrol,Automatic,white,1242000,12
+Honda,Accord,2006,197890,Nigerian used,D,Petrol,Automatic,red,920000,15
+Toyota,Avalon,2008,105654,Nigerian used,C,Petrol,Automatic,wine,1634000,13
+Mercedes-Benz,Ml350,2006,159847,Nigerian used,D,Petrol,Automatic,black,2607500,15
+Acura,Legend,2002,208163,Nigerian used,E,Petrol,Automatic,black,582500,19
+Kia,Cerato,2009,102633,Nigerian used,D,Petrol,Manual,black,1186000,12
+Lexus,Rx 330,2004,106879,Nigerian used,D,Petrol,Automatic,silver,2138000,17
+Nissan,Altima,2007,230454,Foreign used,D,Petrol,Automatic,grey,1746000,14
+Nissan,Versa,1991,195221,Nigerian used,E,Petrol,Manual,brown,592625,30
+Lexus,Rx 350,2008,76401,Nigerian used,E,Petrol,Automatic,grey,2922000,13
+Peugeot,406,1998,113028,Nigerian used,E,Petrol,Manual,black,570000,23
+Volkswagen,Passat,2013,61462,Nigerian used,C,Petrol,Automatic,grey,2270000,8
+Lexus,Rx 330,2004,243337,Nigerian used,D,Petrol,Automatic,grey,2045000,17
+Honda,Cr-V,2007,306026,Foreign used,C,Petrol,Automatic,red,3057500,14
+Mitsubishi,Montero,2004,266801,Nigerian used,E,Petrol,Automatic,gold,1257500,17
+Toyota,Sienna,2004,264520,Nigerian used,D,Petrol,Automatic,blue,751250,17
+Nissan,Pathfinder,2002,159628,Nigerian used,D,Petrol,Automatic,black,526250,19
+BMW,3 Series,2005,159325,Nigerian used,D,Petrol,Automatic,white,1495000,16
+Lexus,Rx 300,2000,293311,Nigerian used,D,Petrol,Automatic,black,1538750,21
+Nissan,Altima,2015,91262,Foreign used,C,Petrol,Automatic,black,3722500,6
+Honda,Odyssey,2004,247226,Foreign used,E,Petrol,Automatic,grey,1360000,17
+Peugeot,307,2005,258276,Nigerian used,C,Petrol,Automatic,grey,751250,16
+Honda,Accord Crosstour,2010,98345,Nigerian used,C,Petrol,Automatic,black,3395000,11
+Peugeot,307,2002,301989,Nigerian used,D,Petrol,Automatic,silver,751250,19
+Nissan,Versa,2007,283405,Foreign used,E,Petrol,Automatic,grey,1690000,14
+Toyota,Camry,2002,121098,Nigerian used,C,Petrol,Automatic,silver,1370000,19
+Toyota,Solara,2004,165541,Nigerian used,D,Petrol,Automatic,black,1242000,17
+Kia,Sportage,2012,158107,Nigerian used,E,Petrol,Automatic,black,1914000,9
+Hyundai,Santa Fe,2001,217294,Nigerian used,D,Petrol,Manual,orange,491600,20
+Nissan,Xterra,2002,47379,Nigerian used,D,Petrol,Automatic,silver,1145000,19
+Mercedes-Benz,A160,2001,80640,Nigerian used,D,Petrol,Manual,green,962000,20
+Toyota,Camry,2012,43758,Nigerian used,C,Petrol,Automatic,black,3482000,9
+Chevrolet,Nubira,2006,157197,Foreign used,D,Petrol,Manual,gold,1130000,15
+Mercedes-Benz,A140,2000,180948,Nigerian used,E,Petrol,Manual,silver,695000,21
+Honda,Pilot,2003,295724,Nigerian used,D,Petrol,Automatic,green,1242000,18
+Toyota,Avalon,2006,242403,Foreign used,D,Petrol,Automatic,silver,2372500,15
+Toyota,Camry,2011,167899,Foreign used,C,Petrol,Automatic,black,3338750,10
+Lexus,Es,2004,96462,Nigerian used,E,Petrol,Automatic,black,1482500,17
+Nissan,Altima,2009,74772,Nigerian used,D,Petrol,Automatic,black,920000,12
+Toyota,Camry,2002,232785,Nigerian used,C,Petrol,Automatic,silver,1257500,19
+Toyota,Corolla,2005,132558,Foreign used,C,Petrol,Automatic,white,2362000,16
+Ford,Explorer,2002,92742,Nigerian used,C,Petrol,Automatic,white,1242000,19
+Dodge,Caravan,2006,247073,Nigerian used,C,Petrol,Automatic,blue,931250,15
+Land Rover,Range Rover HSE,2008,266831,Nigerian used,C,Petrol,Automatic,black,4154000,13
+Toyota,Highlander,2010,83713,Nigerian used,D,Petrol,Automatic,black,3722500,11
+Honda,Accord,2003,187857,Nigerian used,D,Petrol,Manual,grey,682000,18
+Lexus,Rx 300,2001,191700,Nigerian used,D,Petrol,Automatic,silver,1482500,20
+Hyundai,Accent,2012,66408,Nigerian used,E,Petrol,Automatic,black,1201250,9
+Lexus,Rx 300,1999,219299,Nigerian used,D,Petrol,Automatic,black,962000,22
+Ford,Escape,2008,148290,Foreign used,D,Petrol,Automatic,blue,1650000,13
+Mitsubishi,L200,2013,67452,Nigerian used,D,Petrol,Manual,white,2474000,8
+Toyota,Camry,2012,105292,Foreign used,D,Petrol,Automatic,silver,4955000,9
+Dodge,Ram,2014,181352,Foreign used,C,Petrol,Automatic,white,5645000,7
+Ford,Edge,2008,223091,Nigerian used,D,Petrol,Automatic,black,1690000,13
+Nissan,Primera,2004,124780,Nigerian used,D,Petrol,Manual,silver,582500,17
+Ford,Escape,2014,107084,Nigerian used,E,Petrol,Automatic,black,3930000,7
+Toyota,Camry,2011,110671,Foreign used,D,Petrol,Automatic,grey,3620000,10
+Mercedes-Benz,GL 450,2006,96114,Nigerian used,D,Petrol,Automatic,silver,3706000,15
+Peugeot,206,2009,19400,Nigerian used,C,Petrol,Automatic,silver,1482500,12
+Toyota,Avalon,2005,122265,Foreign used,D,Petrol,Automatic,gold,2157500,16
+Toyota,Camry,2007,196591,Nigerian used,D,Petrol,Automatic,silver,2270000,14
+Lexus,Is 250,2006,161718,Foreign used,E,Petrol,Automatic,black,3482000,15
+Nissan,Pathfinder,2005,176424,Nigerian used,D,Petrol,Automatic,wine,906000,16
+Hyundai,Elantra,2014,93640,Nigerian used,C,Petrol,Automatic,silver,2382500,7
+Mercedes-Benz,C300,2008,130756,Nigerian used,C,Petrol,Automatic,white,2832500,13
+Volkswagen,Passat,2012,87373,Nigerian used,D,Petrol,Automatic,silver,2157500,9
+Chrysler,Pt Cruiser,2005,87048,Nigerian used,E,Petrol,Manual,silver,403750,16
+Ford,Explorer,2009,146113,Foreign used,D,Petrol,Automatic,black,3930000,12
+Toyota,Camry,2000,225147,Nigerian used,E,Petrol,Automatic,gold,695000,21
+Toyota,Rav4,2007,125567,Nigerian used,C,Petrol,Automatic,white,2810000,14
+BMW,3 Series,2006,302006,Nigerian used,D,Petrol,Automatic,grey,1257500,15
+Toyota,Camry,2004,194476,Nigerian used,E,Petrol,Automatic,gold,1466000,17
+Toyota,Corolla,2013,130027,Nigerian used,E,Petrol,Automatic,black,1707500,8
+Toyota,Sienna,1999,234699,Nigerian used,E,Petrol,Automatic,brown,682000,22
+Honda,Pilot,2003,151451,Nigerian used,D,Petrol,Automatic,grey,1482500,18
+Toyota,Camry,2008,199111,Nigerian used,E,Petrol,Automatic,silver,2810000,13
+Toyota,Rav4,2007,232545,Foreign used,C,Petrol,Automatic,black,3146000,14
+Toyota,Highlander,2002,42320,Nigerian used,D,Petrol,Automatic,blue,1578000,19
+Infiniti,Qx,2001,136883,Nigerian used,E,Petrol,Automatic,silver,695000,20
+Lexus,Gx,2003,72688,Nigerian used,D,Petrol,Automatic,blue,2810000,18
+Ford,Explorer,2002,245960,Nigerian used,D,Petrol,Automatic,black,1354000,19
+Land Rover,Discovery,2011,74309,Nigerian used,D,Petrol,Automatic,black,3395000,10
+Honda,Pilot,2003,139251,Nigerian used,C,Petrol,Automatic,black,1482500,18
+Toyota,Camry,2001,175978,Nigerian used,D,Petrol,Automatic,green,695000,20
+Mercedes-Benz,Clk500,2006,16517,Foreign used,D,Petrol,Automatic,silver,1802000,15
+Toyota,Camry,2002,257150,Foreign used,C,Petrol,Automatic,white,2026000,19
+Toyota,Avensis,2003,85124,Nigerian used,E,Petrol,Automatic,silver,1010000,18
+Toyota,Venza,2009,45597,Nigerian used,D,Petrol,Automatic,red,4407500,12
+Toyota,Avensis,2008,299787,Foreign used,D,Petrol,Manual,grey,1354000,13
+Honda,Accord,2006,204791,Nigerian used,D,Petrol,Automatic,silver,850000,15
+Volkswagen,CC,2009,123816,Foreign used,E,Petrol,Automatic,black,2045000,12
+Honda,Accord,2009,103704,Nigerian used,E,Petrol,Automatic,black,1130000,12
+Toyota,Rav4,2010,90566,Foreign used,E,Petrol,Automatic,green,5082500,11
+Toyota,Corolla,2010,124928,Nigerian used,C,Petrol,Manual,black,1354000,11
+Nissan,Sentra,2013,154556,Nigerian used,E,Petrol,Automatic,black,2045000,8
+Toyota,Camry,2012,9780,Nigerian used,D,Petrol,Automatic,grey,3594000,9
+Lexus,Rx 300,2000,259566,Nigerian used,D,Petrol,Automatic,black,1145000,21
+Infiniti,Qx,1997,172205,Nigerian used,E,Petrol,Automatic,black,470000,24
+Toyota,Corolla,2010,192966,Nigerian used,D,Petrol,Automatic,grey,2485000,11
+Toyota,Corolla,2005,157719,Foreign used,E,Petrol,Manual,grey,2138000,16
+Mazda,6,2009,119795,Foreign used,D,Petrol,Automatic,red,1466000,12
+Mazda,Cx-7,2011,167807,Foreign used,C,Petrol,Automatic,black,2045000,10
+Honda,Accord,1999,140011,Nigerian used,E,Petrol,Manual,wine,357500,22
+Toyota,Avalon,2000,271432,Nigerian used,D,Petrol,Automatic,silver,815000,21
+Nissan,Altima,2011,141939,Foreign used,D,Petrol,Automatic,wine,2832500,10
+Honda,Accord,2008,101131,Nigerian used,E,Petrol,Automatic,red,1466000,13
+Toyota,Sienna,2008,216198,Nigerian used,D,Petrol,Automatic,blue,1472500,13
+Honda,Accord,1998,212565,Nigerian used,D,Petrol,Automatic,silver,626000,23
+Toyota,Avalon,2000,295438,Nigerian used,D,Petrol,Automatic,red,1130000,21
+Toyota,Camry,2009,249816,Foreign used,E,Petrol,Automatic,gold,3282500,12
+Toyota,Sienna,2002,125470,Nigerian used,D,Petrol,Automatic,gold,807500,19
+Acura,Mdx,2004,167458,Foreign used,C,Petrol,Automatic,brown,1914000,17
+Acura,Rdx,2008,106384,Nigerian used,D,Petrol,Automatic,grey,1932500,13
+Kia,Optima,2014,131045,Nigerian used,C,Petrol,Automatic,silver,2945000,7
+Toyota,Rav4,2007,93958,Nigerian used,D,Petrol,Automatic,blue,2474000,14
+Nissan,Rogue,2012,162211,Nigerian used,C,Petrol,Automatic,silver,2922000,9
+Toyota,Corolla,2014,61010,Nigerian used,B,Petrol,Automatic,white,4070000,7
+Volvo,Xc90,2004,122771,Nigerian used,D,Petrol,Automatic,blue,863500,17
+Lexus,Is 250,2008,130165,Foreign used,E,Petrol,Automatic,blue,3818000,13
+Toyota,Corolla,2005,146830,Nigerian used,D,Petrol,Automatic,silver,1595000,16
+Ford,Focus,2012,125997,Nigerian used,E,Petrol,Automatic,white,1130000,9
+Toyota,Camry,2006,125399,Nigerian used,E,Petrol,Automatic,black,1354000,15
+Chevrolet,Uplander,2008,75538,Foreign used,D,Petrol,Automatic,grey,1145000,13
+Nissan,Qashqai,2013,69635,Nigerian used,D,Petrol,Automatic,black,2586000,8
+Isuzu,Rodeo,1998,157426,Nigerian used,D,Petrol,Automatic,silver,751250,23
+Toyota,Highlander,2002,141654,Nigerian used,D,Petrol,Automatic,blue,1522000,19
+Honda,Pilot,2007,151274,Foreign used,C,Petrol,Automatic,grey,2250000,14
+Toyota,Matrix,2009,44927,Foreign used,E,Petrol,Automatic,silver,3202000,12
+Ford,Focus,2014,89622,Nigerian used,D,Petrol,Automatic,silver,1482500,7
+Honda,Accord,2008,112266,Nigerian used,C,Petrol,Automatic,black,1690000,13
+Toyota,Land Cruiser Prado,2004,96287,Nigerian used,D,Petrol,Automatic,black,2270000,17
+Mercedes-Benz,Ml350,2006,143975,Nigerian used,C,Petrol,Automatic,white,2720000,15
+Kia,Optima,2010,86583,Foreign used,C,Petrol,Automatic,silver,2586000,11
+BMW,3 Series,2000,223655,Nigerian used,E,Petrol,Automatic,blue,1634000,21
+Honda,Accord,2014,122177,Nigerian used,C,Petrol,Automatic,blue,6207500,7
+Toyota,Rav4,2010,75393,Foreign used,C,Petrol,Automatic,green,6506000,11
+Ford,Mondeo,1997,180332,Nigerian used,E,Petrol,Automatic,silver,357500,24
+Mitsubishi,L200,2014,53805,Nigerian used,E,Petrol,Manual,white,2810000,7
+Nissan,Maxima,2007,220976,Foreign used,D,Petrol,Automatic,silver,1347500,14
+Toyota,Camry,2008,87600,Nigerian used,D,Petrol,Automatic,blue,2495000,13
+Hyundai,Sonata,2006,160724,Foreign used,C,Petrol,Automatic,grey,2250000,15
+Volvo,S40,2001,171708,Nigerian used,D,Petrol,Automatic,grey,582500,20
+Nissan,Pathfinder,2005,96486,Nigerian used,D,Petrol,Automatic,black,863750,16
+Nissan,Pathfinder,2001,184996,Nigerian used,D,Petrol,Automatic,black,695000,20
+Hyundai,Accent,2014,76531,Nigerian used,D,Petrol,Automatic,black,1595000,7
+Acura,Tl,2005,178644,Nigerian used,D,Petrol,Automatic,silver,1354000,16
+Toyota,Avalon,2011,122287,Foreign used,D,Petrol,Automatic,white,4126250,10
+BMW,7 Series,2008,78075,Foreign used,C,Petrol,Automatic,black,4171250,13
+Toyota,Sienna,2014,80778,Foreign used,D,Petrol,Automatic,black,4602000,7
+Toyota,Rav4,2010,121504,Foreign used,E,Petrol,Automatic,black,3370000,11
+Toyota,Sienna,2003,258451,Nigerian used,E,Petrol,Automatic,white,976250,18
+Hyundai,Accent,2012,149511,Nigerian used,E,Petrol,Automatic,black,1932500,9
+Honda,Accord,2003,209486,Nigerian used,D,Petrol,Automatic,silver,853750,18
+BMW,5 Series,2004,63686,Nigerian used,D,Petrol,Automatic,brown,1370000,17
+Hyundai,Accent,2011,71854,Nigerian used,C,Petrol,Automatic,grey,1932500,10
+Peugeot,307,2004,193826,Foreign used,C,Petrol,Automatic,grey,1763750,17
+Toyota,Hilux,2012,122660,Nigerian used,D,Petrol,Manual,white,5050000,9
+Toyota,Sequoia,2003,95620,Nigerian used,E,Petrol,Automatic,ash,920000,18
+Kia,Cerato,2015,74169,Nigerian used,E,Petrol,Automatic,red,2250000,6
+Kia,Optima,2012,139498,Nigerian used,D,Petrol,Automatic,black,3057500,9
+Kia,Cerato,2007,169050,Nigerian used,D,Petrol,Automatic,silver,695000,14
+Toyota,Corolla,2015,96305,Foreign used,D,Petrol,Automatic,grey,4970000,6
+Toyota,Rav4,2006,132384,Nigerian used,C,Petrol,Automatic,black,2270000,15
+Ford,F-150,1997,138914,Nigerian used,E,Petrol,Automatic,black,1130000,24
+Hyundai,Accent,2014,103200,Nigerian used,C,Petrol,Automatic,black,1595000,7
+Toyota,Tundra,2007,113100,Nigerian used,C,Petrol,Automatic,grey,6730000,14
+Nissan,Altima,2008,210271,Foreign used,D,Petrol,Automatic,grey,1572500,13
+Toyota,Rav4,2009,219528,Foreign used,C,Petrol,Automatic,black,4070000,12
+Toyota,Camry,2005,252563,Nigerian used,E,Petrol,Automatic,grey,1354000,16
+Mazda,Mpv,2002,165373,Nigerian used,D,Petrol,Automatic,orange,526250,19
+Pontiac,Aztek,2001,238746,Nigerian used,E,Petrol,Automatic,blue,863750,20
+Mitsubishi,L200,2014,60005,Nigerian used,D,Petrol,Manual,white,2474000,7
+Honda,Accord,2011,124723,Nigerian used,D,Petrol,Automatic,black,1466000,10
+Acura,Mdx,2002,143436,Nigerian used,E,Petrol,Automatic,grey,1690000,19
+Toyota,Corolla,2009,151189,Nigerian used,D,Petrol,Manual,silver,1528750,12
+Honda,Accord,2008,101092,Nigerian used,E,Petrol,Automatic,red,1257500,13
+Honda,Civic,2007,206044,Nigerian used,C,Petrol,Automatic,blue,863750,14
+Toyota,4Runner,1999,204360,Nigerian used,D,Petrol,Automatic,green,638750,22
+Land Rover,Freelander,2002,249647,Nigerian used,D,Petrol,Automatic,green,1370000,19
+Mercedes-Benz,Ml350,2007,168826,Foreign used,C,Petrol,Automatic,white,4070000,14
+Jeep,Cherokee,1998,282072,Nigerian used,E,Petrol,Automatic,blue,962000,23
+Pontiac,Vibe,2008,152984,Foreign used,C,Petrol,Automatic,red,2776250,13
+Hyundai,Accent,2008,157924,Nigerian used,E,Petrol,Manual,grey,570000,13
+Mazda,Cx-7,2008,160860,Foreign used,D,Petrol,Automatic,grey,2551250,13
+Toyota,Corolla,2003,178148,Nigerian used,E,Petrol,Automatic,grey,1242000,18
+Ford,Flex,2010,107124,Foreign used,C,Petrol,Automatic,grey,4520000,11
+Acura,Mdx,2007,95465,Foreign used,C,Petrol,Automatic,gold,3620000,14
+Peugeot,406,2008,261624,Nigerian used,E,Petrol,Automatic,silver,695000,13
+Toyota,Matrix,2008,100820,Foreign used,C,Petrol,Automatic,black,2485000,13
+Honda,Accord Crosstour,2010,170205,Nigerian used,D,Petrol,Automatic,grey,2270000,11
+Mercedes-Benz,Ml350,2008,146450,Nigerian used,C,Petrol,Automatic,red,3957500,13
+Toyota,Venza,2012,104550,Nigerian used,C,Petrol,Automatic,grey,4490000,9
+Toyota,Corolla,2008,217208,Nigerian used,D,Petrol,Automatic,black,1707500,13
+Toyota,Corolla,2008,201805,Nigerian used,E,Petrol,Automatic,black,1354000,13
+Cadillac,Cts,2012,147543,Foreign used,C,Petrol,Automatic,black,5610000,9
+Lexus,Rx 330,2005,208912,Nigerian used,D,Petrol,Automatic,silver,2270000,16
+Lexus,Rx 300,1999,278856,Nigerian used,D,Petrol,Automatic,white,1538750,22
+Toyota,Hilux,2010,108451,Nigerian used,E,Diesel,Manual,grey,5082500,11
+Mercedes-Benz,C200,1997,191587,Nigerian used,C,Petrol,Automatic,green,1088750,24
+Suzuki,Vitara,2006,133841,Nigerian used,D,Petrol,Automatic,gold,1634000,15
+Honda,Odyssey,1997,18848,Nigerian used,E,Petrol,Automatic,silver,526250,24
+Honda,Accord,2008,185912,Nigerian used,D,Petrol,Automatic,red,1018000,13
+Lexus,Es 350,2007,180190,Foreign used,C,Petrol,Automatic,black,4154000,14
+Mercedes-Benz,C240,2000,303436,Foreign used,C,Petrol,Automatic,black,2270000,21
+Toyota,Camry,2011,73049,Nigerian used,E,Petrol,Automatic,black,1472500,10
+Toyota,Highlander,2006,223346,Foreign used,D,Petrol,Automatic,silver,3930000,15
+Mazda,Cx-7,2007,77372,Foreign used,C,Petrol,Automatic,gold,2250000,14
+Toyota,Camry,2012,102389,Foreign used,E,Petrol,Automatic,grey,4714000,9
+Mercedes-Benz,E350,2010,173113,Foreign used,C,Petrol,Automatic,silver,5610000,11
+Mazda,Mpv,2000,230900,Nigerian used,D,Petrol,Automatic,green,1032500,21
+Toyota,Camry,2007,167582,Foreign used,C,Petrol,Automatic,silver,2382500,14
+Honda,Accord,2005,165486,Nigerian used,E,Petrol,Automatic,black,751250,16
+Toyota,Camry,2007,75203,Nigerian used,D,Petrol,Automatic,gold,1970000,14
+Toyota,Corolla,2004,198444,Foreign used,C,Petrol,Automatic,gold,2530000,17
+Toyota,Corolla,1993,126608,Nigerian used,E,Petrol,Automatic,grey,571250,28
+Toyota,Camry,2007,109980,Nigerian used,D,Petrol,Automatic,blue,2270000,14
+Toyota,Corolla,2003,178198,Nigerian used,D,Petrol,Automatic,silver,1370000,18
+Honda,Accord,1999,201607,Nigerian used,D,Petrol,Automatic,grey,435600,22
+Toyota,Land Cruiser Prado,2006,80554,Nigerian used,D,Petrol,Automatic,black,3930000,15
+Mercedes-Benz,Cl500,2006,145856,Foreign used,C,Petrol,Automatic,silver,2026000,15
+Toyota,Avensis,2004,154400,Nigerian used,E,Petrol,Manual,silver,1018000,17
+Mitsubishi,SpaceStar,1995,337469,Foreign used,E,Diesel,Manual,white,2045000,26
+Mercedes-Benz,Ml350,2006,219657,Nigerian used,C,Petrol,Automatic,silver,2810000,15
+Toyota,Camry,2003,345084,Nigerian used,D,Petrol,Automatic,blue,1032500,18
+Toyota,Corolla,2003,254245,Foreign used,D,Petrol,Automatic,silver,1763750,18
+Nissan,Qashqai,2013,60946,Nigerian used,D,Petrol,Automatic,grey,1932500,8
+Nissan,Pathfinder,2004,103470,Nigerian used,D,Petrol,Automatic,silver,570000,17
+Lexus,Gx470,2005,233996,Nigerian used,D,Petrol,Automatic,gold,3146000,16
+Honda,Accord,2011,112733,Nigerian used,E,Petrol,Automatic,grey,1466000,10
+Pontiac,Torent,2006,207717,Nigerian used,C,Petrol,Automatic,red,2250000,15
+Toyota,Camry,2002,242178,Nigerian used,D,Petrol,Automatic,green,1032500,19
+Toyota,Camry,2012,95735,Foreign used,C,Petrol,Automatic,black,4490000,9
+Toyota,Camry,2012,85373,Foreign used,D,Petrol,Automatic,grey,4650000,9
+Toyota,Highlander,2002,192414,Nigerian used,C,Petrol,Automatic,gold,1370000,19
+Mini,Cooper,2002,127279,Nigerian used,D,Petrol,Manual,blue,1200000,19
+Toyota,Camry,2002,124129,Nigerian used,C,Petrol,Automatic,silver,1242000,19
+Toyota,Camry,2014,85728,Nigerian used,C,Petrol,Automatic,red,3460000,7
+Mercedes-Benz,Gl450,2007,159319,Nigerian used,E,Petrol,Automatic,gold,3930000,14
+Lexus,Es,2004,176206,Nigerian used,D,Petrol,Automatic,blue,1482500,17
+Nissan,X-Trail,2008,130367,Nigerian used,D,Petrol,Automatic,grey,1595000,13
+Land Rover,Range Rover Sport,2012,95749,Nigerian used,D,Petrol,Automatic,black,5645000,9
+Volkswagen,Passat,2003,208632,Nigerian used,D,Petrol,Automatic,silver,402000,18
+Hyundai,Accent,2009,142376,Nigerian used,E,Petrol,Manual,grey,682000,12
+Mercedes-Benz,Cls55 Amg,2006,99744,Nigerian used,D,Petrol,Automatic,white,1707500,15
+Chevrolet,Tracker,2004,143280,Nigerian used,E,Petrol,Automatic,silver,797500,17
+Mercedes-Benz,G500,2003,102432,Nigerian used,C,Petrol,Automatic,black,6207500,18
+Toyota,Camry,2005,88555,Foreign used,D,Petrol,Automatic,silver,2157500,16
+Lexus,Es 300,2002,147544,Nigerian used,D,Petrol,Automatic,white,1914000,19
+Hyundai,Sonata,2012,221823,Foreign used,C,Petrol,Automatic,silver,3845000,9
+Lexus,Gx 470,2005,215546,Nigerian used,E,Petrol,Automatic,black,2250000,16
+Toyota,Highlander,2012,80340,Nigerian used,E,Petrol,Automatic,black,5274000,9
+Ford,Transit,1999,226715,Nigerian used,D,Petrol,Manual,white,3594000,22
+Mercedes-Benz,C240,2002,79656,Nigerian used,C,Petrol,Automatic,blue,1482500,19
+Kia,Rio,2007,171896,Nigerian used,D,Petrol,Manual,black,807500,14
+Peugeot,406,2002,99999,Nigerian used,C,Petrol,Manual,blue,807500,19
+Tata,Ace,2017,26788,Nigerian used,C,Petrol,Manual,yellow,1074000,4
+Acura,Mdx,2002,228505,Nigerian used,E,Petrol,Automatic,gold,1257500,19
+Honda,Accord Crosstour,2010,119548,Foreign used,C,Petrol,Automatic,white,4266000,11
+Lexus,Es,2005,109774,Nigerian used,C,Petrol,Automatic,blue,1697500,16
+Mercedes-Benz,Ml350,2010,102351,Nigerian used,D,Petrol,Automatic,silver,3395000,11
+Mercedes-Benz,E350,2010,98169,Foreign used,C,Petrol,Automatic,blue,5946000,11
+Toyota,Camry,2012,79380,Foreign used,D,Petrol,Automatic,red,4295000,9
+Toyota,Rav4,2008,67198,Nigerian used,D,Petrol,Automatic,silver,2101250,13
+Pontiac,G6,2007,33594,Nigerian used,C,Petrol,Automatic,silver,1802000,14
+Lexus,Rx 300,2000,88287,Nigerian used,E,Petrol,Automatic,silver,1040400,21
+Toyota,Sienna,2004,36751,Nigerian used,D,Petrol,Automatic,white,1130000,17
+Toyota,Venza,2012,82991,Nigerian used,D,Petrol,Automatic,black,5498000,9
+Mercedes-Benz,C200,2001,289577,Nigerian used,D,Petrol,Automatic,silver,863750,20
+Lexus,Ls,2007,124034,Foreign used,C,Petrol,Automatic,silver,3395000,14
+Ford,Edge,2010,198387,Foreign used,D,Petrol,Automatic,silver,3146000,11
+Toyota,Camry,2007,182144,Nigerian used,D,Petrol,Automatic,gold,1802000,14
+Nissan,Armada,2004,93279,Nigerian used,C,Petrol,Automatic,blue,1145000,17
+Toyota,Highlander,2012,196343,Nigerian used,C,Petrol,Automatic,black,5610000,9
+Ford,Focus,1999,162582,Nigerian used,D,Petrol,Manual,white,695000,22
+Volvo,Xc90,2004,235720,Nigerian used,E,Petrol,Automatic,black,1130000,17
+Honda,Pilot,2004,129183,Nigerian used,E,Petrol,Automatic,silver,920000,17
+Honda,Cr-V,2006,189348,Nigerian used,C,Petrol,Manual,gold,920000,15
+Toyota,Camry,2001,260866,Nigerian used,E,Petrol,Automatic,gold,695000,20
+Toyota,Camry,2008,65658,Foreign used,E,Petrol,Automatic,green,3426000,13
+Hyundai,Sonata,2014,51564,Nigerian used,C,Petrol,Automatic,silver,4490000,7
+Honda,Pilot,2012,64183,Nigerian used,D,Petrol,Automatic,silver,4295000,9
+Toyota,Venza,2013,153819,Foreign used,C,Petrol,Automatic,black,6954000,8
+Volkswagen,Golf,2009,208532,Nigerian used,D,Diesel,Manual,black,570000,12
+Mercedes-Benz,Ml350,2011,98327,Nigerian used,C,Petrol,Automatic,white,3957500,10
+Toyota,Corolla,2010,238939,Nigerian used,C,Petrol,Automatic,black,2922000,11
+Nissan,Xterra,2007,155004,Nigerian used,D,Petrol,Automatic,grey,863750,14
+Land Rover,Range Rover Sport,2006,243566,Nigerian used,D,Petrol,Automatic,silver,2530000,15
+Mercedes-Benz,C240,2004,235412,Nigerian used,D,Petrol,Automatic,gold,794000,17
+Kia,Sportage,2009,243740,Nigerian used,D,Petrol,Automatic,black,987500,12
+Kia,Rio,2009,198296,Nigerian used,D,Petrol,Manual,black,807500,12
+Honda,Pilot,2005,166456,Nigerian used,D,Petrol,Automatic,black,1370000,16
+Chery,Tiggo,2007,42604,Nigerian used,D,Petrol,Automatic,silver,1145000,14
+Toyota,Camry,2002,233687,Nigerian used,C,Petrol,Automatic,silver,1354000,19
+Honda,Civic,2003,194565,Nigerian used,E,Petrol,Manual,gold,458000,18
+Honda,Accord Crosstour,2010,136222,Nigerian used,C,Petrol,Automatic,white,2720000,11
+Honda,Accord,2001,9080,Nigerian used,D,Petrol,Automatic,black,470000,20
+Acura,Tl,2003,123040,Nigerian used,C,Petrol,Automatic,silver,570000,18
+Acura,Mdx,2007,67274,Nigerian used,E,Petrol,Automatic,wine,2495000,14
+Nissan,X-Trail,1996,190887,Nigerian used,E,Petrol,Manual,grey,976250,25
+Hyundai,Santa Fe,2004,201636,Nigerian used,D,Petrol,Automatic,black,906000,17
+Honda,Pilot,2003,117736,Nigerian used,E,Petrol,Automatic,silver,976250,18
+Chrysler,300,2006,187811,Nigerian used,E,Petrol,Automatic,black,751250,15
+Ford,Focus,2012,132307,Nigerian used,C,Petrol,Automatic,silver,2326250,9
+Honda,Cr-V,1998,183516,Nigerian used,E,Petrol,Automatic,red,682000,23
+Ford,Edge,2007,101171,Nigerian used,D,Petrol,Automatic,red,2250000,14
+Toyota,Matrix,2004,126255,Nigerian used,D,Petrol,Automatic,blue,1466000,17
+Honda,Accord,2005,103850,Nigerian used,C,Petrol,Automatic,gold,751250,16
+Toyota,Rav4,2002,136785,Nigerian used,E,Petrol,Automatic,black,695000,19
+Toyota,Sienna,2011,140995,Foreign used,D,Petrol,Automatic,grey,4520000,10
+Honda,Accord,2008,67706,Nigerian used,D,Petrol,Automatic,blue,1426250,13
+Ford,Edge,2012,138185,Foreign used,C,Petrol,Automatic,grey,4378000,9
+Honda,Civic,2008,246233,Nigerian used,D,Petrol Electric,Automatic,red,1130000,13
+Nissan,Primera,2007,226132,Nigerian used,E,Petrol,Automatic,black,738000,14
+Toyota,Highlander,2008,75782,Foreign used,C,Petrol,Automatic,black,4882500,13
+Land Rover,Range Rover Sport,2010,20180,Nigerian used,D,Petrol,Automatic,black,5610000,11
+Toyota,Land Cruiser,2003,113996,Nigerian used,E,Petrol,Automatic,gold,2045000,18
+Honda,Accord,2000,284493,Nigerian used,D,Petrol,Automatic,gold,458000,21
+Volkswagen,Passat,2012,43972,Nigerian used,C,Petrol,Automatic,black,2270000,9
+Toyota,Highlander,2004,158967,Foreign used,E,Petrol,Automatic,grey,3170000,17
+Nissan,Murano,2005,243953,Nigerian used,E,Petrol,Automatic,blue,906000,16
+BMW,3 Series,2005,196284,Foreign used,C,Petrol,Automatic,blue,1914000,16
+Toyota,Corolla,2009,97722,Nigerian used,D,Petrol,Automatic,silver,2250000,12
+Toyota,Highlander,2008,175325,Foreign used,C,Petrol,Automatic,silver,5610000,13
+Mercedes-Benz,C240,2001,115355,Nigerian used,C,Petrol,Automatic,silver,1482500,20
+Toyota,Rav4,2006,144637,Nigerian used,E,Petrol,Automatic,white,1876250,15
+Land Rover,Range Rover Sport,2011,64861,Nigerian used,D,Petrol,Automatic,black,5946000,10
+Land Rover,Discovery,2006,58180,Nigerian used,C,Petrol,Automatic,black,2832500,15
+Chevrolet,Epica,2007,92268,Nigerian used,D,Petrol,Automatic,silver,920000,14
+Renault,Megane,2002,298958,Nigerian used,E,Petrol,Automatic,blue,514000,19
+Land Rover,Range Rover Sport,2006,76760,Nigerian used,D,Petrol,Automatic,silver,2270000,15
+Honda,Civic,2006,322325,Nigerian used,E,Petrol,Manual,black,751250,15
+Toyota,Highlander,2009,90161,Foreign used,D,Petrol,Automatic,silver,6170000,12
+Mitsubishi,L200,2013,155710,Nigerian used,D,Petrol,Manual,white,1690000,8
+Hyundai,Santa Fe,2015,83508,Nigerian used,C,Petrol,Automatic,grey,5610000,6
+Ford,Mondeo,2004,145824,Foreign used,D,Petrol,Automatic,silver,1191250,17
+Toyota,Sienna,2011,60579,Foreign used,C,Petrol,Automatic,white,6207500,10
+Toyota,Highlander,2006,181394,Nigerian used,D,Hybrid,Automatic,silver,1595000,15
+Toyota,Avanza,2007,71475,Nigerian used,D,Petrol,Manual,wine,1354000,14
+Toyota,Camry,2004,84755,Foreign used,D,Petrol,Automatic,silver,2270000,17
+Toyota,Rav4,2011,60676,Foreign used,D,Petrol,Automatic,black,3722500,10
+Honda,Civic,2007,249266,Foreign used,E,Petrol,Manual,white,1585000,14
+Mercedes-Benz,C300,2011,140592,Nigerian used,C,Petrol,Automatic,grey,3395000,10
+Lexus,Es 350,2008,109160,Nigerian used,E,Petrol,Automatic,black,2607500,13
+Honda,Accord,2008,105320,Foreign used,D,Petrol,Automatic,silver,2607500,13
+Mercedes-Benz,Ml320,1998,197865,Nigerian used,E,Petrol,Automatic,black,1145000,23
+Land Rover,Lr3,2007,116020,Foreign used,E,Petrol,Automatic,black,3773200,14
+Infiniti,Qx,2001,155906,Nigerian used,D,Petrol,Automatic,black,582500,20
+Honda,Accord,2004,92936,Nigerian used,E,Petrol,Automatic,blue,673750,17
+Tata,Ace,2017,16894,Nigerian used,C,Petrol,Manual,yellow,1074000,4
+Toyota,Tundra,2008,75228,Nigerian used,D,Petrol,Automatic,grey,6770000,13
+Mercedes-Benz,C230,2005,128712,Foreign used,D,Petrol,Automatic,silver,2495000,16
+Honda,Pilot,2009,81223,Nigerian used,D,Petrol,Automatic,grey,3395000,12
+Toyota,Camry,2003,330844,Nigerian used,D,Petrol,Automatic,grey,1242000,18
+Toyota,Sienna,2006,95199,Nigerian used,E,Petrol,Automatic,silver,920000,15
+Mercedes-Benz,Ml350,2006,120229,Nigerian used,C,Petrol,Automatic,black,2270000,15
+Toyota,Corolla,2004,228668,Nigerian used,C,Petrol,Automatic,black,1482500,17
+Toyota,Camry,2013,92318,Nigerian used,C,Petrol,Automatic,silver,5274000,8
+Acura,Mdx,2007,195122,Nigerian used,D,Petrol,Automatic,black,2586000,14
+Honda,Pilot,2005,186729,Nigerian used,D,Petrol,Automatic,grey,1802000,16
+Toyota,Corolla,2015,88996,Foreign used,D,Petrol,Automatic,grey,4042000,6
+Hyundai,Elantra,2008,268207,Nigerian used,D,Petrol,Automatic,red,1201250,13
+Toyota,Rav4,2007,122924,Nigerian used,E,Petrol,Automatic,white,2250000,14
+Ford,Edge,2013,110619,Foreign used,C,Petrol,Automatic,black,4378000,8
+Lexus,Es 350,2007,81341,Foreign used,D,Petrol,Automatic,grey,2382500,14
+Mercedes-Benz,E500,2002,190826,Nigerian used,E,Petrol,Automatic,blue,1690000,19
+Ford,Edge,2014,111996,Nigerian used,C,Petrol,Automatic,silver,3370000,7
+Toyota,Rav4,2002,88774,Nigerian used,C,Petrol,Automatic,silver,1820000,19
+Nissan,Pathfinder,2007,28203,Nigerian used,C,Petrol,Automatic,red,1707500,14
+Nissan,Pathfinder,2001,226359,Nigerian used,E,Petrol,Automatic,gold,424400,20
+Acura,Tl,2009,77865,Foreign used,C,Petrol,Automatic,grey,4295000,12
+Ford,Edge,2011,76902,Nigerian used,C,Petrol,Automatic,black,3930000,10
+GAC,GS5,2016,39874,Nigerian used,C,Petrol,Automatic,red,5645000,5
+Lexus,Gx470,2004,154798,Nigerian used,D,Petrol,Automatic,silver,2720000,17
+Mercedes-Benz,E320,2003,203689,Nigerian used,E,Petrol,Automatic,gold,638750,18
+Land Rover,Range Rover Vogue,2012,88948,Nigerian used,D,Petrol,Automatic,white,6770000,9
+Ford,Fusion,2009,180463,Nigerian used,D,Petrol,Automatic,silver,2495000,12
+Toyota,Sienna,2002,238921,Nigerian used,D,Petrol,Automatic,silver,1032500,19
+Toyota,Camry,2008,180345,Nigerian used,D,Petrol,Automatic,grey,1820000,13
+Toyota,Camry,2000,321220,Nigerian used,D,Petrol,Manual,silver,638750,21
+Toyota,Camry,2009,172719,Foreign used,C,Petrol,Automatic,grey,3057500,12
+Ford,Escape,2004,338498,Nigerian used,D,Petrol,Automatic,blue,638750,17
+Toyota,Corolla,2006,254429,Nigerian used,D,Petrol,Automatic,black,1707500,15
+Acura,Mdx,2009,128301,Nigerian used,E,Petrol,Automatic,black,2270000,12
+Ford,Taurus,2013,130089,Nigerian used,C,Petrol,Automatic,black,2720000,8
+Toyota,Camry,2006,125375,Foreign used,D,Petrol,Automatic,black,2045000,15
+Mercedes-Benz,C180,2002,135508,Foreign used,D,Petrol,Automatic,silver,1802000,19
+Mercedes-Benz,Ml320,1999,91088,Nigerian used,C,Petrol,Automatic,silver,1707500,22
+Mitsubishi,Pajero,2008,162086,Nigerian used,E,Petrol,Automatic,white,2382500,13
+Lexus,Rx 330,2004,207809,Nigerian used,D,Petrol,Automatic,grey,4042000,17
+Toyota,Corolla,2008,137772,Nigerian used,E,Petrol,Manual,black,920000,13
+Pontiac,Vibe,2004,213371,Foreign used,D,Petrol,Automatic,grey,1876250,17
+Nissan,Primera,2003,147161,Nigerian used,E,Petrol,Automatic,silver,582500,18
+Toyota,Corolla,2008,186590,Nigerian used,D,Petrol,Automatic,black,2157500,13
+Nissan,Murano,2004,218311,Nigerian used,D,Petrol,Automatic,gold,661250,17
+Peugeot,807,2001,220372,Foreign used,D,Petrol,Automatic,blue,1914000,20
+Mitsubishi,Lancer,2008,136642,Nigerian used,D,Petrol,Automatic,black,1022500,13
+Honda,Accord,1998,215038,Nigerian used,E,Petrol,Automatic,silver,460000,23
+Ford,Transit,1999,217761,Nigerian used,E,Diesel,Manual,red,1522000,22
+Kia,Optima,2012,158707,Foreign used,C,Petrol,Automatic,red,3594000,9
+Acura,Mdx,2007,62591,Nigerian used,D,Petrol,Automatic,grey,2586000,14
+Toyota,Corolla,2009,52329,Nigerian used,E,Petrol,Manual,black,1212500,12
+Honda,Pilot,2005,194379,Nigerian used,D,Petrol,Automatic,black,1018000,16
+Lexus,Rx 300,1999,145376,Foreign used,D,Petrol,Automatic,white,2045000,22
+Hyundai,Sonata,2009,139111,Nigerian used,D,Petrol,Automatic,silver,1032500,12
+Renault,Laguna,2004,152082,Nigerian used,D,Petrol,Manual,silver,570000,17
+Hyundai,Veloster,2014,29211,Nigerian used,B,Petrol,Automatic,silver,3594000,7
+Lexus,Es,2004,110203,Nigerian used,C,Petrol,Automatic,wine,1988750,17
+Mercedes-Benz,Gl450,2008,78374,Nigerian used,D,Petrol,Automatic,black,2832500,13
+Toyota,Camry,2007,84297,Nigerian used,C,Petrol,Automatic,silver,2082000,14
+Toyota,Camry,2003,80191,Nigerian used,C,Petrol,Automatic,blue,1707500,18
+Hyundai,Sonata,2011,173531,Foreign used,C,Petrol,Automatic,black,3057500,10
+Toyota,Highlander,2002,99451,Nigerian used,C,Petrol,Automatic,gold,2157500,19
+Peugeot,408,2011,159054,Nigerian used,D,Petrol,Automatic,grey,1466000,10
+Toyota,Sienna,2000,225843,Nigerian used,C,Petrol,Automatic,white,1578000,21
+Volkswagen,Sharan,2002,261009,Nigerian used,D,Petrol,Automatic,black,906000,19
+Toyota,4Runner,2004,127084,Nigerian used,D,Petrol,Automatic,blue,2026000,17
+Isuzu,Rodeo,2002,73840,Nigerian used,E,Petrol,Automatic,black,685000,19
+Honda,Accord,2006,211384,Nigerian used,D,Hybrid,Automatic,silver,1145000,15
+Toyota,Sienna,2008,220352,Foreign used,C,Petrol,Automatic,blue,3113750,13
+Mercedes-Benz,Ml350,2004,107505,Nigerian used,D,Petrol,Automatic,black,1690000,17
+Toyota,Camry,2007,184030,Nigerian used,D,Petrol,Automatic,gold,1820000,14
+Kia,Rio,2009,65121,Nigerian used,C,Petrol,Manual,black,794000,12
+Nissan,Pathfinder,2002,173928,Nigerian used,E,Petrol,Automatic,black,582500,19
+Toyota,Corolla,2014,116482,Foreign used,C,Petrol,Automatic,grey,5307500,7
+Hyundai,Sonata,2011,172738,Foreign used,C,Petrol,Automatic,gold,3594000,10
+Mercedes-Benz,C300,2008,195499,Nigerian used,E,Petrol,Automatic,black,2382500,13
+Nissan,Almera,2012,89573,Nigerian used,D,Petrol,Automatic,black,1802000,9
+Toyota,Rav4,2013,94106,Foreign used,C,Petrol,Automatic,black,6750000,8
+Honda,Cr-V,2007,136202,Nigerian used,D,Petrol,Automatic,red,1690000,14
+Toyota,Corolla,2016,90152,Foreign used,C,Petrol,Automatic,grey,5050000,5
+Toyota,Camry,2007,196060,Foreign used,C,Petrol,Automatic,silver,2922000,14
+Mercedes-Benz,C300,2008,314385,Nigerian used,C,Petrol,Automatic,black,3620000,13
+Volkswagen,Passat,1998,86851,Nigerian used,D,Petrol,Automatic,blue,638750,23
+Toyota,Matrix,2004,149874,Nigerian used,C,Petrol,Automatic,grey,1595000,17
+Honda,Pilot,2012,95709,Nigerian used,D,Petrol,Automatic,black,2800000,9
+Honda,Accord,2008,124089,Nigerian used,D,Petrol,Automatic,grey,1242000,13
+Toyota,Corolla,2006,175172,Nigerian used,D,Petrol,Automatic,silver,1482500,15
+Chrysler,Town & Country,2001,208833,Nigerian used,D,Petrol,Automatic,ash,863750,20
+Volkswagen,Passat,2010,143153,Foreign used,E,Petrol,Automatic,black,3395000,11
+Toyota,Highlander,2011,22589,Nigerian used,C,Petrol,Automatic,red,5760000,10
+Honda,Civic,2008,141454,Nigerian used,E,Petrol,Automatic,grey,1802000,13
+Toyota,Rav4,2010,29522,Nigerian used,C,Petrol,Automatic,silver,3034000,11
+Peugeot,408,2011,71525,Nigerian used,D,Petrol,Automatic,grey,1482500,10
+Nissan,Rogue,2015,82908,Nigerian used,D,Petrol,Automatic,grey,1763750,6
+Mercedes-Benz,C300,2008,136312,Foreign used,C,Petrol,Automatic,black,3947500,13
+Chrysler,Town,2002,174161,Nigerian used,E,Petrol,Automatic,red,582500,19
+Honda,Cr-V,2005,208387,Foreign used,E,Petrol,Automatic,grey,1634000,16
+Hyundai,Santa Fe,2004,213245,Nigerian used,D,Petrol,Automatic,black,976250,17
+Toyota,Sienna,1998,185156,Nigerian used,D,Petrol,Automatic,green,626000,23
+Honda,Civic,2012,107736,Nigerian used,C,Petrol,Automatic,blue,2810000,9
+Mercedes-Benz,Gl450,2007,37678,Nigerian used,D,Petrol,Automatic,grey,3168400,14
+Toyota,Avensis,2005,147679,Nigerian used,C,Petrol,Automatic,black,1130000,16
+Toyota,Avalon,2000,205161,Nigerian used,D,Petrol,Automatic,red,863750,21
+BMW,320i,2008,200021,Nigerian used,E,Petrol,Automatic,blue,976250,13
+Toyota,Camry,2002,280900,Nigerian used,D,Petrol,Automatic,red,863750,19
+Toyota,Matrix,2006,164133,Nigerian used,E,Petrol,Automatic,silver,1482500,15
+Toyota,Camry,2009,65936,Nigerian used,D,Petrol,Automatic,green,2495000,12
+Mercedes-Benz,E350,2010,141968,Nigerian used,C,Petrol,Automatic,black,5610000,11
+Ford,Edge,2011,117753,Nigerian used,D,Petrol,Automatic,grey,3930000,10
+Chrysler,Sebring,2005,244274,Nigerian used,D,Petrol,Automatic,grey,794000,16
+Toyota,Corolla,2003,190273,Nigerian used,E,Petrol,Automatic,blue,1578000,18
+Kia,Sorento,2012,57042,Nigerian used,C,Petrol,Automatic,blue,2045000,9
+Mazda,3,2007,212814,Nigerian used,C,Petrol,Automatic,black,1707500,14
+Honda,Accord,2006,124011,Nigerian used,D,Petrol,Automatic,silver,976250,15
+Mazda,Cx-7,2007,218967,Foreign used,D,Petrol,Automatic,silver,2270000,14
+Toyota,Camry,2012,107988,Nigerian used,D,Petrol,Automatic,red,3957500,9
+Pontiac,Vibe,2009,189092,Nigerian used,C,Petrol,Automatic,red,2213750,12
+Kia,Cerato,2009,149641,Nigerian used,D,Petrol,Automatic,wine,816400,12
+Kia,Sorento,2012,45016,Nigerian used,C,Petrol,Automatic,grey,2270000,9
+Toyota,Corolla,2010,110126,Foreign used,E,Petrol,Automatic,silver,3090000,11
+Hyundai,Santa Fe,2004,204599,Nigerian used,D,Petrol,Automatic,black,682000,17
+Kia,Sorento,2005,191198,Nigerian used,E,Petrol,Automatic,gold,962000,16
+Mercedes-Benz,Ml350,2006,155000,Foreign used,C,Petrol,Automatic,grey,4378000,15
+Ford,Explorer,2011,121924,Nigerian used,D,Petrol,Automatic,black,3370000,10
+Honda,Pilot,2009,120065,Nigerian used,D,Petrol,Automatic,red,2270000,12
+Toyota,Camry,2012,100955,Foreign used,C,Petrol,Automatic,white,4745000,9
+licoln,continental,2007,247300,Foreign used,D,Petrol,Automatic,white,3170000,14
+Honda,Pilot,2003,289585,Foreign used,E,Petrol,Automatic,silver,1707500,18
+Honda,Cr-V,2008,183803,Foreign used,D,Petrol,Automatic,silver,4266000,13
+Mercedes-Benz,C300,2013,58254,Foreign used,B,Petrol,Automatic,grey,5645000,8
+Toyota,Highlander,2003,149895,Foreign used,D,Petrol,Automatic,silver,3034000,18
+Toyota,Camry,2009,50322,Foreign used,D,Petrol,Automatic,gold,3170000,12
+Mazda,6,2005,185550,Foreign used,C,Petrol,Automatic,blue,1460000,16
+Toyota,Avalon,2006,192003,Foreign used,D,Petrol,Automatic,silver,2474000,15
+Toyota,Tacoma,2006,65570,Foreign used,E,Petrol,Automatic,blue,5050000,15
+Toyota,Sienna,2011,88187,Foreign used,D,Petrol,Automatic,grey,5870000,10
+Honda,Element,2008,123351,Nigerian used,C,Petrol,Automatic,wine,1247500,13
+Pontiac,Vibe,2005,287116,Nigerian used,D,Petrol,Automatic,gold,1298000,16
+Toyota,Corolla,2006,150548,Nigerian used,D,Petrol,Automatic,blue,1595000,15
+Volkswagen,Touareg,2005,109478,Nigerian used,E,Petrol,Automatic,grey,1130000,16
+Subaru,Legacy,2008,239589,Foreign used,C,Petrol,Automatic,grey,2607500,13
+Ford,Freestyle,2007,171010,Foreign used,C,Petrol,Automatic,black,2045000,14
+Infiniti,G,2010,145301,Nigerian used,D,Petrol,Automatic,grey,3930000,11
+Toyota,Corolla,2014,152328,Nigerian used,C,Petrol,Automatic,grey,4520000,7
+Nissan,Maxima,1999,139341,Nigerian used,E,Petrol,Automatic,black,402000,22
+Kia,Cerato,2007,115188,Nigerian used,E,Petrol,Manual,silver,626000,14
+Lexus,Gs 300,2006,115978,Foreign used,C,Petrol,Automatic,black,3620000,15
+Toyota,Camry,2012,76107,Foreign used,E,Petrol,Automatic,grey,4070000,9
+Honda,Cr-V,1997,212006,Nigerian used,D,Petrol,Automatic,red,695000,24
+Toyota,Corolla,2003,241993,Nigerian used,E,Petrol,Automatic,black,1634000,18
+Toyota,Camry,2002,164112,Nigerian used,C,Petrol,Automatic,silver,1370000,19
+Peugeot,406,1998,275002,Nigerian used,D,Petrol,Manual,silver,738000,23
+Mercedes-Benz,Ml350,2005,154204,Nigerian used,E,Petrol,Automatic,black,1585000,16
+Renault,Duster,2004,84117,Nigerian used,D,Petrol,Automatic,blue,976250,17
+BMW,X5,2010,66679,Nigerian used,D,Petrol,Automatic,black,2474000,11
+Mitsubishi,L200,2012,265678,Nigerian used,C,Petrol,Manual,white,1595000,9
+Lexus,Rx 300,2000,135864,Foreign used,E,Petrol,Automatic,grey,2250000,21
+Honda,Civic,2003,151398,Nigerian used,C,Petrol,Automatic,black,794000,18
+Toyota,Camry,2011,323942,Nigerian used,C,Petrol,Automatic,black,2495000,10
+Toyota,Highlander,2001,185509,Nigerian used,C,Petrol,Automatic,green,1802000,20
+Honda,Accord,2004,266230,Nigerian used,D,Petrol,Manual,green,827600,17
+Mitsubishi,Attrage,2013,159674,Nigerian used,E,Petrol,Automatic,gold,1257500,8
+Acura,Tl,2002,195729,Nigerian used,E,Petrol,Automatic,grey,638750,19
+Toyota,HiAce,2009,162853,Nigerian used,D,Petrol,Manual,white,3395000,12
+Mercedes-Benz,Ml350,2010,77764,Foreign used,E,Petrol,Automatic,black,5610000,11
+Land Rover,Lr3,2006,171879,Foreign used,C,Petrol,Automatic,blue,5082500,15
+Toyota,Hilux,2007,194036,Nigerian used,D,Petrol,Manual,white,4745000,14
+BMW,3 Series,2011,97568,Nigerian used,C,Petrol,Automatic,black,3845000,10
+Toyota,4Runner,2005,103301,Nigerian used,D,Petrol,Automatic,black,942500,16
+Mazda,6,2005,239170,Nigerian used,E,Petrol,Automatic,silver,470000,16
+Honda,Pilot,2007,139819,Nigerian used,D,Petrol,Automatic,grey,1482500,14
+Mercedes-Benz,Clk320,2005,199024,Nigerian used,C,Petrol,Automatic,grey,1802000,16
+Toyota,Camry,2002,8705,Nigerian used,C,Petrol,Automatic,silver,1201250,19
+Toyota,Highlander,2006,250231,Foreign used,D,Hybrid,Automatic,silver,2382500,15
+Kia,Sedona,2004,170671,Nigerian used,E,Petrol,Automatic,silver,582500,17
+Mercedes-Benz,Glk350,2010,48342,Nigerian used,C,Petrol,Automatic,blue,4490000,11
+Kia,Spectra,2006,85665,Foreign used,C,Petrol,Manual,gold,1697500,15
+Toyota,Corolla,2007,190922,Nigerian used,E,Petrol,Automatic,silver,1876250,14
+Toyota,Corolla,2003,299999,Nigerian used,D,Petrol,Automatic,red,1313750,18
+Ford,Escape,2010,153201,Foreign used,C,Petrol,Automatic,black,3057500,11
+Ford,Ranger,2013,249590,Nigerian used,C,Petrol,Manual,black,3370000,8
+Mercedes-Benz,E320,2003,52033,Nigerian used,C,Petrol,Automatic,black,1707500,18
+Suzuki,Every Wagon,1998,156793,Nigerian used,E,Petrol,Automatic,white,962000,23
+Lexus,Ls,2007,111338,Nigerian used,C,Petrol,Automatic,black,2810000,14
+Foton,Aumark,2008,32800,Nigerian used,E,Diesel,Manual,grey,1145000,13
+Mercedes-Benz,Gl450,2007,88494,Nigerian used,C,Petrol,Automatic,silver,3395000,14
+Mercedes-Benz,E550,2011,14196,Nigerian used,C,Petrol,Automatic,silver,5050000,10
+Toyota,Avensis,2007,234584,Nigerian used,D,Petrol,Automatic,blue,1370000,14
+Toyota,Rav4,2005,289628,Foreign used,E,Petrol,Automatic,blue,1970000,16
+Nissan,Xterra,2007,104142,Nigerian used,E,Petrol,Automatic,wine,976250,14
+Toyota,Sienna,1998,235690,Nigerian used,D,Petrol,Automatic,black,841250,23
+Toyota,4Runner,2003,187211,Nigerian used,D,Petrol,Automatic,silver,1257500,18
+Toyota,Sienna,2014,313939,Nigerian used,D,Petrol,Automatic,grey,3620000,7
+Toyota,Corolla,2003,197610,Foreign used,D,Petrol,Automatic,silver,2698000,18
+Honda,Accord,2007,209534,Nigerian used,E,Petrol,Automatic,grey,741250,14
+Toyota,Sienna,2008,210193,Foreign used,C,Petrol,Automatic,white,3001250,13
+Acura,Rdx,2008,109,Foreign used,C,Petrol,Automatic,black,2810000,13
+Mazda,Tribute,2006,175990,Nigerian used,E,Petrol,Automatic,grey,906000,15
+Mitsubishi,Pajero,2003,143414,Nigerian used,E,Petrol,Automatic,gold,1145000,18
+Mercedes-Benz,C300,2009,170917,Foreign used,C,Petrol,Automatic,black,4407500,12
+Peugeot,206,2002,246267,Foreign used,C,Petrol,Automatic,black,1370000,19
+Mercedes-Benz,C300,2010,146891,Foreign used,D,Petrol,Automatic,gold,4210000,11
+Audi,A6,2006,97355,Nigerian used,D,Petrol,Automatic,blue,1145000,15
+Toyota,Corolla,2011,167684,Nigerian used,D,Petrol,Automatic,black,1528750,10
+Lexus,Es 300,2003,205043,Foreign used,C,Petrol,Automatic,black,2270000,18
+BMW,7 Series,2003,188756,Nigerian used,E,Petrol,Automatic,blue,2810000,18
+Toyota,Matrix,2004,235561,Nigerian used,C,Petrol,Automatic,blue,1522000,17
+Mercedes-Benz,C300,2009,192246,Foreign used,C,Petrol,Automatic,grey,4295000,12
+Ford,Explorer,2002,265138,Nigerian used,D,Petrol,Automatic,green,797500,19
+Mercedes-Benz,E350,2012,48701,Nigerian used,C,Petrol,Automatic,white,6207500,9
+Honda,Odyssey,2006,216052,Nigerian used,C,Petrol,Automatic,black,1100000,15
+Toyota,Corolla,2009,169180,Foreign used,C,Petrol,Automatic,grey,2832500,12
+Toyota,Highlander,2006,85602,Nigerian used,C,Petrol,Automatic,grey,3057500,15
+Kia,Rio,2011,118481,Nigerian used,D,Petrol,Manual,black,751250,10
+Toyota,Sequoia,2005,187533,Nigerian used,D,Petrol,Automatic,black,1242000,16
+Mercedes-Benz,C300,2009,157093,Foreign used,C,Petrol,Automatic,black,4745000,12
+Nissan,Quest,2000,120213,Nigerian used,D,Petrol,Automatic,green,470000,21
+Lexus,Rx 330,2004,106827,Nigerian used,C,Petrol,Automatic,silver,2832500,17
+Honda,Accord,2003,182420,Nigerian used,D,Petrol,Automatic,grey,939600,18
+Toyota,Camry,2008,102654,Nigerian used,C,Petrol,Automatic,red,2045000,13
+Acura,Mdx,2009,126288,Nigerian used,C,Petrol,Automatic,grey,1690000,12
+Hyundai,Accent,2008,148113,Nigerian used,E,Petrol,Manual,black,402000,13
+BMW,X1,2004,182383,Nigerian used,E,Petrol,Automatic,blue,570000,17
+Toyota,Highlander,2004,168621,Nigerian used,C,Petrol,Automatic,black,1595000,17
+Lexus,GS 350,2008,191411,Foreign used,D,Petrol,Automatic,black,3706000,13
+Nissan,NV350,2013,111111,Nigerian used,E,Petrol,Manual,white,2810000,8
+Toyota,Sienna,2004,303483,Nigerian used,E,Petrol,Automatic,gold,1354000,17
+Acura,Rdx,2008,166360,Nigerian used,D,Petrol,Automatic,black,3594000,13
+Toyota,Tundra,2005,116676,Foreign used,C,Petrol,Automatic,grey,5050000,16
+Toyota,Land Cruiser Prado,2006,75105,Nigerian used,D,Petrol,Automatic,black,4042000,15
+Lexus,Is 250,2006,88840,Nigerian used,D,Petrol,Automatic,grey,2810000,15
+Toyota,Camry,2007,119036,Nigerian used,C,Petrol,Automatic,silver,1914000,14
+Toyota,Avensis,2007,131813,Nigerian used,D,Petrol,Automatic,silver,906000,14
+Nissan,Pathfinder,2002,178682,Nigerian used,D,Petrol,Automatic,gold,695000,19
+Toyota,Sienna,2001,306899,Nigerian used,C,Petrol,Automatic,red,1690000,20
+Toyota,Highlander,2004,183618,Nigerian used,D,Petrol,Automatic,gold,1820000,17
+Toyota,Sequoia,2004,96606,Nigerian used,D,Petrol,Automatic,black,1018000,17
+Honda,Pilot,2006,110130,Foreign used,D,Petrol,Automatic,silver,2832500,15
+Honda,Odyssey,2004,254028,Nigerian used,E,Petrol,Automatic,grey,582500,17
+Toyota,Corolla,2004,101212,Foreign used,E,Petrol,Automatic,silver,2157500,17
+BMW,X5,2009,122246,Nigerian used,E,Petrol,Automatic,black,2832500,12
+Kia,Cerato,2012,91579,Nigerian used,D,Petrol,Automatic,black,2270000,9
+Honda,Accord,2014,110491,Nigerian used,D,Petrol,Automatic,white,3395000,7
+Toyota,Camry,2015,153448,Foreign used,D,Petrol,Automatic,black,5386000,6
+Lexus,Rx 350,2009,188027,Nigerian used,C,Petrol,Automatic,grey,3113750,12
+Ford,Ranger,2012,167314,Nigerian used,C,Petrol,Manual,black,3732500,9
+BMW,X5,2005,162812,Nigerian used,D,Petrol,Automatic,silver,1022500,16
+Toyota,Corolla,2006,275511,Nigerian used,D,Petrol,Manual,black,863750,15
+Lexus,Es 350,2007,113346,Nigerian used,C,Petrol,Automatic,black,3957500,14
+Lexus,Es,2005,102119,Foreign used,C,Petrol,Automatic,black,2945000,16
+Honda,Accord,2015,64860,Foreign used,E,Petrol,Automatic,white,5082500,6
+Toyota,Camry,2000,96556,Nigerian used,D,Petrol,Automatic,green,863750,21
+Toyota,Corolla,2015,46221,Foreign used,D,Petrol,Automatic,grey,6545000,6
+Honda,Cr-V,2011,120958,Foreign used,E,Petrol,Automatic,black,3610000,10
+Toyota,Hilux,2008,148044,Nigerian used,D,Petrol,Manual,white,3057500,13
+Honda,Accord,2013,43546,Nigerian used,D,Petrol,Automatic,grey,5082500,8
+Toyota,Camry,2003,306395,Nigerian used,D,Petrol,Automatic,blue,1370000,18
+Honda,Accord,2013,52056,Nigerian used,C,Petrol,Automatic,black,3957500,8
+Toyota,Corolla,1998,195611,Nigerian used,D,Petrol,Manual,blue,672500,23
+Toyota,Highlander,2008,182940,Foreign used,C,Petrol,Automatic,silver,4970000,13
+Ford,Escape,2009,263125,Foreign used,E,Petrol,Automatic,black,2832500,12
+Hyundai,Ix35,2011,118581,Nigerian used,C,Petrol,Automatic,grey,1932500,10
+Lexus,Rx 300,2001,110768,Nigerian used,D,Petrol,Automatic,silver,1145000,20
+Lexus,Rx 300,2001,219518,Nigerian used,D,Petrol,Automatic,silver,1595000,20
+Toyota,Corolla,2003,271284,Foreign used,C,Petrol,Automatic,white,2157500,18
+Mercedes-Benz,C240,2002,150243,Foreign used,C,Petrol,Automatic,black,1032500,19
+Mercedes-Benz,ML430,1999,271311,Nigerian used,D,Petrol,Automatic,red,807500,22
+Suzuki,Grand Vitara,2009,119448,Nigerian used,D,Petrol,Automatic,silver,1538750,12
+Honda,Pilot,2012,131346,Nigerian used,C,Petrol,Automatic,black,4520000,9
+Toyota,Camry,2002,2908,Nigerian used,D,Petrol,Automatic,blue,1145000,19
+Toyota,Camry,2009,85257,Nigerian used,C,Petrol,Automatic,grey,2663750,12
+Volkswagen,CC,2013,71244,Nigerian used,C,Petrol,Automatic,grey,2935000,8
+Saturn,VUE,2007,159324,Foreign used,C,Petrol,Automatic,silver,2101250,14
+Nissan,Armada,2004,159061,Nigerian used,D,Petrol,Automatic,grey,1145000,17
+Honda,Cr-V,1999,169543,Nigerian used,E,Petrol,Automatic,silver,751250,22
+Toyota,Matrix,2004,125888,Nigerian used,E,Petrol,Automatic,yellow,1392500,17
+Hyundai,Sonata,2011,146206,Foreign used,C,Petrol,Automatic,blue,2832500,10
+Lexus,Rx 330,2005,154341,Nigerian used,D,Petrol,Automatic,black,3170000,16
+Lexus,Rx 300,1999,143810,Nigerian used,D,Petrol,Automatic,gold,1191250,22
+Honda,Accord,2003,109738,Nigerian used,D,Petrol,Automatic,black,582500,18
+Honda,Accord Crosstour,2010,125624,Nigerian used,D,Petrol,Automatic,silver,2270000,11
+Toyota,Corolla,2003,39936,Nigerian used,C,Petrol,Automatic,beige,1426250,18
+Toyota,Yaris,2013,181142,Nigerian used,C,Petrol,Manual,black,1595000,8
+Toyota,Camry,2007,111509,Nigerian used,D,Petrol,Automatic,red,1595000,14
+Kia,Cerato,2013,134758,Nigerian used,C,Petrol,Automatic,blue,2045000,8
+Ford,Edge,2008,224799,Nigerian used,C,Petrol,Automatic,wine,2035000,13
+Honda,Accord,2011,90062,Nigerian used,D,Petrol,Automatic,silver,1482500,10
+Dodge,Ram,2005,119210,Nigerian used,E,Petrol,Automatic,grey,1482500,16
+Honda,Accord,1998,250836,Nigerian used,E,Petrol,Automatic,green,313750,23
+Toyota,Corolla,2012,13975,Foreign used,B,Petrol,Automatic,black,4295000,9
+Toyota,Camry,2009,68905,Nigerian used,D,Petrol,Automatic,black,2213750,12
+Honda,Accord,2013,115698,Nigerian used,E,Petrol,Automatic,grey,3732500,8
+Peugeot,308,2008,219073,Nigerian used,C,Petrol,Automatic,silver,1257500,13
+Honda,Accord,2009,181181,Foreign used,C,Petrol,Automatic,black,2832500,12
+Mercedes-Benz,R350,2009,195219,Foreign used,C,Petrol,Automatic,white,3385000,12
+Mercedes-Benz,E500,2004,138063,Nigerian used,D,Petrol,Automatic,black,1707500,17
+Hyundai,Santa Fe,2012,67456,Nigerian used,C,Petrol,Automatic,silver,2260000,9
+Mercedes-Benz,Ml350,2002,190198,Nigerian used,D,Petrol,Automatic,black,572500,19
+Honda,Accord,2008,143811,Nigerian used,C,Petrol,Automatic,white,1257500,13
+Toyota,Camry,2010,117360,Foreign used,C,Petrol,Automatic,silver,3057500,11
+Renault,Logan,2013,47833,Nigerian used,D,Petrol,Manual,black,695000,8
+Honda,Accord,2009,122632,Nigerian used,C,Petrol,Automatic,black,3845000,12
+Land Rover,Range Rover Sport,2006,60229,Nigerian used,D,Petrol,Automatic,blue,2832500,15
+Peugeot,406,2002,99999,Nigerian used,D,Petrol,Manual,blue,1472500,19
+Peugeot,308,2008,138989,Nigerian used,C,Petrol,Automatic,black,1707500,13
+Land Rover,Lr2,2008,146207,Foreign used,D,Petrol,Automatic,gold,3160000,13
+Toyota,Corolla,2016,35498,Foreign used,D,Petrol,Automatic,grey,6432500,5
+Jaguar,S-Type,1999,132138,Nigerian used,C,Petrol,Automatic,black,920000,22
+Lexus,Es 350,2011,103295,Nigerian used,D,Petrol,Automatic,grey,3395000,10
+Toyota,Corolla,2017,40070,Nigerian used,B,Petrol,Duplex,blue,6207500,4
+Toyota,Corolla,2014,193566,Nigerian used,C,Petrol,Duplex,black,3957500,7
+Toyota,Highlander,2008,127260,Nigerian used,C,Petrol,Automatic,black,4520000,13
+Audi,A4,2007,128727,Foreign used,E,Petrol,Automatic,silver,1707500,14
+Toyota,Corolla,2014,134789,Nigerian used,C,Petrol,Automatic,silver,3957500,7
+Toyota,Corolla,2014,103696,Nigerian used,C,Petrol,Automatic,black,3957500,7
+Ford,Escape,2008,192120,Nigerian used,D,Petrol,Automatic,red,1482500,13
+Hyundai,Creta,2016,73731,Nigerian used,C,Petrol,Automatic,silver,6770000,5
+Toyota,Corolla,2014,117793,Nigerian used,C,Petrol,Automatic,black,3957500,7
+Nissan,Pathfinder,2001,165828,Nigerian used,E,Petrol,Automatic,green,920000,20
+Toyota,Rav4,2007,112226,Foreign used,C,Petrol,Automatic,gold,3507500,14
+Infiniti,Qx,2003,176889,Nigerian used,E,Petrol,Automatic,brown,797500,18
+Toyota,HiAce,2005,200932,Nigerian used,E,Petrol,Automatic,black,3395000,16
+Kia,Optima,2010,85664,Foreign used,C,Petrol,Automatic,silver,2382500,11
+Hyundai,Creta,2016,62275,Nigerian used,C,Petrol,Automatic,blue,6207500,5
+Toyota,Corolla,2014,173854,Nigerian used,D,Petrol,Duplex,silver,3957500,7
+Toyota,Corolla,2014,159948,Nigerian used,C,Petrol,Duplex,silver,3957500,7
+Honda,Civic,2010,164378,Nigerian used,D,Petrol,Automatic,grey,1032500,11
+Honda,Civic,2011,82706,Nigerian used,C,Petrol,Automatic,black,2832500,10
+Honda,Accord,2003,117234,Nigerian used,C,Petrol,Automatic,black,695000,18
+Ford,Escape,2014,44655,Nigerian used,C,Petrol,Automatic,silver,5645000,7
+Honda,Pilot,2008,173255,Nigerian used,D,Petrol,Automatic,red,1707500,13
+Nissan,Maxima,2001,326952,Nigerian used,E,Petrol,Automatic,blue,582500,20
+Lexus,Es 350,2009,93497,Nigerian used,C,Petrol,Automatic,red,3385000,12
+Mercedes-Benz,C180,2001,316665,Nigerian used,E,Petrol,Automatic,silver,920000,20
+Ford,Escape,2008,201082,Foreign used,C,Petrol,Automatic,grey,2607500,13
+Acura,Mdx,2004,182161,Nigerian used,D,Petrol,Automatic,gold,1145000,17
+Toyota,Highlander,2002,106334,Nigerian used,D,Petrol,Automatic,silver,1707500,19
+Mercedes-Benz,C350,2010,122657,Nigerian used,C,Petrol,Automatic,brown,3620000,11
+Toyota,Camry,2003,109262,Nigerian used,E,Petrol,Automatic,brown,1032500,18
+Mercedes-Benz,Gl450,2008,122222,Foreign used,C,Petrol,Automatic,green,6545000,13
+Lexus,Is 250,2008,212670,Foreign used,C,Petrol,Automatic,black,2832500,13
+Mercedes-Benz,E320,2003,72855,Nigerian used,D,Petrol,Automatic,silver,1257500,18
+Honda,Accord,2008,92502,Nigerian used,C,Petrol,Automatic,silver,1763750,13
+Mazda,Cx-7,2009,194538,Nigerian used,C,Petrol,Automatic,black,2270000,12
+Honda,Accord,2004,77495,Nigerian used,C,Petrol,Automatic,black,998750,17
+Mercedes-Benz,Ml500,2006,82908,Nigerian used,E,Petrol,Automatic,black,2832500,15
+Toyota,Highlander,2003,126459,Foreign used,D,Petrol,Automatic,black,3170000,18
+Mazda,323,2000,288530,Nigerian used,E,Petrol,Manual,blue,807500,21
+Chrysler,300,2010,48241,Nigerian used,C,Petrol,Automatic,white,1595000,11
+Honda,Pilot,2007,79873,Foreign used,E,Petrol,Automatic,black,1763750,14
+BMW,7 Series,2009,82742,Foreign used,D,Petrol,Automatic,black,6770000,12
+Land Rover,Range Rover Sport,2008,65687,Nigerian used,D,Petrol,Automatic,red,4182500,13
+Acura,Mdx,2010,57429,Foreign used,E,Petrol,Automatic,red,3957500,11
+Mercedes-Benz,C350,2009,77475,Nigerian used,C,Petrol,Automatic,grey,3395000,12
+Mercedes-Benz,E350,2006,295335,Nigerian used,E,Petrol,Automatic,grey,1370000,15
+Honda,Accord Crosstour,2010,109898,Nigerian used,C,Petrol,Automatic,grey,2382500,11
+Toyota,Sequoia,2001,235487,Nigerian used,D,Petrol,Automatic,red,751250,20
+BMW,5 Series,2008,69211,Nigerian used,E,Petrol,Automatic,black,2822500,13
+Mazda,Mpv,2001,225720,Nigerian used,D,Petrol,Automatic,silver,861625,20
+Toyota,Camry,2012,141048,Foreign used,D,Petrol,Automatic,black,4520000,9
+Toyota,Highlander,2002,157329,Nigerian used,D,Petrol,Automatic,silver,1482500,19
+Acura,Mdx,2012,76943,Nigerian used,C,Petrol,Automatic,black,3957500,9
+Land Rover,Lr3,2006,164373,Nigerian used,D,Petrol,Automatic,black,1707500,15
+Kia,Rio,2018,45846,Nigerian used,C,Petrol,Automatic,red,3957500,3
+Toyota,Corolla,2010,345675,Nigerian used,C,Petrol,Automatic,grey,2382500,11
+Hyundai,I10,2011,188400,Nigerian used,D,Petrol,Manual,silver,526250,10
+Suzuki,Swift,2012,38973,Nigerian used,C,Petrol,Automatic,red,2270000,9
+Hyundai,Sonata,2011,76696,Nigerian used,D,Petrol,Automatic,red,3226250,10
+Toyota,Venza,2013,48789,Foreign used,E,Petrol,Automatic,red,5645000,8
+Ford,Explorer,2013,271555,Nigerian used,E,Petrol,Automatic,white,3957500,8
+Lexus,Rx 300,2001,97519,Nigerian used,C,Petrol,Automatic,black,1426250,20
+Honda,Accord,2008,101546,Nigerian used,D,Petrol,Automatic,red,920000,13
+Lexus,Rx 350,2010,91297,Nigerian used,C,Petrol,Automatic,black,6095000,11
+Toyota,Sienna,2000,198003,Nigerian used,E,Petrol,Automatic,green,976250,21
+Honda,Accord,1992,254221,Nigerian used,E,Petrol,Automatic,red,291250,29
+Land Rover,Range Rover Sport,2010,74345,Nigerian used,C,Petrol,Automatic,white,3395000,11
+Toyota,Camry,2012,83009,Nigerian used,D,Petrol,Automatic,black,3620000,9
+Nissan,Pathfinder,2000,234628,Nigerian used,C,Petrol,Manual,grey,807500,21
+Mercedes-Benz,E200,2002,166031,Nigerian used,E,Petrol,Automatic,blue,920000,19
+Toyota,Camry,2007,146446,Nigerian used,D,Petrol,Automatic,blue,2270000,14
+Dodge,Charger,2012,150076,Foreign used,C,Petrol,Automatic,blue,4295000,9
+Honda,Accord,2006,280059,Foreign used,C,Petrol,Automatic,grey,1595000,15
+Toyota,Sienna,2005,207319,Nigerian used,C,Petrol,Automatic,gold,2270000,16
+Lexus,Es 350,2011,90017,Nigerian used,E,Petrol,Automatic,grey,3930000,10
+Lexus,Gx470,2004,212852,Foreign used,C,Petrol,Automatic,blue,3732500,17
+Honda,Pilot,2013,90164,Foreign used,D,Petrol,Automatic,grey,5070000,8
+Peugeot,206,2004,96915,Nigerian used,D,Petrol,Manual,black,807500,17
+Mercedes-Benz,C240,2005,194340,Foreign used,B,Petrol,Automatic,black,3170000,16
+Hyundai,Elantra,2013,148549,Nigerian used,C,Petrol,Automatic,brown,2270000,8
+Ford,Ranger,2010,113588,Nigerian used,E,Diesel,Manual,silver,1932500,11
+Lexus,Rx 300,2005,123130,Nigerian used,C,Petrol,Automatic,black,3395000,16
+Nissan,Sunny,2006,283212,Nigerian used,D,Petrol,Automatic,white,751250,15
+Toyota,Sequoia,2003,119905,Nigerian used,D,Petrol,Automatic,silver,2270000,18
+Honda,Accord,2006,148309,Nigerian used,D,Petrol,Automatic,black,920000,15
+Kia,Cerato,2011,147323,Nigerian used,D,Petrol,Automatic,black,830000,10
+Infiniti,Fx,2003,183420,Nigerian used,E,Petrol,Automatic,white,1145000,18
+Hyundai,Sonata,2011,132590,Nigerian used,C,Petrol,Automatic,silver,2945000,10
+Toyota,Highlander,2003,334769,Nigerian used,D,Petrol,Automatic,blue,1595000,18
+Mercedes-Benz,C300,2012,531,Nigerian used,E,Petrol,Automatic,white,2832500,9
+Mercedes-Benz,Ml63 Amg,2008,102118,Nigerian used,D,Petrol,Automatic,black,3957500,13
+Hyundai,Accent,2008,198948,Nigerian used,E,Petrol,Manual,blue,413750,13
+Nissan,Pathfinder,2007,99267,Foreign used,C,Petrol,Automatic,black,1820000,14
+Kia,Sedona,2010,217825,Foreign used,C,Petrol,Automatic,white,1707500,11
+Audi,Q7,2011,97186,Nigerian used,C,Petrol,Automatic,black,3957500,10
+Ford,Windstar,2003,176974,Foreign used,C,Petrol,Automatic,black,1257500,18
+Toyota,Camry,2011,109181,Nigerian used,D,Petrol,Automatic,red,2495000,10
+Land Rover,Lr4,2010,103699,Nigerian used,E,Petrol,Automatic,white,2832500,11
+Nissan,Xterra,2003,222636,Nigerian used,E,Petrol,Automatic,silver,661250,18
+Honda,Accord,2008,60729,Nigerian used,D,Petrol,Automatic,silver,1497125,13
+Honda,Accord,1997,180438,Nigerian used,D,Petrol,Automatic,green,413750,24
+Volkswagen,Passat,2010,120733,Nigerian used,D,Petrol,Automatic,brown,2270000,11
+Mitsubishi,Pajero,2011,198267,Nigerian used,D,Petrol,Automatic,green,3170000,10
+Suzuki,Sx4,1999,112654,Nigerian used,E,Petrol,Automatic,yellow,807500,22
+Honda,Accord,2008,132175,Nigerian used,E,Petrol,Automatic,grey,1370000,13
+Toyota,Camry,2002,283012,Nigerian used,C,Petrol,Automatic,gold,1201250,19
+Infiniti,G,2005,89054,Foreign used,D,Petrol,Automatic,black,1707500,16
+Toyota,Corolla,2004,288664,Nigerian used,D,Petrol,Automatic,white,1482500,17
+Toyota,Corolla,2006,151382,Nigerian used,D,Petrol,Automatic,blue,1651250,15
+Ssangyong,Rexton,2006,130715,Nigerian used,D,Petrol,Automatic,blue,582500,15
+Ford,Expedition,2007,168377,Nigerian used,C,Petrol,Automatic,black,1472500,14
+Kia,Rio,2017,14120,Nigerian used,B,Petrol,Automatic,silver,3395000,4
+Toyota,Corolla,2014,174030,Foreign used,D,Petrol,Automatic,black,5420000,7
+Toyota,Corolla,2014,79804,Foreign used,D,Petrol,Automatic,grey,4857500,7
+Toyota,Corolla,2004,140949,Nigerian used,E,Petrol,Automatic,silver,1482500,17
+Land Rover,Lr3,2005,174160,Nigerian used,E,Petrol,Automatic,silver,1707500,16
+Mitsubishi,Montero,2002,254406,Nigerian used,D,Petrol,Automatic,silver,863750,19
+Toyota,Camry,2010,10444,Foreign used,C,Petrol,Automatic,grey,3620000,11
+Volkswagen,Passat,2001,141667,Foreign used,D,Petrol,Manual,silver,1145000,20
+Toyota,Camry,1999,254717,Foreign used,D,Petrol,Automatic,grey,751250,22
+Lexus,Gs 300,2004,296610,Nigerian used,C,Petrol,Automatic,black,1032500,17
+Toyota,Camry,2009,101943,Nigerian used,E,Petrol,Automatic,red,1820000,12
+Mercedes-Benz,R350,2006,124488,Nigerian used,C,Petrol,Automatic,silver,2270000,15
+Volkswagen,Jetta,2010,196302,Nigerian used,D,Petrol,Automatic,black,910000,11
+Mercedes-Benz,C300,2011,182118,Nigerian used,C,Petrol,Automatic,grey,2551250,10
+Toyota,Camry,2002,231684,Nigerian used,D,Petrol,Automatic,silver,1088750,19
+Acura,Tl,2010,64838,Foreign used,C,Petrol,Automatic,black,3395000,11
+Lexus,Is 250,2008,212577,Nigerian used,D,Petrol,Automatic,black,3001250,13
+BMW,X5,2006,109009,Nigerian used,C,Petrol,Automatic,black,2270000,15
+Chevrolet,Epica,2007,127425,Nigerian used,D,Petrol,Automatic,silver,807500,14
+Saturn,VUE,2007,195778,Nigerian used,D,Petrol,Automatic,brown,1707500,14
+Ford,Taurus,2004,170342,Nigerian used,D,Petrol,Automatic,silver,526250,17
+Infiniti,Qx,1998,243144,Nigerian used,E,Petrol,Automatic,gold,413750,23
+Chrysler,300,2005,252390,Nigerian used,D,Petrol,Automatic,green,751250,16
+Land Rover,Lr3,2006,92619,Nigerian used,D,Petrol,Automatic,silver,1707500,15
+Toyota,Corolla,2004,191516,Nigerian used,D,Petrol,Automatic,red,1370000,17
+Lexus,Es 350,2008,84209,Nigerian used,C,Petrol,Automatic,silver,3395000,13
+Toyota,Camry,2005,158455,Nigerian used,D,Petrol,Automatic,grey,1426250,16
+Honda,Insight,2010,124225,Foreign used,D,Hybrid,Automatic,blue,3170000,11
+Acura,Rl,2002,175382,Nigerian used,D,Petrol,Automatic,black,526250,19
+Mercedes-Benz,C300,2010,97565,Nigerian used,C,Petrol,Automatic,black,3395000,11
+Nissan,Altima,1998,201077,Nigerian used,D,Petrol,Automatic,gold,470000,23
+Mercedes-Benz,C300,2008,97044,Nigerian used,D,Petrol,Automatic,black,2270000,13
+Kia,Sorento,2005,149087,Nigerian used,D,Petrol,Automatic,black,976250,16
+Toyota,Corolla,2006,135532,Nigerian used,D,Petrol,Automatic,black,1763750,15
+Mercedes-Benz,Gl450,2007,109703,Nigerian used,C,Petrol,Automatic,black,5610000,14
+Acura,Mdx,2006,80118,Nigerian used,C,Petrol,Automatic,gold,1370000,15
+Nissan,Pathfinder,2006,119146,Nigerian used,D,Petrol,Automatic,silver,1370000,15
+Mercedes-Benz,Glk350,2013,34932,Nigerian used,D,Petrol,Automatic,black,6545000,8
+Nissan,Armada,2005,69789,Nigerian used,E,Petrol,Automatic,black,807500,16
+Volkswagen,Golf,2004,190660,Nigerian used,D,Petrol,Automatic,black,1032500,17
+Lexus,Rx,2004,168897,Nigerian used,D,Petrol,Automatic,silver,2157500,17
+Toyota,Sienna,1999,206040,Nigerian used,E,Petrol,Automatic,green,953750,22
+Mercedes-Benz,C300,2009,121816,Nigerian used,D,Petrol,Automatic,grey,2607500,12
+Hyundai,Sonata,2014,98512,Nigerian used,C,Petrol,Automatic,grey,2776250,7
+Mercedes-Benz,C300,2010,85870,Foreign used,D,Petrol,Automatic,black,3282500,11
+Toyota,Sequoia,2003,281630,Nigerian used,E,Petrol,Automatic,black,976250,18
+Toyota,Venza,2014,64903,Foreign used,D,Petrol,Automatic,black,6432500,7
+Land Rover,Range Rover Sport,2010,125156,Nigerian used,D,Petrol,Automatic,black,6770000,11
+Honda,Accord,2004,157748,Nigerian used,D,Petrol,Automatic,grey,695000,17
+Mazda,626,1997,308478,Nigerian used,E,Petrol,Manual,white,335000,24
+Suzuki,Grand Vitara,2014,109836,Nigerian used,D,Petrol,Automatic,black,1707500,7
+Nissan,Primera,2005,189745,Nigerian used,D,Petrol,Automatic,silver,807500,16
+Honda,Pilot,2012,95080,Nigerian used,E,Petrol,Automatic,black,5082500,9
+Honda,Pilot,2012,110036,Nigerian used,D,Petrol,Automatic,black,5082500,9
+Honda,Cr-V,2004,102265,Nigerian used,E,Petrol,Automatic,black,807500,17
+BMW,X6,2010,55890,Nigerian used,D,Petrol,Automatic,black,3957500,11
+Acura,Mdx,2005,110761,Foreign used,C,Petrol,Automatic,blue,1685000,16
+Ford,Taurus,2010,205321,Foreign used,C,Petrol,Automatic,silver,3282500,11
+Acura,Tl,2010,207963,Nigerian used,D,Petrol,Automatic,grey,1690000,11
+Honda,Odyssey,2006,240008,Nigerian used,C,Petrol,Automatic,grey,1145000,15
+Toyota,Sienna,2011,219443,Foreign used,C,Petrol,Automatic,wine,5645000,10
+Lexus,Gx470,2006,52643,Nigerian used,D,Petrol,Automatic,black,2270000,15
+Toyota,Highlander,2008,99446,Nigerian used,C,Petrol,Automatic,blue,4182500,13
+Toyota,Sienna,2004,198191,Nigerian used,C,Petrol,Automatic,grey,1707500,17
+Ford,Taurus,2010,234286,Foreign used,C,Petrol,Automatic,white,3395000,11
+Mercedes-Benz,R350,2008,151723,Foreign used,D,Petrol,Automatic,black,2832500,13
+Honda,Odyssey,2008,125737,Nigerian used,D,Petrol,Automatic,silver,751250,13
+Mercedes-Benz,E350,2011,103328,Nigerian used,C,Petrol,Automatic,black,4520000,10
+Ford,Edge,2007,165490,Nigerian used,C,Petrol,Automatic,gold,1697500,14
+Toyota,Camry,2016,54444,Foreign used,D,Petrol,Automatic,black,6421250,5
+GAC,GA3-S,2016,68221,Nigerian used,C,Petrol,Automatic,gold,1932500,5
+Toyota,Corolla,2015,82001,Nigerian used,B,Petrol,Automatic,blue,4745000,6
+Toyota,Sienna,2011,83829,Foreign used,C,Petrol,Automatic,black,4407500,10
+Toyota,Land Cruiser Prado,2007,166417,Nigerian used,D,Petrol,Automatic,black,3845000,14
+Toyota,Camry,1997,216800,Nigerian used,D,Petrol,Automatic,green,526250,24
+Nissan,Versa,2007,283061,Foreign used,E,Petrol,Automatic,grey,1505000,14
+Ford,Figo,2012,17833,Nigerian used,C,Petrol,Manual,black,863750,9
+Toyota,Sienna,2009,111208,Foreign used,C,Petrol,Automatic,silver,2495000,12
+Hyundai,H1,2016,58838,Nigerian used,C,Petrol,Automatic,grey,4745000,5
+Lexus,Rx 350,2007,205931,Nigerian used,C,Petrol,Automatic,gold,3057500,14
+Toyota,Sienna,2005,145657,Foreign used,E,Petrol,Automatic,silver,2607500,16
+BMW,5 Series,2003,213394,Nigerian used,D,Petrol,Automatic,black,1370000,18
+Toyota,Camry,2000,213616,Nigerian used,D,Petrol,Automatic,grey,807500,21
+Toyota,Camry,2000,214352,Foreign used,C,Petrol,Automatic,black,1347500,21
+Mercedes-Benz,C280,2006,223952,Nigerian used,C,Petrol,Automatic,white,1932500,15
+Toyota,4Runner,2007,135380,Nigerian used,E,Petrol,Automatic,white,2270000,14
+Volkswagen,Beatle,2002,169056,Nigerian used,D,Petrol,Automatic,silver,695000,19
+Hyundai,I10,2014,96022,Nigerian used,E,Petrol,Manual,black,751250,7
+Honda,Accord,2003,152950,Nigerian used,C,Petrol,Automatic,black,695000,18
+Honda,Pilot,2003,153159,Nigerian used,D,Petrol,Automatic,black,920000,18
+Mercedes-Benz,E350,2006,161294,Nigerian used,C,Petrol,Automatic,blue,2832500,15
+Mercedes-Benz,C350,2008,148497,Foreign used,C,Petrol,Automatic,silver,4295000,13
+Mazda,Tribute,2002,125346,Foreign used,C,Petrol,Automatic,black,1707500,19
+Toyota,Matrix,2003,299999,Foreign used,D,Petrol,Automatic,red,1876250,18
+Honda,Pilot,2009,78123,Nigerian used,D,Petrol,Automatic,blue,2270000,12
+Pontiac,Vibe,2004,166247,Foreign used,C,Petrol,Automatic,silver,2213750,17
+Toyota,Corolla,2009,23753,Nigerian used,C,Petrol,Automatic,gold,2270000,12
+Nissan,Pathfinder,2011,53993,Nigerian used,C,Petrol,Automatic,black,2607500,10
+Mercedes-Benz,Ml350,2004,286603,Foreign used,E,Petrol,Automatic,black,3507500,17
+Lexus,Rx 350,2007,175846,Nigerian used,C,Petrol,Automatic,grey,3620000,14
+Mitsubishi,Endeavor,2005,231600,Foreign used,D,Petrol,Automatic,black,1201250,16
+Mercedes-Benz,R350,2006,138357,Nigerian used,C,Petrol,Automatic,grey,2210000,15
+Toyota,Rav4,2004,221807,Nigerian used,D,Petrol,Automatic,silver,1257500,17
+MG,350s,2014,67502,Nigerian used,C,Petrol,Automatic,gold,1257500,7
+Toyota,Venza,2013,153859,Foreign used,C,Petrol,Automatic,black,5420000,8
+Honda,Accord,2015,120343,Foreign used,C,Petrol,Automatic,silver,4520000,6
+Volvo,V40,2000,239376,Foreign used,E,Petrol,Automatic,blue,1145000,21
+Tata,Xeno,2014,114136,Nigerian used,C,Petrol,Manual,white,1820000,7
+Lexus,Is 250,2007,160920,Nigerian used,D,Petrol,Automatic,silver,3395000,14
+Hyundai,Accent,2009,110223,Nigerian used,D,Petrol,Manual,grey,582500,12
+Toyota,Camry,2007,108070,Nigerian used,D,Petrol,Automatic,silver,2157500,14
+Toyota,Corolla,2008,203527,Nigerian used,C,Petrol,Manual,black,1257500,13
+Honda,Accord,1999,280779,Nigerian used,D,Petrol,Automatic,blue,526250,22
+Lexus,Rx 300,2001,105277,Nigerian used,E,Petrol,Automatic,white,1145000,20
+Toyota,Camry,2017,71575,Foreign used,E,Petrol,Automatic,black,6095000,4
+Lexus,Es 350,2008,133601,Nigerian used,C,Petrol,Automatic,black,4070000,13
+Honda,Cr-V,2005,256309,Nigerian used,D,Petrol,Automatic,black,850000,16
+Lexus,Rx 300,1999,266058,Nigerian used,C,Petrol,Automatic,gold,1426250,22
+Ford,Transit,1991,253246,Nigerian used,E,Petrol,Manual,blue,1482500,30
+Volkswagen,Passat,2009,119983,Nigerian used,C,Petrol,Automatic,grey,2269750,12
+Mercedes-Benz,Ml350,2006,187656,Foreign used,E,Petrol,Automatic,black,2270000,15
+Toyota,Corolla,2016,47131,Nigerian used,E,Petrol,Automatic,grey,5760000,5
+Lexus,Rx 330,2004,205120,Nigerian used,D,Petrol,Automatic,blue,2770000,17
+Kia,Cerato,2014,223932,Nigerian used,D,Petrol,Automatic,grey,2195000,7
+Lexus,Lx,2000,240895,Nigerian used,C,Petrol,Automatic,green,1145000,21
+Toyota,Camry,1996,187049,Nigerian used,D,Petrol,Automatic,green,378000,25
+Mercedes-Benz,C320,2003,190222,Nigerian used,D,Petrol,Automatic,blue,930000,18
+Ford,Explorer,2011,189005,Nigerian used,D,Petrol,Automatic,brown,5645000,10
+Nissan,Versa,2007,107574,Foreign used,D,Petrol,Automatic,gold,1275000,14
+Peugeot,206,2004,99662,Nigerian used,E,Petrol,Manual,blue,605000,17
+Nissan,Pathfinder,2008,234122,Nigerian used,D,Petrol,Automatic,grey,1476250,13
+Kia,Sedona,2009,139179,Foreign used,C,Petrol,Automatic,grey,1707500,12
+Honda,Pilot,2007,173061,Nigerian used,E,Petrol,Automatic,black,1257500,14
+Acura,Mdx,2007,92054,Nigerian used,C,Petrol,Automatic,blue,1932500,14
+BMW,3 Series,2006,175337,Nigerian used,C,Petrol,Automatic,grey,2310000,15
+Mercedes-Benz,E320,2005,149840,Foreign used,D,Petrol,Automatic,wine,2310000,16
+Toyota,Highlander,2005,119713,Nigerian used,C,Petrol,Automatic,grey,2157500,16
+Toyota,Rav4,2014,82413,Nigerian used,D,Petrol,Automatic,black,5760000,7
+Honda,Accord,2010,97604,Foreign used,E,Petrol,Automatic,grey,2425000,11
+Toyota,Camry,2007,129373,Nigerian used,E,Petrol,Automatic,grey,1505000,14
+Mercedes-Benz,E320,2002,116446,Nigerian used,E,Petrol,Automatic,silver,1505000,19
+Audi,Q7,2009,167999,Foreign used,C,Petrol,Automatic,grey,5185000,12
+Toyota,Solara,2008,124326,Nigerian used,E,Petrol,Automatic,red,1850000,13
+BMW,X6,2010,50299,Nigerian used,D,Petrol,Automatic,white,3620000,11
+Toyota,Corolla,2004,153937,Foreign used,D,Petrol,Automatic,silver,2218000,17
+Toyota,Hilux,2007,167994,Nigerian used,C,Hybrid,Manual,white,2885000,14
+Kia,Cerato,2008,190862,Nigerian used,D,Petrol,Manual,black,638750,13
+Honda,Accord,2016,44641,Foreign used,D,Petrol,Automatic,black,6910000,5
+Ford,Focus,2010,77618,Nigerian used,E,Petrol,Automatic,red,1145000,11
+Toyota,Camry,2011,141520,Foreign used,C,Petrol,Automatic,black,2945000,10
+Hyundai,Elantra,2011,100015,Foreign used,C,Petrol,Automatic,silver,3057500,10
+Ford,Edge,2007,92787,Nigerian used,C,Petrol,Automatic,black,2832500,14
+Toyota,Camry,2008,243670,Nigerian used,C,Petrol,Automatic,red,2832500,13
+Nissan,Almera,1996,316408,Nigerian used,E,Petrol,Manual,blue,245000,25
+Peugeot,607,2002,251183,Foreign used,C,Petrol,Automatic,blue,1505000,19
+Lexus,Lx,2003,162441,Nigerian used,E,Petrol,Automatic,grey,1160000,18
+Peugeot,408,2011,99510,Nigerian used,C,Petrol,Automatic,grey,1620000,10
+Kia,Rio,2014,48512,Nigerian used,D,Petrol,Manual,black,976250,7
+Mercedes-Benz,E350,2012,140675,Foreign used,C,Petrol,Automatic,black,6910000,9
+Honda,Accord,2002,11087,Nigerian used,D,Petrol,Manual,silver,700000,19
+Hyundai,Elantra,2009,231397,Foreign used,E,Petrol,Automatic,black,1965000,12
+Lexus,Es,2004,293057,Foreign used,C,Petrol,Automatic,silver,2945000,17
+Honda,Accord,2008,123808,Nigerian used,D,Petrol,Automatic,black,1735000,13
+Volkswagen,Passat,2006,116443,Nigerian used,C,Petrol,Automatic,black,1275000,15
+Lexus,Es 350,2008,157485,Foreign used,C,Petrol,Automatic,blue,4070000,13
+Ford,Explorer,2002,21282,Foreign used,C,Petrol,Automatic,black,2270000,19
+Toyota,Corolla,2010,63601,Foreign used,C,Petrol,Automatic,grey,3200000,11
+Toyota,Corolla,2008,185282,Nigerian used,D,Petrol,Automatic,blue,1482500,13
+Mazda,Mpv,2002,95691,Nigerian used,E,Petrol,Automatic,silver,470000,19
+Honda,Ridgeline,2008,233216,Nigerian used,D,Petrol,Automatic,grey,1820000,13
+Mitsubishi,Pajero,2004,270490,Nigerian used,D,Petrol,Automatic,black,1850000,17
+Mercedes-Benz,Ml350,2006,152591,Foreign used,C,Petrol,Automatic,silver,3395000,15
+Toyota,Sequoia,2008,101044,Nigerian used,D,Petrol,Automatic,white,5760000,13
+Toyota,Sequoia,2004,173856,Nigerian used,D,Petrol,Automatic,ash,1850000,17
+Peugeot,406,1997,128220,Nigerian used,D,Petrol,Manual,silver,526250,24
+Toyota,Camry,1999,166115,Foreign used,E,Petrol,Automatic,grey,1160000,22
+Honda,Accord,2006,148046,Nigerian used,D,Petrol,Automatic,black,805000,15
+Toyota,Sienna,2011,100155,Foreign used,C,Petrol,Automatic,black,4955000,10
+Toyota,Highlander,2009,198669,Foreign used,C,Petrol,Automatic,blue,4745000,12
+Nissan,Maxima,1999,178924,Nigerian used,E,Petrol,Automatic,purple,470000,22
+Toyota,Corolla,2013,108509,Foreign used,C,Petrol,Automatic,grey,5415000,8
+Toyota,Highlander,2005,109508,Nigerian used,C,Petrol,Automatic,grey,2310000,16
+Saturn,VUE,2008,71507,Nigerian used,D,Petrol,Automatic,wine,585000,13
+Infiniti,Q,2000,243445,Nigerian used,D,Petrol,Automatic,white,585000,21
+Toyota,Tundra,2006,181170,Nigerian used,C,Petrol,Automatic,black,3845000,15
+Toyota,Highlander,2004,57617,Nigerian used,C,Petrol,Automatic,black,3230000,17
+Lexus,Gs 330,2008,198998,Foreign used,C,Petrol,Automatic,black,3115000,13
+Honda,Pilot,2006,90175,Foreign used,E,Petrol,Automatic,blue,2045000,15
+Toyota,Corolla,2006,226127,Nigerian used,C,Petrol,Automatic,silver,1620000,15
+Honda,Accord,2015,205029,Foreign used,C,Petrol,Automatic,black,6335000,6
+Infiniti,G,2005,18346,Nigerian used,C,Petrol,Automatic,blue,1482500,16
+Nissan,Maxima,2010,139938,Nigerian used,D,Petrol,Automatic,purple,2080000,11
+Toyota,4Runner,2010,190439,Nigerian used,E,Petrol,Automatic,silver,6910000,11
+Toyota,Sienna,1999,178829,Nigerian used,D,Petrol,Automatic,green,751250,22
+Nissan,Pathfinder,2005,213079,Foreign used,D,Petrol,Automatic,blue,2080000,16
+Kia,Cerato,2011,126481,Nigerian used,C,Petrol,Automatic,grey,1595000,10
+Nissan,Altima,2014,39170,Nigerian used,B,Petrol,Automatic,black,6335000,7
+Honda,Passport,1998,166004,Nigerian used,D,Petrol,Automatic,red,470000,23
+Lexus,Rx 300,1999,216431,Nigerian used,D,Petrol,Automatic,white,1145000,22
+Volkswagen,Passat,2015,51705,Nigerian used,B,Petrol,Automatic,black,4035000,6
+Ford,Focus,2000,155883,Nigerian used,E,Petrol,Automatic,blue,470000,21
+BMW,X5,2010,51873,Nigerian used,C,Petrol,Automatic,grey,4520000,11
+Ford,Explorer,2004,148103,Nigerian used,D,Petrol,Automatic,silver,1427375,17
+Mercedes-Benz,R350,2007,120245,Foreign used,C,Petrol,Automatic,silver,1965000,14
+Mercedes-Benz,E500,2005,160663,Nigerian used,D,Petrol,Automatic,gold,976250,16
+Honda,Accord,2003,235548,Nigerian used,D,Petrol,Automatic,black,757500,18
+Toyota,Camry,2010,176980,Nigerian used,C,Petrol,Automatic,black,1965000,11
+Nissan,Altima,2011,112419,Foreign used,E,Petrol,Automatic,grey,1390000,10
+Chrysler,Pacifica,2004,136630,Nigerian used,D,Petrol,Automatic,red,700000,17
+Lexus,Gx,2004,189692,Nigerian used,D,Petrol,Automatic,silver,2885000,17
+BMW,3 Series,2006,138638,Nigerian used,C,Petrol,Automatic,black,1735000,15
+Ford,Focus,2015,78201,Nigerian used,C,Petrol,Automatic,black,3460000,6
+Honda,Pilot,2009,201348,Foreign used,C,Petrol,Automatic,black,4182500,12
+Toyota,Land Cruiser,1998,166643,Nigerian used,C,Petrol,Automatic,grey,3000000,23
+Toyota,Camry,2015,85151,Foreign used,D,Petrol,Automatic,blue,6105000,6
+Kia,Rio,2006,110100,Nigerian used,E,Petrol,Automatic,black,700000,15
+Honda,Ridgeline,2007,128091,Nigerian used,D,Petrol,Automatic,black,1620000,14
+Mercedes-Benz,E350,2009,191468,Foreign used,C,Petrol,Automatic,white,3957500,12
+Lexus,Es,2005,118628,Nigerian used,C,Petrol,Automatic,silver,2172000,16
+Honda,Pilot,2003,135854,Nigerian used,C,Petrol,Automatic,black,872500,18
+Peugeot,607,2003,259149,Nigerian used,C,Petrol,Automatic,silver,863750,18
+Chevrolet,Trailblazer,2005,138566,Foreign used,E,Petrol,Automatic,green,2270000,16
+Honda,Pilot,2003,218659,Nigerian used,D,Petrol,Automatic,green,855250,18
+Honda,Accord,2010,97423,Foreign used,D,Petrol,Automatic,black,3575000,11
+Nissan,Pathfinder,2006,128800,Foreign used,E,Petrol,Automatic,blue,1145000,15
+Lexus,Gx,2004,148673,Nigerian used,C,Petrol,Automatic,blue,2607500,17
+Hyundai,Santa Fe,2002,193206,Nigerian used,D,Petrol,Automatic,silver,700000,19
+Toyota,Camry,1991,252291,Nigerian used,E,Petrol,Automatic,red,303250,30
+Fiat,Fullback,2004,319568,Nigerian used,E,Diesel,Automatic,black,1620000,17
+Kia,Cerato,2010,93257,Nigerian used,E,Petrol,Manual,black,527500,11
+BMW,X3,2011,211744,Foreign used,C,Petrol,Automatic,black,7140000,10
+Mercedes-Benz,Gl450,2007,107076,Nigerian used,C,Petrol,Automatic,silver,2663750,14
+Hyundai,I10,2010,197546,Nigerian used,D,Petrol,Automatic,blue,905625,11
+Hyundai,Elantra,2011,76275,Nigerian used,E,Petrol,Manual,grey,1302500,10
+Acura,Mdx,2006,220199,Nigerian used,D,Petrol,Automatic,grey,1332500,15
+Nissan,Sentra,2010,185811,Nigerian used,C,Petrol,Automatic,black,1145000,11
+Infiniti,Qx,2002,143804,Nigerian used,E,Petrol,Automatic,silver,678125,19
+Nissan,Armada,2006,78005,Nigerian used,C,Petrol,Automatic,silver,1735000,15
+Lexus,Gx,2003,132004,Nigerian used,C,Petrol,Automatic,black,2832500,18
+Mitsubishi,L200,2014,201577,Nigerian used,D,Petrol,Manual,white,2885000,7
+Lexus,Es 350,2013,70006,Nigerian used,D,Petrol,Automatic,black,6770000,8
+Toyota,4Runner,1996,206641,Nigerian used,D,Petrol,Automatic,black,700000,25
+Isuzu,Axiom,2002,117222,Nigerian used,D,Petrol,Automatic,black,642500,19
+Lexus,Es 350,2007,81919,Nigerian used,C,Petrol,Automatic,black,2607500,14
+Mitsubishi,L200,2013,152646,Nigerian used,D,Petrol,Manual,white,2270000,8
+Nissan,Maxima,2007,135208,Foreign used,C,Petrol,Automatic,silver,2310000,14
+Land Rover,Lr4,2011,90175,Nigerian used,D,Petrol,Automatic,beige,3507500,10
+Toyota,Highlander,2005,130128,Foreign used,C,Petrol,Automatic,black,3000000,16
+Toyota,Corolla,2010,92852,Foreign used,C,Petrol,Automatic,black,3460000,11
+Lexus,Gx,2007,88421,Nigerian used,C,Petrol,Automatic,blue,2540000,14
+Chrysler,Pacifica,2006,164332,Nigerian used,E,Petrol,Automatic,gold,1160000,15
+BMW,3 Series,2007,155314,Foreign used,C,Petrol,Automatic,black,1932500,14
+Lexus,Es,2005,86198,Nigerian used,C,Petrol,Automatic,silver,2080000,16
+Toyota,Rav4,2007,152848,Foreign used,C,Petrol,Automatic,silver,3575000,14
+Volkswagen,Jetta,2011,163110,Foreign used,C,Petrol,Automatic,blue,3460000,10
+Kia,Cerato,2012,279079,Nigerian used,E,Petrol,Automatic,blue,976250,9
+Volvo,S60,2012,184756,Foreign used,D,Petrol,Automatic,white,3395000,9
+Peugeot,406,2008,134640,Nigerian used,D,Petrol,Automatic,red,700000,13
+Honda,Accord,2004,265693,Nigerian used,E,Petrol,Automatic,blue,930000,17
+Toyota,Avalon,2002,180243,Nigerian used,D,Petrol,Automatic,gold,930000,19
+Nissan,Pathfinder,2004,202573,Nigerian used,C,Petrol,Automatic,silver,1045000,17
+Lexus,Es 350,2007,137867,Nigerian used,C,Petrol,Automatic,grey,2885000,14
+Lexus,Gx,2006,115438,Nigerian used,C,Petrol,Automatic,blue,3282500,15
+Toyota,Avensis,2010,242859,Nigerian used,D,Petrol,Automatic,grey,1965000,11
+Peugeot,406,2006,185478,Nigerian used,C,Petrol,Manual,silver,642500,15
+Lexus,Gs,2002,341317,Foreign used,D,Petrol,Automatic,black,1390000,19
+Nissan,Sentra,2015,62937,Foreign used,B,Petrol,Automatic,blue,4150000,6
+Peugeot,406,1999,146785,Nigerian used,D,Petrol,Automatic,red,526250,22
+Honda,Accord,2005,263233,Foreign used,E,Petrol,Automatic,grey,1332500,16
+Mercedes-Benz,Ml350,2007,141950,Nigerian used,C,Petrol,Automatic,black,2540000,14
+Toyota,Camry,1998,322171,Nigerian used,D,Petrol,Automatic,grey,757500,23
+Acura,Tl,2012,105955,Nigerian used,D,Petrol,Automatic,silver,2045000,9
+Hyundai,Elantra,2007,149990,Nigerian used,E,Petrol,Automatic,wine,1160000,14
+Toyota,Avalon,2006,179437,Foreign used,C,Petrol,Automatic,black,2712500,15
+Toyota,Fj Cruiser,2007,86895,Nigerian used,B,Petrol,Automatic,black,5760000,14
+Honda,Accord,2003,206994,Nigerian used,E,Petrol,Automatic,gold,835000,18
+Lexus,Rx 300,1999,95975,Nigerian used,E,Petrol,Automatic,gold,1010500,22
+Innoson,IVMG5,2014,3005,Nigerian used,C,Petrol,Automatic,black,3460000,7
+Hyundai,Ix35,2013,29615,Nigerian used,C,Petrol,Automatic,black,2655000,8
+Honda,Odyssey,2003,225448,Nigerian used,C,Petrol,Automatic,grey,638750,18
+Honda,Accord,2008,70797,Nigerian used,E,Petrol,Automatic,black,1370000,13
+Nissan,Maxima,2008,225507,Nigerian used,D,Petrol,Automatic,ash,1045000,13
+Mitsubishi,Montero,2003,118671,Nigerian used,E,Petrol,Automatic,black,930000,18
+Toyota,Land Cruiser Prado,2006,248496,Nigerian used,D,Petrol,Automatic,black,4182500,15
+Nissan,Primera,1998,96073,Nigerian used,E,Petrol,Manual,red,297500,23
+Honda,Accord Crosstour,2012,65188,Nigerian used,D,Petrol,Automatic,black,3028750,9
+BMW,3 Series,2006,315718,Nigerian used,D,Petrol,Automatic,black,1932500,15
+Volkswagen,Touareg,2004,127711,Nigerian used,D,Petrol,Automatic,grey,1160000,17
+Hyundai,Genesis,2010,198316,Nigerian used,C,Petrol,Automatic,black,2945000,11
+Toyota,Sienna,2011,87447,Foreign used,C,Petrol,Automatic,grey,4380000,10
+Mercedes-Benz,Clk200,2001,230927,Foreign used,C,Petrol,Automatic,silver,1870000,20
+Peugeot,307,2002,194101,Nigerian used,D,Petrol,Manual,black,757500,19
+Mitsubishi,Outlander,2014,125690,Foreign used,C,Petrol,Automatic,white,4970000,7
+Acura,Mdx,2007,163438,Nigerian used,D,Petrol,Automatic,white,2310000,14
+Toyota,Rav4,2000,138134,Foreign used,C,Petrol,Automatic,silver,1850000,21
+Toyota,Land Cruiser Prado,2007,237304,Nigerian used,D,Petrol,Automatic,black,2885000,14
+Mercedes-Benz,C350,2009,64624,Nigerian used,C,Petrol,Automatic,black,2607500,12
+Honda,Pilot,2003,229225,Nigerian used,C,Petrol,Automatic,silver,1390000,18
+Toyota,HiAce,2008,163387,Nigerian used,C,Petrol,Manual,white,6335000,13
+Lexus,Rx 300,1998,99801,Nigerian used,E,Petrol,Automatic,black,920000,23
+Infiniti,Qx56,2004,86096,Nigerian used,C,Petrol,Automatic,gold,3460000,17
+Nissan,Quest,2000,238221,Nigerian used,D,Petrol,Automatic,blue,413750,21
+Toyota,Corolla,1999,188441,Nigerian used,D,Petrol,Automatic,white,734500,22
+Toyota,Sienna,2006,344734,Nigerian used,C,Petrol,Automatic,black,1897500,15
+Mazda,Mpv,2002,100715,Nigerian used,D,Petrol,Automatic,gold,665500,19
+Kia,Cerato,2011,103721,Nigerian used,C,Petrol,Manual,grey,920000,10
+Toyota,Sienna,2004,230162,Nigerian used,C,Petrol,Automatic,red,1595000,17
+Acura,Tl,1999,151899,Foreign used,D,Petrol,Automatic,silver,1160000,22
+Toyota,Avalon,2008,112581,Foreign used,D,Petrol,Automatic,white,2425000,13
+Mercedes-Benz,Ml350,2008,181647,Foreign used,C,Petrol,Automatic,black,5185000,13
+Porsche,Cayenne,2004,149559,Nigerian used,D,Petrol,Automatic,grey,2310000,17
+Saturn,VUE,2007,182973,Nigerian used,C,Petrol,Automatic,grey,2310000,14
+Cadillac,Srx,2011,46337,Nigerian used,B,Petrol,Automatic,blue,6657500,10
+Toyota,Corolla,2010,161829,Nigerian used,D,Petrol,Automatic,grey,1763750,11
+Toyota,4Runner,2004,183999,Foreign used,E,Petrol,Automatic,silver,3230000,17
+Mini,Cooper,2005,132647,Nigerian used,C,Petrol,Manual,cream,1370000,16
+Volkswagen,CC,2012,106058,Nigerian used,D,Petrol,Automatic,black,3460000,9
+BMW,7 Series,2009,120967,Nigerian used,C,Petrol,Automatic,black,4610000,12
+Mazda,323,1994,273552,Nigerian used,C,Petrol,Automatic,blue,642500,27
+Toyota,Corolla,2010,119642,Foreign used,C,Petrol,Automatic,silver,3115000,11
+Toyota,Corolla,2003,152647,Nigerian used,D,Petrol,Automatic,black,1257500,18
+BMW,318i,2003,166797,Nigerian used,E,Petrol,Automatic,white,920000,18
+Hyundai,Sonata,2013,127687,Foreign used,C,Petrol,Automatic,black,4380000,8
+Lexus,Es 350,2006,128773,Nigerian used,D,Petrol,Automatic,blue,2540000,15
+Toyota,Corolla,2010,75216,Foreign used,C,Petrol,Automatic,black,3200000,11
+Mercedes-Benz,C250,2013,153364,Foreign used,D,Petrol,Automatic,red,4520000,8
+Acura,Tl,2007,102734,Nigerian used,C,Petrol,Automatic,black,1707500,14
+Honda,Accord,2005,250484,Nigerian used,D,Petrol,Automatic,black,930000,16
+Lexus,Es 300,1999,283624,Nigerian used,D,Petrol,Automatic,white,987500,22
+Mitsubishi,Lancer,2011,75012,Nigerian used,D,Petrol,Automatic,black,1045000,10
+Honda,Pilot,2004,107395,Nigerian used,E,Petrol,Automatic,gold,1562500,17
+Nissan,Serena,1996,230300,Nigerian used,E,Diesel,Manual,white,1370000,25
+Toyota,Camry,2012,65251,Nigerian used,C,Petrol,Automatic,black,2720000,9
+Toyota,Camry,1994,255331,Nigerian used,D,Petrol,Automatic,green,526250,27
+Volkswagen,Passat,2002,213054,Nigerian used,D,Petrol,Manual,grey,526250,19
+Kia,Sedona,2006,153760,Nigerian used,D,Petrol,Automatic,red,751250,15
+Ford,Edge,2011,45235,Foreign used,E,Petrol,Automatic,white,4520000,10
+Toyota,Corolla,2010,69553,Foreign used,C,Petrol,Automatic,grey,3345000,11
+Toyota,Avalon,2006,245804,Nigerian used,D,Petrol,Automatic,silver,1482500,15
+Hyundai,Elantra,2014,131713,Nigerian used,D,Petrol,Automatic,black,2540000,7
+Nissan,Versa,2011,81674,Foreign used,D,Petrol,Automatic,brown,2270000,10
+Infiniti,G,2006,160154,Foreign used,C,Petrol,Automatic,silver,1370000,15
+Toyota,Corolla,2003,283385,Nigerian used,C,Petrol,Automatic,blue,1447500,18
+Skoda,Octavia,2014,64440,Nigerian used,D,Petrol,Automatic,black,1697500,7
+Hyundai,Accent,2013,69460,Nigerian used,D,Petrol,Manual,black,1651250,8
+Nissan,Pathfinder,2008,81730,Nigerian used,D,Petrol,Automatic,red,1735000,13
+Toyota,Corolla,2011,264333,Nigerian used,C,Petrol,Automatic,grey,2310000,10
+Honda,Cr-V,1998,117341,Nigerian used,D,Petrol,Automatic,black,585000,23
+MG,350s,2014,73557,Nigerian used,D,Petrol,Automatic,black,1820000,7
+Toyota,Camry,2007,123796,Foreign used,C,Petrol,Automatic,silver,2425000,14
+Citroen,C4,2005,234477,Nigerian used,C,Petrol,Manual,white,1257500,16
+Honda,Odyssey,2005,188875,Nigerian used,C,Petrol,Automatic,gold,1735000,16
+Lexus,Es 350,2007,173290,Nigerian used,D,Petrol,Automatic,black,2760000,14
+Kia,Cerato,2011,179047,Nigerian used,E,Petrol,Automatic,brown,1160000,10
+Volkswagen,Tiguan,2010,127546,Foreign used,D,Petrol,Automatic,white,3690000,11
+Honda,Accord,2010,76596,Nigerian used,D,Petrol,Automatic,black,1492500,11
+Honda,Odyssey,2012,137500,Foreign used,C,Petrol,Automatic,grey,2663750,9
+Mercedes-Benz,Gl450,2008,66491,Nigerian used,C,Petrol,Automatic,white,4610000,13
+Toyota,Hilux,2014,176774,Nigerian used,E,Petrol,Manual,white,5760000,7
+Mercedes-Benz,C280,2006,201654,Nigerian used,C,Petrol,Automatic,silver,1275000,15
+Toyota,Camry,2006,161088,Nigerian used,D,Petrol,Automatic,blue,1735000,15
+Nissan,Almera,2013,67887,Nigerian used,B,Petrol,Automatic,black,2310000,8
+Volkswagen,Golf,1999,279649,Foreign used,C,Petrol,Manual,silver,1275000,22
+Cadillac,Escalade,2011,21308,Nigerian used,C,Petrol,Automatic,white,4520000,10
+Mercedes-Benz,Slk350,2005,80497,Nigerian used,C,Petrol,Automatic,silver,3001250,16
+Mitsubishi,Pajero,2012,124776,Nigerian used,D,Petrol,Automatic,grey,3957500,9
+Lexus,Es,2006,197521,Nigerian used,D,Petrol,Automatic,black,2310000,15
+Toyota,Camry,2015,33746,Nigerian used,C,Petrol,Automatic,silver,5185000,6
+Nissan,Pathfinder,2005,181558,Nigerian used,E,Petrol,Automatic,silver,1595000,16
+Toyota,Venza,2012,153121,Foreign used,D,Petrol,Automatic,silver,4610000,9
+Toyota,Camry,2011,109240,Foreign used,D,Petrol,Automatic,silver,3460000,10
+Jeep,Grand Cherokee,2006,186785,Foreign used,E,Petrol,Automatic,silver,2885000,15
+Peugeot,307,2008,48000,Nigerian used,D,Petrol,Manual,black,585000,13
+Nissan,Xterra,2000,172109,Nigerian used,D,Petrol,Automatic,green,628750,21
+Honda,Pilot,2012,136336,Nigerian used,C,Petrol,Automatic,silver,4610000,9
+Peugeot,508,2012,54153,Nigerian used,C,Petrol,Automatic,black,4610000,9
+Honda,Cr-V,2009,285743,Nigerian used,D,Petrol,Automatic,black,1707500,12
+Toyota,Avensis,1999,152613,Nigerian used,D,Petrol,Automatic,silver,807500,22
+Honda,Odyssey,2005,111297,Nigerian used,C,Petrol,Automatic,green,920000,16
+Acura,Tl,2004,213284,Nigerian used,D,Petrol,Manual,red,642500,17
+Toyota,Corolla,2009,149944,Nigerian used,D,Petrol,Automatic,black,1370000,12
+Jeep,Grand Cherokee,2007,133422,Foreign used,C,Petrol,Automatic,silver,1786250,14
+Mercedes-Benz,E350,2006,208154,Foreign used,C,Petrol,Automatic,black,2270000,15
+Toyota,Camry,2008,144129,Foreign used,E,Petrol,Automatic,black,3000000,13
+Mercedes-Benz,Ml350,2007,40973,Nigerian used,C,Petrol,Automatic,grey,3460000,14
+Ford,Taurus,2011,80124,Nigerian used,D,Petrol,Automatic,white,1707500,10
+Volkswagen,Passat,2012,41543,Foreign used,C,Petrol,Automatic,black,3230000,9
+Volvo,S40,1997,252464,Nigerian used,C,Petrol,Automatic,white,470000,24
+Honda,Accord,2009,164756,Nigerian used,D,Petrol,Automatic,black,1390000,12
+Lexus,Rx 330,2004,126591,Nigerian used,D,Petrol,Automatic,silver,2770000,17
+Mercedes-Benz,E350,2007,135356,Nigerian used,C,Petrol,Automatic,white,1965000,14
+Honda,Pilot,2006,332227,Nigerian used,C,Petrol,Automatic,black,1608500,15
+Lincoln,Mkz,2007,217500,Foreign used,C,Petrol,Automatic,grey,1707500,14
+Mercedes-Benz,E320,2002,280387,Nigerian used,C,Petrol,Automatic,black,1562500,19
+Toyota,Venza,2010,137337,Foreign used,D,Petrol,Automatic,red,4610000,11
+Nissan,Teana,2013,34467,Nigerian used,B,Petrol,Automatic,purple,4035000,8
+Skoda,Fabia,2010,118933,Nigerian used,C,Petrol,Manual,silver,642500,11
+Land Rover,Lr3,2006,69761,Nigerian used,C,Petrol,Automatic,red,1735000,15
+Toyota,Prius,2004,93007,Foreign used,C,Hybrid,Automatic,blue,2310000,17
+Mercedes-Benz,C300,2011,188367,Foreign used,C,Petrol,Automatic,black,4150000,10
+Mercedes-Benz,Ml550,2006,74197,Nigerian used,C,Petrol,Automatic,black,2310000,15
+Honda,Accord,2000,267382,Nigerian used,D,Petrol,Automatic,grey,582500,21
+BMW,3 Series,2004,188576,Nigerian used,C,Petrol,Automatic,black,6910000,17
+Honda,Accord,2008,99999,Nigerian used,D,Petrol,Automatic,grey,1145000,13
+Mercedes-Benz,Gl550,2008,181959,Nigerian used,C,Petrol,Automatic,black,4610000,13
+Kia,Rio,2014,140442,Nigerian used,D,Petrol,Manual,grey,930000,7
+Skoda,Fabia,2007,11378,Nigerian used,E,Petrol,Manual,blue,527500,14
+Toyota,Camry,2007,74248,Foreign used,E,Petrol,Automatic,silver,2885000,14
+Ford,Edge,2014,91379,Nigerian used,C,Petrol,Automatic,black,3620000,7
+Mercedes-Benz,Gl450,2012,93469,Nigerian used,C,Petrol,Automatic,grey,6910000,9
+Nissan,Maxima,2004,177329,Nigerian used,D,Petrol,Automatic,blue,470000,17
+Mercedes-Benz,E350,2005,207493,Foreign used,C,Petrol,Automatic,blue,1965000,16
+Volkswagen,Tiguan,2010,189391,Nigerian used,D,Petrol,Automatic,blue,1735000,11
+Ford,Windstar,2001,110495,Nigerian used,E,Petrol,Automatic,grey,432625,20
+Toyota,4Runner,2003,249924,Foreign used,E,Petrol,Automatic,silver,2770000,18
+Nissan,Armada,2006,60636,Nigerian used,D,Petrol,Automatic,green,1045000,15
+Toyota,Camry,2007,86506,Foreign used,E,Hybrid,Automatic,grey,2607500,14
+Honda,Odyssey,2010,195930,Foreign used,C,Petrol,Automatic,grey,2945000,11
+Toyota,Sienna,2010,85436,Foreign used,C,Petrol,Automatic,grey,3230000,11
+Toyota,Camry,1997,312705,Nigerian used,D,Petrol,Automatic,silver,638750,24
+Land Rover,Range Rover Sport,2007,141054,Nigerian used,C,Petrol,Automatic,black,2540000,14
+Toyota,Rav4,2007,93000,Nigerian used,C,Petrol,Automatic,black,2045000,14
+Mazda,Mpv,2003,160320,Nigerian used,E,Petrol,Automatic,white,723000,18
+Nissan,Pathfinder,2005,237033,Nigerian used,C,Petrol,Automatic,blue,1145000,16
+Honda,Civic,2009,74365,Nigerian used,C,Petrol,Automatic,silver,1707500,12
+Toyota,Highlander,2008,179971,Nigerian used,D,Petrol,Automatic,black,3920000,13
+Toyota,Camry,2012,72230,Foreign used,C,Petrol,Automatic,silver,4070000,9
+Nissan,Xterra,2002,83840,Nigerian used,D,Petrol,Automatic,green,582500,19
+Volkswagen,Golf,2007,92540,Nigerian used,C,Petrol,Automatic,black,1482500,14
+Toyota,Corolla,2004,145729,Foreign used,C,Petrol,Automatic,silver,2195000,17
+Opel,Zafira,2001,309235,Foreign used,C,Petrol,Automatic,silver,1620000,20
+Chevrolet,Malibu,2008,100913,Foreign used,C,Petrol,Automatic,grey,2382500,13
+Land Rover,Range Rover Vogue,2006,63296,Nigerian used,D,Petrol,Automatic,black,6910000,15
+Kia,Opirus,2004,209541,Nigerian used,C,Petrol,Automatic,silver,1145000,17
+Infiniti,Qx,2002,181546,Nigerian used,D,Petrol,Automatic,black,470000,19
+Hyundai,Accent,2012,122968,Nigerian used,C,Petrol,Automatic,black,1447500,9
+Hyundai,Santa Fe,2012,72356,Nigerian used,C,Petrol,Automatic,grey,3395000,9
+Mercedes-Benz,E320,2005,167054,Nigerian used,E,Petrol,Automatic,grey,1932500,16
+Land Rover,Range Rover Sport,2011,51658,Nigerian used,C,Petrol,Automatic,black,4035000,10
+Toyota,Corolla,2005,280458,Nigerian used,C,Petrol,Automatic,grey,1850000,16
+Mercedes-Benz,S600,2002,210000,Nigerian used,E,Petrol,Automatic,black,1390000,19
+Toyota,Corolla,2008,228753,Nigerian used,D,Petrol,Automatic,green,1620000,13
+Toyota,Avalon,2005,284852,Foreign used,C,Petrol,Automatic,silver,1932500,16
+BMW,5 Series,2004,47625,Nigerian used,C,Petrol,Automatic,black,1735000,17
+Ford,F-150,2002,150848,Nigerian used,D,Petrol,Automatic,black,987500,19
+Volkswagen,Tiguan,2012,81737,Nigerian used,B,Petrol,Automatic,grey,3957500,9
+Ford,Focus,2013,114146,Nigerian used,E,Petrol,Automatic,grey,930000,8
+Honda,Cr-V,2002,120654,Nigerian used,D,Petrol,Automatic,silver,1032500,19
+Suzuki,Alto,2006,17870,Nigerian used,C,Petrol,Automatic,black,1032500,15
+Hyundai,Sonata,2011,123528,Nigerian used,C,Petrol,Automatic,black,2425000,10
+Honda,Accord,2005,74301,Foreign used,E,Petrol,Automatic,gold,815000,16
+Toyota,Matrix,2006,77997,Foreign used,C,Petrol,Automatic,black,2270000,15
+Mazda,626,2000,143420,Nigerian used,E,Petrol,Manual,purple,413750,21
+Toyota,4Runner,1999,309686,Nigerian used,E,Petrol,Automatic,black,582500,22
+Kia,Optima,2012,99942,Nigerian used,C,Petrol,Automatic,grey,3000000,9
+Toyota,Corolla,2009,28516,Foreign used,D,Petrol,Automatic,silver,3057500,12
+Mercedes-Benz,VBoot,1990,286041,Nigerian used,D,Petrol,Automatic,brown,3460000,31
+Volkswagen,Golf,1992,216240,Nigerian used,E,Petrol,Manual,blue,355000,29
+Infiniti,Fx,2013,17254,Nigerian used,B,Petrol,Automatic,black,6335000,8
+Kia,Rio,2006,199060,Nigerian used,E,Petrol,Manual,black,527500,15
+Hyundai,I10,2012,189851,Nigerian used,C,Petrol,Manual,black,642500,9
+Toyota,Hilux,2004,256976,Foreign used,C,Diesel,Manual,white,4610000,17
+Toyota,Corolla,2013,164953,Nigerian used,C,Petrol,Manual,black,2045000,8
+Mercedes-Benz,E350,2011,45000,Nigerian used,B,Petrol,Automatic,blue,5081500,10
+Toyota,Sienna,2006,96630,Nigerian used,C,Petrol,Automatic,grey,2885000,15
+Toyota,Rav4,2008,122142,Nigerian used,D,Petrol,Automatic,black,1850000,13
+Nissan,Murano,2009,210109,Foreign used,C,Petrol,Automatic,grey,3000000,12
+Hyundai,Santa Fe,2002,238557,Nigerian used,E,Petrol,Automatic,silver,976250,19
+Toyota,Corolla,2008,299999,Foreign used,D,Petrol,Automatic,blue,2540000,13
+Hyundai,Accent,2016,31315,Nigerian used,D,Petrol,Automatic,black,2495000,5
+Kia,Spectra,2007,90196,Nigerian used,D,Petrol,Automatic,red,863750,14
+Lexus,Rx 330,2004,333333,Nigerian used,C,Petrol,Automatic,silver,2832500,17
+Chevrolet,Trailblazer,2004,123901,Nigerian used,D,Petrol,Automatic,blue,695000,17
+Acura,Mdx,2002,214922,Nigerian used,D,Petrol,Automatic,black,815000,19
+Peugeot,406,2001,263253,Nigerian used,C,Petrol,Manual,blue,815000,20
+Mercedes-Benz,Gl450,2010,65402,Nigerian used,C,Petrol,Automatic,black,4520000,11
+Toyota,Camry,2009,121749,Foreign used,C,Petrol,Automatic,black,2720000,12
+Toyota,Corolla,2008,126824,Nigerian used,C,Petrol,Manual,silver,1045000,13
+Volkswagen,CC,2014,41532,Nigerian used,C,Petrol,Automatic,blue,3575000,7
+Land Rover,Range Rover HSE,2008,123435,Nigerian used,E,Petrol,Automatic,black,1390000,13
+Mercedes-Benz,Ml320,2003,193319,Foreign used,D,Petrol,Automatic,blue,1620000,18
+Mercedes-Benz,E350,2010,183926,Nigerian used,C,Petrol,Automatic,blue,4840000,11
+Toyota,Sequoia,2003,127197,Nigerian used,D,Petrol,Automatic,silver,976250,18
+Toyota,4Runner,2002,183321,Nigerian used,E,Petrol,Automatic,silver,638750,19
+Nissan,Pathfinder,2000,136651,Nigerian used,E,Petrol,Automatic,wine,585000,21
+Lexus,Es,2005,176486,Nigerian used,C,Petrol,Automatic,silver,1735000,16
+Mercedes-Benz,Ml350,2008,204436,Foreign used,C,Petrol,Automatic,black,4610000,13
+Mercedes-Benz,Gl450,2012,158468,Nigerian used,D,Petrol,Automatic,white,5760000,9
+Nissan,Pathfinder,2007,90434,Nigerian used,D,Petrol,Automatic,blue,1145000,14
+Toyota,Corolla,2005,87773,Foreign used,E,Petrol,Automatic,blue,2195000,16
+Lexus,Es 300,2002,221044,Nigerian used,D,Petrol,Automatic,gold,1600000,19
+Toyota,Avalon,1996,262770,Nigerian used,E,Petrol,Automatic,red,413750,25
+Honda,Pilot,2012,77559,Nigerian used,C,Petrol,Automatic,blue,4610000,9
+Ford,F-150,2008,109462,Foreign used,E,Petrol,Automatic,gold,2870000,13
+Toyota,Corolla,2014,118198,Nigerian used,C,Petrol,Automatic,black,3805000,7
+Chrysler,Pacifica,2004,92123,Nigerian used,E,Petrol,Automatic,blue,585000,17
+Fiat,Fullback,2000,246629,Foreign used,D,Diesel,Manual,white,2310000,21
+Peugeot,407,2005,176545,Nigerian used,D,Petrol,Automatic,blue,1160000,16
+Toyota,Corolla,2011,198975,Nigerian used,D,Petrol,Automatic,blue,2832500,10
+Toyota,Avensis,2006,264509,Foreign used,E,Petrol,Manual,cream,1595000,15
+Suzuki,Sx4,2008,134134,Nigerian used,E,Petrol,Automatic,wine,470000,13
+Toyota,Avensis,2013,106926,Nigerian used,D,Petrol,Automatic,grey,3230000,8
+Land Rover,Range Rover HSE,2008,106587,Nigerian used,E,Petrol,Automatic,grey,4610000,13
+Nissan,Pathfinder,2002,154863,Nigerian used,D,Petrol,Automatic,gold,757500,19
+Honda,Cr-V,2000,159016,Nigerian used,E,Petrol,Automatic,silver,616250,21
+Hyundai,Elantra,2017,10559,Foreign used,C,Petrol,Automatic,red,6335000,4
+Lexus,Gs 300,2006,174168,Nigerian used,E,Petrol,Automatic,wine,1735000,15
+Toyota,Sienna,2006,287574,Nigerian used,D,Petrol,Automatic,grey,1206000,15
+Ford,Mustang,2006,147224,Foreign used,D,Petrol,Automatic,red,2885000,15
+Hyundai,I10,2011,68250,Nigerian used,E,Petrol,Automatic,black,757500,10
+Nissan,Quest,2000,175250,Nigerian used,E,Petrol,Automatic,blue,815000,21
+Infiniti,i35,1996,186690,Nigerian used,D,Petrol,Automatic,gold,391250,25
+Lexus,Gs 300,1994,298715,Nigerian used,D,Petrol,Automatic,green,670000,27
+Toyota,Rav4,2003,105426,Nigerian used,E,Petrol,Automatic,green,1102500,18
+Honda,Odyssey,2015,125168,Foreign used,C,Petrol,Automatic,grey,6545000,6
+Nissan,Altima,1999,179999,Nigerian used,E,Petrol,Automatic,black,447000,22
+Lexus,Es 300,2002,115081,Foreign used,C,Petrol,Automatic,gold,2425000,19
+BMW,3 Series,2009,155960,Foreign used,C,Petrol,Automatic,grey,3000000,12
+Land Rover,Range Rover HSE,2009,57854,Nigerian used,D,Petrol,Automatic,grey,2885000,12
+Porsche,Cayenne,2005,68679,Nigerian used,D,Petrol,Automatic,black,2540000,16
+Audi,A6,1998,203017,Foreign used,E,Petrol,Automatic,grey,930000,23
+Nissan,Primera,2005,263401,Foreign used,C,Petrol,Manual,green,1045000,16
+Honda,Accord,2006,136949,Nigerian used,D,Petrol,Automatic,grey,930000,15
+Acura,Mdx,2001,216511,Nigerian used,E,Petrol,Automatic,black,930000,20
+Peugeot,406,2001,215000,Nigerian used,E,Petrol,Automatic,black,470000,20
+Mercedes-Benz,Glk350,2012,50943,Foreign used,C,Petrol,Automatic,white,7140000,9
+Mazda,Tribute,2002,161968,Nigerian used,D,Petrol,Automatic,grey,527500,19
+Jeep,Grand Cherokee,2000,230296,Nigerian used,E,Petrol,Automatic,brown,470000,21
+Toyota,Avalon,2006,181914,Nigerian used,C,Petrol,Automatic,grey,1505000,15
+Dodge,Ram,1997,153315,Nigerian used,E,Petrol,Automatic,white,1102500,24
+Nissan,Almera,1998,106289,Nigerian used,D,Petrol,Manual,silver,355000,23
+Volkswagen,Golf,2008,115490,Nigerian used,C,Petroleum Gas,Manual,blue,1620000,13
+BMW,320i,2010,69025,Nigerian used,D,Petrol,Automatic,black,1850000,11
+Peugeot,607,2003,229154,Foreign used,E,Petrol,Manual,silver,900000,18
+Hyundai,Sonata,2011,97922,Nigerian used,C,Petrol,Automatic,grey,1965000,10
+Ford,Escape,2013,203863,Nigerian used,D,Petrol,Automatic,black,2540000,8
+Nissan,Altima,2007,170495,Foreign used,D,Petrol,Automatic,red,1850000,14
+Mercedes-Benz,Gl450,2010,185873,Foreign used,E,Petrol,Automatic,black,6335000,11
+Nissan,Primera,2003,104422,Nigerian used,E,Petrol,Automatic,silver,550500,18
+Volkswagen,Touareg,2004,99594,Foreign used,D,Petrol,Automatic,grey,1160000,17
+Infiniti,Qx56,2013,30625,Nigerian used,C,Petrol,Automatic,black,6910000,8
+Kia,Rio,2014,120869,Nigerian used,D,Petrol,Manual,black,757500,7
+Honda,Accord,2002,225511,Nigerian used,D,Petrol,Manual,gold,585000,19
+Toyota,Camry,2007,117759,Nigerian used,E,Petrol,Automatic,blue,1447500,14
+Peugeot,307,2006,342121,Nigerian used,D,Petrol,Manual,blue,527500,15
+Audi,A4,2011,54519,Nigerian used,D,Petrol,Automatic,brown,2655000,10
+Toyota,Avalon,2012,219133,Foreign used,C,Petrol,Automatic,black,3805000,9
+Lexus,Rx 300,2002,295119,Foreign used,C,Petrol,Automatic,white,2252500,19
+Peugeot,407,2007,92785,Foreign used,C,Petrol,Automatic,green,1505000,14
+Toyota,Highlander,2012,126078,Nigerian used,E,Petrol,Automatic,black,5472500,9
+Kia,Opirus,2004,180015,Nigerian used,D,Petrol,Automatic,black,527500,17
+Toyota,Corolla,2001,242381,Nigerian used,E,Petrol,Automatic,black,527500,20
+Honda,Accord,2007,109064,Nigerian used,D,Petrol,Automatic,black,1160000,14
+Toyota,HiAce,2010,227355,Nigerian used,D,Petrol,Manual,white,2600000,11
+Ford,Focus,2003,155207,Nigerian used,E,Petrol,Automatic,red,642500,18
+Ford,Edge,2007,147856,Nigerian used,C,Petrol,Automatic,black,1965000,14
+Toyota,Yaris,2015,128719,Foreign used,C,Petrol,Automatic,white,4247750,6
+Toyota,Sienna,2005,102817,Foreign used,C,Petrol,Automatic,silver,3000000,16
+Ford,F-150,2001,177241,Nigerian used,E,Petrol,Automatic,red,930000,20
+Kia,Rio,2014,118673,Nigerian used,D,Petrol,Automatic,black,1505000,7
+Toyota,Corolla,2004,165416,Nigerian used,C,Petrol,Manual,grey,1850000,17
+Volkswagen,Passat,2006,87815,Nigerian used,D,Petrol,Automatic,silver,1160000,15
+Honda,Civic,2014,101023,Nigerian used,D,Petrol,Manual,black,1965000,7
+Lexus,Rx 300,2002,232659,Nigerian used,C,Petrol,Automatic,gold,1735000,19
+Honda,Cr-V,2002,233369,Nigerian used,D,Petrol,Automatic,black,815000,19
+Lexus,Es,2002,128384,Nigerian used,C,Petrol,Automatic,silver,1735000,19
+Toyota,Corolla,2009,102074,Foreign used,E,Petrol,Automatic,grey,2885000,12
+Innoson,IVMG5,2013,58333,Nigerian used,E,Petrol,Manual,white,582500,8
+Honda,Accord,2005,186908,Nigerian used,E,Petrol,Automatic,silver,930000,16
+Toyota,Camry,2009,102674,Foreign used,D,Petrol,Automatic,grey,2080000,12
+Toyota,Corolla,2006,188177,Nigerian used,D,Petrol,Automatic,grey,1677500,15
+Nissan,Altima,2008,243476,Nigerian used,D,Petrol,Automatic,white,987500,13
+Dodge,Charger,2012,148264,Foreign used,C,Petrol,Automatic,blue,5760000,9
+BMW,X5,2012,126186,Foreign used,C,Petrol,Automatic,black,6335000,9
+Hyundai,Elantra,2013,122397,Nigerian used,C,Petrol,Automatic,black,1914000,8
+Lexus,Rx 300,2001,223092,Nigerian used,D,Petrol,Automatic,blue,1160000,20
+Nissan,Altima,2002,238050,Nigerian used,E,Petrol,Automatic,silver,470000,19
+Land Rover,Range Rover Sport,2008,46683,Nigerian used,D,Petrol,Automatic,silver,3460000,13
+Hyundai,Santa Fe,2004,174658,Nigerian used,E,Petrol,Automatic,silver,700000,17
+Kia,Sorento,2005,243676,Foreign used,E,Petrol,Automatic,silver,1505000,16
+Ford,Edge,2010,86999,Foreign used,C,Petrol,Automatic,silver,2770000,11
+Toyota,4Runner,2008,66866,Nigerian used,D,Petrol,Automatic,silver,3345000,13
+BMW,X3,2007,132847,Foreign used,D,Petrol,Automatic,black,2080000,14
+Hyundai,H1,1998,258197,Nigerian used,E,Petrol,Manual,blue,412500,23
+Infiniti,Qx,1999,171963,Nigerian used,D,Petrol,Automatic,black,412500,22
+Lexus,Ls,1997,330067,Nigerian used,D,Petrol,Automatic,silver,470000,24
+Acura,Mdx,2007,173669,Foreign used,E,Petrol,Automatic,grey,2885000,14
+Toyota,Highlander,2008,238517,Foreign used,E,Hybrid,Automatic,wine,4035000,13
+Infiniti,Fx,2003,251442,Foreign used,D,Petrol,Automatic,silver,1735000,18
+Infiniti,Fx,2005,185965,Nigerian used,E,Petrol,Automatic,black,1217500,16
+Nissan,Xterra,2000,143191,Nigerian used,D,Petrol,Automatic,blue,930000,21
+Toyota,Camry,1998,145234,Nigerian used,D,Petrol,Automatic,silver,700000,23
+Mercedes-Benz,Cls500,2006,49844,Nigerian used,D,Petrol,Automatic,grey,1390000,15
+Mercedes-Benz,C300,2010,110755,Nigerian used,C,Petrol,Automatic,black,4610000,11
+Toyota,Sienna,2011,156851,Foreign used,C,Petrol,Automatic,silver,5185000,10
+Volkswagen,Passat,2011,146084,Nigerian used,D,Petrol,Automatic,black,1850000,10
+Toyota,Sienna,2004,112723,Nigerian used,E,Petrol,Automatic,grey,1620000,17
+Lexus,Gx,2007,80864,Nigerian used,D,Petrol,Automatic,silver,2655000,14
+Nissan,Altima,2014,84806,Nigerian used,C,Petrol,Automatic,silver,2655000,7
+Toyota,Prius,2004,288537,Nigerian used,D,Hybrid,Automatic,silver,987500,17
+Ford,Escape,2001,180655,Nigerian used,E,Petrol,Automatic,red,723000,20
+Ford,Focus,2001,220553,Nigerian used,C,Petrol,Automatic,black,700000,20
+Nissan,Murano,2003,130119,Foreign used,D,Petrol,Automatic,gold,1735000,18
+Chrysler,200,2015,7150,Foreign used,D,Petrol,Automatic,grey,5760000,6
+Kia,Soul,2010,62008,Nigerian used,C,Petrol,Automatic,red,1160000,11
+Nissan,Quest,1999,209061,Nigerian used,E,Petrol,Automatic,green,355000,22
+Toyota,Camry,2012,74345,Nigerian used,E,Petrol,Automatic,silver,3957500,9
+Nissan,Almera,2002,137928,Nigerian used,D,Petrol,Automatic,silver,872500,19
+Toyota,Corolla,2010,191781,Nigerian used,D,Petrol,Automatic,silver,1758000,11
+Honda,Accord,2015,88093,Foreign used,C,Petrol,Automatic,grey,4610000,6
+Toyota,Highlander,2009,85087,Nigerian used,D,Petrol,Automatic,silver,3805000,12
+Toyota,Corolla,2015,81653,Foreign used,C,Petrol,Automatic,white,5760000,6
+Toyota,Sienna,2000,322270,Nigerian used,D,Petrol,Automatic,blue,642500,21
+Toyota,Avalon,2002,206925,Nigerian used,C,Petrol,Automatic,grey,1045000,19
+Jaguar,S-Type,2000,249646,Nigerian used,D,Petrol,Automatic,black,585000,21
+Toyota,Venza,2009,112626,Nigerian used,C,Petrol,Automatic,brown,3920000,12
+BMW,X6,2008,67430,Nigerian used,D,Petrol,Automatic,black,5185000,13
+Honda,Accord Crosstour,2011,123456,Foreign used,C,Petrol,Automatic,black,4840000,10
+Honda,Accord Crosstour,2011,72377,Nigerian used,E,Petrol,Automatic,white,2310000,10
+Honda,Accord,2003,149777,Nigerian used,D,Petrol,Automatic,black,757500,18
+Toyota,Corolla,2008,126194,Nigerian used,D,Petrol,Automatic,black,1735000,13
+Toyota,Highlander,2011,132402,Foreign used,C,Petrol,Automatic,black,6450000,10
+Peugeot,407,2008,175271,Nigerian used,E,Petrol,Manual,grey,700000,13
+Ford,Edge,2009,170589,Nigerian used,E,Petrol,Automatic,black,2770000,12
+Mercedes-Benz,Gl450,2012,55438,Foreign used,D,Petrol,Automatic,blue,5070000,9
+Toyota,Camry,2015,57760,Nigerian used,C,Petrol,Automatic,grey,4955000,6
+Honda,Pilot,2009,155689,Foreign used,C,Petrol,Automatic,brown,3230000,12
+Nissan,Sentra,2013,40415,Nigerian used,C,Petrol,Automatic,black,2195000,8
+Chevrolet,cobalt,2006,94459,Nigerian used,D,Petrol,Automatic,black,700000,15
+Ford,Escape,2005,117507,Nigerian used,D,Petrol,Automatic,blue,987500,16
+Toyota,Corolla,2015,77020,Foreign used,C,Petrol,Automatic,grey,5800000,6
+Mazda,Millenia,2002,173874,Nigerian used,D,Petrol,Automatic,gold,585000,19
+Nissan,Xterra,2004,152202,Nigerian used,E,Petrol,Automatic,blue,700000,17
+Isuzu,Rodeo,1999,232447,Nigerian used,E,Petrol,Automatic,silver,527500,22
+Ford,Explorer,2004,188875,Nigerian used,E,Petrol,Automatic,black,608000,17
+Mercedes-Benz,C300,2008,47189,Nigerian used,C,Petrol,Automatic,white,3287500,13
+Nissan,Pathfinder,1997,171211,Nigerian used,D,Petrol,Automatic,black,585000,24
+Toyota,Camry,2009,195858,Nigerian used,C,Petrol,Automatic,sky blue,2540000,12
+Honda,Accord Crosstour,2012,78237,Foreign used,C,Petrol,Automatic,green,3943000,9
+Ford,Explorer,2013,105619,Nigerian used,C,Petrol,Automatic,black,3146000,8
+Lexus,Es 350,2010,167598,Foreign used,D,Petrol,Automatic,black,4265000,11
+Nissan,Xterra,2007,135588,Nigerian used,C,Petrol,Automatic,silver,1275000,14
+Volkswagen,Passat,2014,36320,Nigerian used,B,Petrol,Automatic,grey,4610000,7
+Mercedes-Benz,Ml350,2008,155268,Nigerian used,C,Petrol,Automatic,silver,2310000,13
+Hyundai,H1,1999,190880,Nigerian used,C,Diesel,Manual,green,1102500,22
+Honda,Accord,2013,124619,Nigerian used,C,Petrol,Automatic,black,4380000,8
+Honda,Civic,2016,50856,Foreign used,E,Petrol,Automatic,blue,6335000,5
+Toyota,Corolla,1999,257532,Nigerian used,D,Petrol,Automatic,black,585000,22
+Honda,Accord,2012,103412,Nigerian used,C,Petrol,Automatic,grey,1735000,9
+Honda,Accord,1995,210609,Nigerian used,D,Petrol,Automatic,blue,389500,26
+Honda,Odyssey,2015,142834,Nigerian used,C,Petrol,Automatic,silver,5760000,6
+Ford,Explorer,2013,112917,Nigerian used,D,Petrol,Automatic,black,2885000,8
+Nissan,Pathfinder,2002,312906,Nigerian used,D,Petrol,Automatic,black,516000,19
+Toyota,Camry,2008,185647,Nigerian used,D,Petrol,Automatic,blue,1735000,13
+Toyota,Corolla,2003,279693,Nigerian used,C,Petrol,Automatic,black,1505000,18
+Nissan,Tiida,2005,169417,Nigerian used,E,Petrol,Automatic,silver,642500,16
+Chevrolet,Alero,2012,78206,Foreign used,E,Petrol,Automatic,black,2310000,9
+Nissan,Rogue,2008,138085,Foreign used,E,Petrol,Automatic,red,2705000,13
+Toyota,Corolla,2010,92933,Nigerian used,D,Petrol,Automatic,silver,1850000,11
+Toyota,Camry,2011,65344,Foreign used,E,Petrol,Automatic,red,2770000,10
+Toyota,Camry,2010,239049,Foreign used,D,Petrol,Automatic,blue,2942500,11
+Kia,Spectra,2008,226204,Nigerian used,D,Petrol,Automatic,red,700000,13
+Toyota,Land Cruiser Prado,2007,220543,Nigerian used,C,Petrol,Automatic,black,5760000,14
+Dodge,Caravan,2002,201584,Nigerian used,D,Petrol,Automatic,blue,872500,19
+Toyota,Corolla,2017,15857,Foreign used,D,Petrol,Automatic,red,7000000,4
+Honda,Accord,2001,225705,Nigerian used,E,Petrol,Automatic,silver,470000,20
+Acura,Mdx,2001,174056,Nigerian used,D,Petrol,Automatic,gold,930000,20
+Honda,Pilot,2011,188695,Foreign used,C,Petrol,Automatic,grey,4840000,10
+Toyota,Sienna,2005,110895,Nigerian used,C,Petrol,Automatic,gold,1850000,16
+Honda,Accord,2016,44611,Foreign used,B,Petrol,Automatic,grey,6170000,5
+Honda,Accord Crosstour,2014,45613,Foreign used,D,Petrol,Automatic,black,5300000,7
+Peugeot,307,2003,189522,Foreign used,C,Petrol,Automatic,silver,1735000,18
+Volkswagen,Jetta,2002,146060,Nigerian used,E,Petrol,Automatic,blue,470000,19
+Toyota,Camry,2016,50484,Foreign used,D,Petrol,Automatic,black,6910000,5
+Toyota,Corolla,2008,201328,Nigerian used,E,Petrol,Automatic,blue,1505000,13
+Toyota,Corolla,2007,143819,Nigerian used,C,Petrol,Manual,silver,1735000,14
+Ford,Taurus,2010,114949,Nigerian used,D,Petrol,Automatic,black,1735000,11
+Honda,Accord,2012,156996,Nigerian used,D,Petrol,Automatic,black,1620000,9
+Honda,Accord,2003,174710,Nigerian used,D,Petrol,Automatic,black,757500,18
+Nissan,Pathfinder,2001,164897,Nigerian used,C,Petrol,Automatic,black,700000,20
+Toyota,Camry,2011,141624,Nigerian used,D,Petrol,Automatic,grey,2310000,10
+Volkswagen,Jetta,2015,59259,Foreign used,C,Petrol,Automatic,grey,3460000,6
+Mercedes-Benz,R350,2006,258529,Foreign used,C,Petrol,Automatic,silver,3270250,15
+Hyundai,Accent,2012,120605,Nigerian used,C,Petrol,Automatic,grey,1850000,9
+Kia,Rio,2013,77632,Nigerian used,D,Petrol,Manual,black,930000,8
+Mazda,Mpv,2001,182517,Nigerian used,E,Petrol,Automatic,silver,907000,20
+Toyota,Rav4,2014,119816,Nigerian used,D,Petrol,Automatic,white,4610000,7
+Volkswagen,Golf,1997,208124,Foreign used,C,Petrol,Manual,green,930000,24
+Nissan,Versa,2008,101995,Foreign used,D,Petrol,Automatic,silver,1677500,13
+Mercedes-Benz,E350,2012,48512,Nigerian used,D,Petrol,Automatic,white,6910000,9
+Toyota,Camry,2000,242884,Nigerian used,D,Petrol,Automatic,red,834991,21
+Ford,Escape,2008,151363,Nigerian used,E,Petrol,Automatic,red,1505000,13
+Honda,Accord,2013,100116,Foreign used,D,Petrol,Automatic,black,3506000,8
+Honda,Accord,2008,100290,Nigerian used,D,Petrol,Automatic,blue,1390000,13
+Peugeot,406,2001,46062,Nigerian used,D,Petrol,Manual,silver,757500,20
+Toyota,Camry,2010,176780,Foreign used,C,Petrol,Automatic,black,2885000,11
+Mercedes-Benz,E350,2006,184914,Foreign used,C,Petrol,Automatic,grey,2885000,15
+Honda,Pilot,2006,226649,Nigerian used,C,Petrol,Automatic,gold,1505000,15
+Honda,Pilot,2009,62863,Foreign used,C,Petrol,Automatic,blue,3460000,12
+Kia,Mohave,2012,51022,Nigerian used,C,Petrol,Automatic,black,5760000,9
+Hyundai,Santa Fe,2006,107420,Nigerian used,C,Petrol,Automatic,blue,1160000,15
+Chevrolet,Cruze,2016,111770,Foreign used,C,Petrol,Automatic,white,2000000,5
+Chevrolet,Cruze,2016,109269,Foreign used,C,Petrol,Automatic,white,2000000,5
+Chevrolet,Cruze,2016,76162,Foreign used,C,Petrol,Automatic,white,2000000,5
+Toyota,Camry,2013,132976,Foreign used,E,Petrol,Automatic,grey,4610000,8
+Audi,A6,1998,291222,Nigerian used,D,Petrol,Manual,blue,412500,23
+Nissan,Pathfinder,2006,132260,Nigerian used,C,Petrol,Automatic,grey,1160000,15
+Toyota,Highlander,2003,185502,Nigerian used,D,Petrol,Automatic,white,1677500,18
+Kia,Sportage,2013,64428,Nigerian used,C,Petrol,Automatic,grey,5185000,8
+Acura,Tl,2005,187134,Foreign used,D,Petrol,Automatic,gold,1620000,16
+Lexus,Rx 330,2004,78926,Nigerian used,D,Petrol,Automatic,silver,1505000,17
+Toyota,Camry,2011,203483,Foreign used,C,Petrol,Automatic,grey,3115000,10
+Dodge,Caravan,2008,252000,Foreign used,E,Petrol,Automatic,blue,2310000,13
+Lexus,Lx,1998,213809,Nigerian used,D,Petrol,Automatic,black,930000,23
+Lexus,Rx 300,2000,53100,Nigerian used,D,Petrol,Automatic,gold,1505000,21
+Lexus,Gs 330,2008,196562,Nigerian used,E,Petrol,Automatic,white,2655000,13
+BMW,3 Series,2006,130850,Foreign used,C,Petrol,Automatic,black,3460000,15
+Chrysler,200,2012,111128,Foreign used,D,Petrol,Automatic,silver,2310000,9
+Nissan,Maxima,2011,66504,Nigerian used,C,Petrol,Automatic,grey,2540000,10
+BMW,3 Series,2010,219254,Foreign used,C,Petrol,Automatic,black,3460000,11
+Ford,Flex,2011,133998,Foreign used,C,Petrol,Automatic,blue,2310000,10
+Acura,Mdx,2008,169865,Nigerian used,C,Petrol,Automatic,gold,2425000,13
+Volkswagen,Passat,2010,141301,Nigerian used,E,Petrol,Automatic,black,2310000,11
+Lexus,Gx,2006,98909,Nigerian used,C,Petrol,Automatic,silver,5185000,15
+Toyota,Sienna,2004,297812,Nigerian used,E,Petrol,Automatic,silver,1160000,17
+Nissan,Rogue,2010,158589,Nigerian used,D,Petrol,Automatic,white,2080000,11
+Audi,A3,1998,319512,Nigerian used,C,Petrol,Manual,blue,700000,23
+Honda,Pilot,2003,212790,Nigerian used,E,Petrol,Automatic,black,872500,18
+Toyota,Corolla,2016,84158,Foreign used,D,Petrol,Automatic,brown,4955000,5
+Toyota,Solara,2008,150168,Nigerian used,D,Petrol,Automatic,grey,1505000,13
+Mercedes-Benz,E350,2013,31285,Nigerian used,D,Petrol,Automatic,black,5760000,8
+BMW,3 Series,2007,149148,Nigerian used,D,Petrol,Automatic,black,1160000,14
+Toyota,Prius,2006,234419,Nigerian used,D,Hybrid,Automatic,green,2080000,15
+Mercedes-Benz,Gl450,2007,149003,Nigerian used,D,Petrol,Automatic,black,2080000,14
+Lexus,Rx 330,2004,143252,Nigerian used,D,Petrol,Automatic,gold,2310000,17
+Ford,Explorer,2014,99500,Nigerian used,E,Petrol,Automatic,red,2500000,7
+Land Rover,Range Rover HSE,2007,168656,Foreign used,D,Petrol,Automatic,black,4380000,14
+Toyota,Celica,2003,94406,Nigerian used,C,Petrol,Automatic,red,1735000,18
+Toyota,Sienna,2012,70531,Foreign used,D,Petrol,Automatic,white,4610000,9
+Toyota,Corolla,2009,140648,Nigerian used,D,Petrol,Automatic,gold,1505000,12
+Ford,Focus,2014,112348,Foreign used,C,Petrol,Automatic,silver,2712500,7
+Ford,Escape,2013,157999,Foreign used,E,Petrol,Automatic,black,3460000,8
+Mercedes-Benz,Ml350,2005,200309,Foreign used,D,Petrol,Automatic,blue,1725000,16
+Volkswagen,Golf,2001,168575,Foreign used,E,Petrol,Manual,silver,930000,20
+Hyundai,Elantra,2014,125550,Nigerian used,C,Petrol,Automatic,black,2885000,7
+Hummer,H3,2006,130450,Foreign used,D,Petrol,Automatic,black,3833750,15
+Mercedes-Benz,Glk350,2012,186104,Nigerian used,C,Petrol,Automatic,black,6910000,9
+Lexus,Rx 300,1999,101434,Foreign used,C,Petrol,Automatic,gold,1965000,22
+Mercedes-Benz,C200,2008,150775,Nigerian used,D,Petrol,Automatic,white,1735000,13
+Toyota,Camry,2011,141498,Foreign used,D,Petrol,Automatic,black,2908000,10
+Skoda,Octavia,2007,88089,Nigerian used,D,Petrol,Automatic,green,987500,14
+Toyota,Sienna,2001,215818,Nigerian used,E,Petrol,Automatic,silver,1102500,20
+Honda,Accord,2008,219348,Nigerian used,D,Petrol,Automatic,black,1447500,13
+Hyundai,Sonata,2011,127577,Foreign used,D,Petrol,Automatic,silver,2195000,10
+Nissan,Frontier,2003,284711,Nigerian used,C,Petrol,Automatic,blue,2425000,18
+Nissan,Altima,2008,310457,Foreign used,D,Petrol,Automatic,grey,1332500,13
+Acura,Mdx,2006,192322,Nigerian used,E,Petrol,Automatic,grey,1160000,15
+Land Rover,Range Rover Sport,2007,77982,Nigerian used,C,Petrol,Automatic,black,4380000,14
+Honda,Pilot,2005,70119,Foreign used,C,Petrol,Automatic,grey,2310000,16
+Lexus,Rx 330,2006,109524,Nigerian used,C,Petrol,Automatic,silver,2540000,15
+Infiniti,Ex,2008,94703,Foreign used,C,Petrol,Automatic,grey,2310000,13
+Honda,Accord,2008,111312,Nigerian used,D,Petrol,Automatic,white,1562500,13
+Volkswagen,Jetta,2001,218903,Nigerian used,E,Petrol,Automatic,red,700000,20
+Honda,Accord,2004,226169,Nigerian used,E,Petrol,Automatic,grey,642500,17
+Land Rover,Range Rover Sport,2005,142209,Nigerian used,D,Petrol,Automatic,green,3000000,16
+Honda,Odyssey,2008,76830,Foreign used,C,Petrol,Automatic,white,2425000,13
+Toyota,Rav4,2011,94692,Nigerian used,C,Petrol,Automatic,grey,3460000,10
+Toyota,Corolla,2016,6693,Foreign used,B,Petrol,Automatic,black,5760000,5
+Mercedes-Benz,C300,2012,77798,Foreign used,B,Petrol,Automatic,gold,5645000,9
+Ford,Focus,2014,49425,Nigerian used,C,Petrol,Automatic,black,4610000,7
+Toyota,Sequoia,2005,184555,Nigerian used,E,Petrol,Automatic,grey,2310000,16
+Toyota,Corolla,2011,150028,Foreign used,C,Petrol,Automatic,silver,3460000,10
+Infiniti,i35,2001,207565,Nigerian used,D,Petrol,Automatic,silver,527500,20
+Land Rover,Lr3,2005,114289,Nigerian used,D,Petrol,Duplex,silver,2080000,16
+Ford,Focus,2011,89438,Nigerian used,E,Petrol,Manual,blue,930000,10
+Peugeot,406,1997,206024,Foreign used,C,Petrol,Manual,red,930000,24
+Mercedes-Benz,E320,2004,248867,Nigerian used,D,Petrol,Automatic,blue,1045000,17
+Jeep,Liberty,2004,178794,Nigerian used,E,Petrol,Automatic,black,700000,17
+Ford,Escape,2010,264958,Foreign used,E,Petrol,Automatic,grey,2540000,11
+Kia,Optima,2014,143191,Nigerian used,B,Petrol,Automatic,grey,3690000,7
+Ford,Explorer,2013,124170,Nigerian used,D,Petrol,Automatic,black,3460000,8
+Nissan,Almera,2013,108226,Nigerian used,C,Petrol,Automatic,grey,1380000,8
+Nissan,Almera,2013,152318,Nigerian used,E,Petrol,Automatic,grey,1380000,8
+Nissan,Almera,2013,124807,Nigerian used,D,Petrol,Manual,grey,1380000,8
+Nissan,Almera,2013,146355,Nigerian used,C,Petrol,Automatic,silver,1380000,8
+Honda,Accord,2015,105479,Foreign used,C,Petrol,Automatic,black,6680000,6
+Ford,Edge,2014,106098,Nigerian used,D,Petrol,Automatic,black,4025000,7
+Peugeot,408,2011,97226,Nigerian used,C,Petrol,Automatic,grey,1505000,10
+Mazda,Cx-7,2007,111284,Nigerian used,D,Petrol,Automatic,black,930000,14
+Honda,Accord,1998,175909,Nigerian used,D,Petrol,Automatic,green,471500,23
+Toyota,Camry,2012,216505,Nigerian used,E,Petrol,Automatic,white,2311500,9
+Nissan,Almera,2013,75137,Nigerian used,D,Petrol,Automatic,grey,1380000,8
+Toyota,Sienna,2006,102050,Foreign used,D,Petrol,Automatic,white,3030250,15
+Kia,Rio,2013,111447,Nigerian used,D,Petrol,Automatic,black,1334000,8
+Kia,Rio,2012,114199,Nigerian used,D,Petrol,Automatic,black,1161500,9
+Honda,Cr-V,2005,165870,Nigerian used,D,Petrol,Automatic,gold,1276500,16
+Toyota,Corolla,2008,202796,Nigerian used,D,Petrol,Automatic,black,1505000,13
+Nissan,Pathfinder,1998,153403,Nigerian used,E,Petrol,Automatic,black,585000,23
+Hyundai,I10,2015,31107,Nigerian used,C,Petrol,Manual,black,1850000,6
+Saturn,VUE,2009,144882,Foreign used,C,Petrol,Automatic,black,2770000,12
+Toyota,Camry,1993,162023,Nigerian used,E,Petrol,Automatic,green,470000,28
+Toyota,Rav4,2011,35434,Nigerian used,C,Petrol,Automatic,silver,3230000,10
+Toyota,Matrix,2007,299999,Nigerian used,D,Petrol,Automatic,black,1390000,14
+Lexus,Rx 300,2002,167987,Foreign used,D,Petrol,Automatic,gold,2183500,19
+Lexus,Gx,2006,40600,Nigerian used,E,Petrol,Automatic,black,3460000,15
+Honda,Accord,2011,65185,Foreign used,C,Petrol,Automatic,grey,3057500,10
+Nissan,Quest,2000,111835,Nigerian used,C,Petrol,Automatic,silver,608000,21
+Volkswagen,Jetta,2012,80638,Nigerian used,C,Petrol,Automatic,grey,1907500,9
+Lexus,Es,2002,239282,Foreign used,D,Petrol,Automatic,silver,2080000,19
+Infiniti,G,2002,120001,Nigerian used,D,Petrol,Automatic,gold,470000,19
+Mercedes-Benz,Glk350,2010,169880,Nigerian used,C,Petrol,Automatic,grey,4610000,11
+Nissan,Pathfinder,2008,312836,Foreign used,C,Petrol,Automatic,black,2310000,13
+Land Rover,Lr3,2007,90,Foreign used,C,Petrol,Automatic,grey,2885000,14
+Ford,Explorer,2011,79920,Nigerian used,D,Petrol,Automatic,red,4035000,10
+Toyota,Tacoma,2002,187811,Nigerian used,D,Petrol,Automatic,silver,1620000,19
+Honda,Pilot,2003,208883,Nigerian used,D,Petrol,Automatic,silver,1045000,18
+Toyota,Camry,1992,299383,Nigerian used,D,Petrol,Automatic,green,412500,29
+Ford,Taurus,2011,106061,Nigerian used,D,Petrol,Automatic,black,1735000,10
+Toyota,Corolla,2011,98586,Foreign used,E,Petrol,Automatic,black,3460000,10
+Honda,Civic,2009,124223,Foreign used,D,Petrol,Automatic,white,1965000,12
+Honda,Accord,2013,62038,Nigerian used,E,Petrol,Automatic,grey,2770000,8
+Ford,Edge,2014,43384,Nigerian used,B,Petrol,Automatic,black,6335000,7
+Land Rover,HSE,2007,159845,Nigerian used,D,Petrol,Automatic,white,1976500,14
+Acura,Mdx,2006,113602,Foreign used,C,Petrol,Automatic,grey,2080000,15
+Mazda,Cx-9,2011,122405,Foreign used,C,Petrol,Automatic,red,4610000,10
+Toyota,Corolla,2009,82200,Foreign used,C,Petrol,Automatic,black,2770000,12
+Toyota,Corolla,2006,258070,Foreign used,D,Petrol,Automatic,black,2196500,15
+Hyundai,Sonata,2008,78672,Nigerian used,C,Petrol,Automatic,grey,1771000,13
+Mercedes-Benz,Ml350,2012,107068,Nigerian used,C,Petrol,Automatic,brown,6910000,9
+GAC,GA3-S,2017,7148,Nigerian used,C,Petrol,Automatic,black,3460000,4
+Nissan,Sentra,2013,176343,Nigerian used,D,Petrol,Automatic,grey,2310000,8
+Toyota,Corolla,2016,41649,Foreign used,D,Petrol,Automatic,grey,5185000,5
+Honda,Accord,2006,297484,Nigerian used,E,Petrol,Automatic,grey,700000,15
+Kia,Sorento,2006,194097,Nigerian used,E,Petrol,Automatic,blue,1735000,15
+Peugeot,407,2005,228099,Nigerian used,C,Petrol,Automatic,red,987500,16
+Mercedes-Benz,C300,2008,168915,Nigerian used,D,Petrol,Automatic,blue,2655000,13
+Lexus,Gx,2003,85187,Nigerian used,D,Petrol,Automatic,black,2310000,18
+Mercedes-Benz,Ml350,2006,181464,Foreign used,C,Petrol,Automatic,black,4035000,15
+Mercedes-Benz,C240,2003,181079,Nigerian used,C,Petrol,Automatic,gold,1505000,18
+Nissan,Pathfinder,2005,100896,Nigerian used,D,Petrol,Automatic,ash,1045000,16
+Nissan,Altima,2006,106316,Nigerian used,E,Petrol,Automatic,grey,815000,15
+Volkswagen,Passat,2013,64230,Foreign used,D,Petrol,Automatic,grey,4611500,8
+Honda,Jazz,2014,67963,Nigerian used,C,Petrol,Automatic,black,2311500,7
+Ford,Explorer,2004,211997,Nigerian used,D,Petrol,Automatic,silver,700000,17
+Toyota,Camry,2007,48286,Nigerian used,E,Petrol,Automatic,grey,1736500,14
+Nissan,X-Trail,2009,103388,Nigerian used,E,Petrol,Automatic,gold,1850000,12
+Honda,Odyssey,2002,165996,Foreign used,E,Petrol,Automatic,silver,1529500,19
+Lexus,Rx,2005,242934,Nigerian used,D,Hybrid,Automatic,silver,2885000,16
+Lexus,Es,2002,174811,Foreign used,C,Petrol,Automatic,grey,1909000,19
+Dodge,Ram,2000,210731,Nigerian used,D,Petrol,Automatic,silver,989000,21
+Mercedes-Benz,C230,2006,320104,Foreign used,C,Petrol,Automatic,black,1966500,15
+Honda,Accord,2007,129454,Nigerian used,D,Petrol,Automatic,silver,1495000,14
+Land Rover,HSE,2010,114950,Nigerian used,C,Petrol,Automatic,white,4191000,11
+Ford,Escape,2006,178079,Nigerian used,C,Hybrid,Automatic,red,1045000,15
+Ford,F-150,2002,220163,Nigerian used,E,Petrol,Automatic,green,1990000,19
+Mercedes-Benz,Ml350,2006,150753,Foreign used,C,Petrol,Automatic,wine,3970000,15
+Toyota,Camry,2007,96307,Nigerian used,E,Petrol,Automatic,gold,2211000,14
+Ford,Expedition,2008,84607,Nigerian used,E,Petrol,Automatic,black,2310000,13
+Honda,Accord,2015,15043,Nigerian used,B,Petrol,Automatic,black,7160000,6
+Toyota,Highlander,2003,178066,Nigerian used,C,Petrol,Automatic,gold,1965000,18
+Mazda,Cx-9,2007,127043,Foreign used,D,Petrol,Automatic,black,2770000,14
+Infiniti,i35,2008,170168,Nigerian used,C,Petrol,Automatic,blue,2210000,13
+Lexus,Es 350,2007,159464,Nigerian used,D,Petrol,Automatic,silver,2760000,14
+Dodge,Durango,2002,245513,Nigerian used,D,Petrol,Automatic,silver,561000,19
+Land Rover,Range Rover Sport,2012,93927,Nigerian used,C,Petrol,Automatic,white,5950000,9
+Mercedes-Benz,CLS 350,2005,166106,Nigerian used,D,Petrol,Automatic,black,1331000,16
+Audi,A4,1997,176210,Nigerian used,C,Petrol,Manual,green,561000,24
+Toyota,Camry,2011,131268,Nigerian used,D,Petrol,Automatic,grey,2885000,10
+Nissan,Maxima,2004,91116,Nigerian used,D,Petrol,Automatic,grey,1441000,17
+Nissan,Pathfinder,2007,147940,Foreign used,C,Petrol,Automatic,grey,1991000,14
+Toyota,Corolla,2016,47301,Foreign used,D,Petrol,Automatic,silver,5181000,5
+Volkswagen,Passat,2012,155182,Nigerian used,D,Petrol,Automatic,black,3200000,9
+Honda,Civic,2017,7188,Nigerian used,D,Petrol,Automatic,grey,5730000,4
+Mercedes-Benz,C230,2004,154790,Foreign used,D,Petrol,Automatic,silver,1385000,17
+Toyota,Venza,2013,105181,Foreign used,C,Petrol,Automatic,black,5620000,8
+Toyota,Corolla,2017,9852,Foreign used,D,Petrol,Automatic,black,5950000,4
+Peugeot,406,2003,99999,Nigerian used,C,Petrol,Manual,silver,1220000,18
+Peugeot,406,2002,324556,Nigerian used,D,Petrol,Automatic,grey,890000,19
+Toyota,Corolla,2012,108003,Nigerian used,C,Petrol,Automatic,blue,3310000,9
+Nissan,Rogue,2008,130683,Foreign used,E,Petrol,Automatic,black,1990000,13
+Opel,Omega,1997,207165,Nigerian used,E,Petrol,Manual,wine,395000,24
+Toyota,Camry,1998,253183,Nigerian used,D,Petrol,Automatic,wine,615000,23
+Nissan,X-Trail,2006,136750,Nigerian used,E,Petrol,Automatic,ash,1001000,15
+Nissan,Maxima,1999,134278,Nigerian used,E,Petrol,Automatic,gold,561000,22
+Toyota,Rav4,2011,76966,Foreign used,D,Petrol,Automatic,black,4191000,10
+Mercedes-Benz,E350,2006,65103,Nigerian used,D,Petrol,Automatic,silver,1991000,15
+Chevrolet,Trailblazer,2005,75755,Nigerian used,D,Petrol,Automatic,grey,3310000,16
+Nissan,Titan,2006,124928,Nigerian used,C,Petrol,Automatic,silver,2211000,15
+Mercedes-Benz,S500,1999,210476,Nigerian used,D,Petrol,Automatic,silver,505000,22
+Toyota,Corolla,2017,56754,Foreign used,D,Petrol,Automatic,red,7050000,4
+Toyota,Avalon,1998,311152,Nigerian used,D,Petrol,Automatic,black,649000,23
+Peugeot,406,2000,122343,Nigerian used,D,Petrol,Automatic,blue,946000,21
+Toyota,Sienna,2005,181650,Nigerian used,C,Petrol,Automatic,gold,2211000,16
+Land Rover,Range Rover Sport,2006,57234,Nigerian used,D,Petrol,Automatic,grey,2541500,15
+Mercedes-Benz,E350,2010,42202,Foreign used,C,Petrol,Automatic,black,6061000,11
+Honda,Accord,2015,69231,Foreign used,C,Petrol,Automatic,wine,5511000,6
+Volvo,V40,1999,216849,Nigerian used,D,Petrol,Manual,green,586500,22
+Volkswagen,Passat,2003,168020,Foreign used,D,Petrol,Manual,silver,1187000,18
+Ford,Edge,2008,232069,Nigerian used,D,Petrol,Automatic,grey,1551000,13
+Volvo,Xc90,2004,111996,Nigerian used,C,Petrol,Automatic,black,1111000,17
+Ford,Freestyle,2005,113943,Nigerian used,C,Petrol,Automatic,white,836000,16
+Acura,Tl,2000,189238,Nigerian used,D,Petrol,Automatic,black,470000,21
+Acura,Mdx,2005,259581,Nigerian used,C,Petrol,Automatic,green,1606000,16
+Kia,Sorento,2005,188403,Nigerian used,E,Petrol,Automatic,gold,1661000,16
+Mitsubishi,Space Wagon,2000,111265,Nigerian used,D,Petrol,Automatic,blue,781000,21
+Mazda,Mpv,2001,142280,Nigerian used,E,Petrol,Automatic,green,781000,20
+Mercedes-Benz,Ml350,2006,174447,Nigerian used,C,Petrol,Automatic,black,2980000,15
+Toyota,Avalon,2010,142615,Foreign used,C,Petrol,Automatic,black,3861000,11
+Honda,Accord,2008,118145,Nigerian used,D,Petrol,Automatic,black,1331000,13
+Lexus,Ls,2007,134129,Foreign used,C,Petrol,Automatic,blue,4521000,14
+Honda,Accord,2006,160880,Nigerian used,D,Petrol,Automatic,gold,1331000,15
+Toyota,Tundra,2007,53170,Nigerian used,C,Petrol,Automatic,black,6611000,14
+Acura,Tsx,2009,180864,Foreign used,D,Petrol,Automatic,black,2651000,12
+Honda,Accord,2014,85558,Foreign used,C,Petrol,Automatic,silver,4931000,7
+Mercedes-Benz,E320,1999,5050,Foreign used,C,Petrol,Automatic,silver,1446000,22
+Toyota,Camry,2007,99867,Foreign used,C,Petrol,Automatic,blue,2676000,14
+Mercedes-Benz,C200,1996,239700,Foreign used,D,Petrol,Automatic,black,1000000,25
+Lexus,Rx 300,1999,223027,Foreign used,E,Petrol,Automatic,silver,1679000,22
+Mercedes-Benz,Clk220,1998,300756,Nigerian used,E,Petrol,Automatic,green,781000,23
+Mercedes-Benz,E350,2007,180136,Foreign used,C,Petrol,Automatic,grey,2210000,14
+Honda,Cr-V,2000,157607,Nigerian used,E,Petrol,Manual,green,561000,21
+Toyota,Rav4,2007,156231,Nigerian used,E,Petrol,Automatic,gold,2761000,14
+Toyota,Solara,2004,98794,Nigerian used,E,Petrol,Automatic,blue,1441000,17
+Toyota,Sienna,2000,207385,Nigerian used,E,Petrol,Automatic,gold,725000,21
+Honda,Accord,2013,96510,Foreign used,C,Petrol,Automatic,black,4191000,8
+Nissan,Titan,2005,170889,Foreign used,E,Petrol,Automatic,black,3310000,16
+Mercedes-Benz,Ml350,2006,105098,Nigerian used,C,Petrol,Automatic,blue,2761000,15
+Nissan,Serena,1994,186959,Nigerian used,D,Petrol,Manual,red,451000,27
+Toyota,Camry,2002,222126,Nigerian used,E,Petrol,Automatic,silver,1001000,19
+Honda,Pilot,2008,220573,Foreign used,E,Petrol,Automatic,black,2211000,13
+Lexus,Gx,2008,98703,Nigerian used,D,Petrol,Automatic,black,2761000,13
+Toyota,Avalon,2005,198065,Foreign used,E,Petrol,Automatic,gold,2211000,16
+Nissan,Pathfinder,2007,314721,Nigerian used,E,Petrol,Automatic,black,1991000,14
+Jeep,Liberty,2003,117310,Nigerian used,D,Petrol,Automatic,silver,780000,18
+Toyota,Rav4,2008,110734,Foreign used,E,Petrol,Automatic,black,3036000,13
+Toyota,Sienna,2007,205817,Nigerian used,C,Petrol,Automatic,gold,1991000,14
+Hyundai,Ix35,2011,101489,Nigerian used,D,Petrol,Automatic,black,2541000,10
+Honda,Civic,2012,159405,Nigerian used,D,Petrol,Automatic,grey,1661000,9
+Acura,Rl,2008,136741,Foreign used,C,Petrol,Automatic,gold,1991000,13
+Toyota,4Runner,2004,249131,Nigerian used,E,Petrol,Automatic,silver,1551000,17
+Kia,Rio,2017,9578,Nigerian used,B,Petrol,Automatic,red,3311000,4
+BMW,X6,2008,85262,Nigerian used,C,Petrol,Automatic,wine,5761500,13
+Land Rover,Freelander,2002,99543,Nigerian used,E,Petrol,Manual,green,471500,19
+Toyota,Avalon,2008,184497,Foreign used,C,Petrol,Automatic,black,2760000,13
+Toyota,Camry,2008,82433,Foreign used,D,Petrol,Automatic,white,2760000,13
+Nissan,NV350,2015,260198,Nigerian used,E,Petrol,Manual,white,3311000,6
+Honda,Pilot,2003,189203,Nigerian used,C,Petrol,Automatic,blue,1551000,18
+Kia,Rio,2012,122259,Nigerian used,C,Petrol,Manual,grey,1331000,9
+Mitsubishi,Endeavor,2004,80739,Nigerian used,D,Petrol,Automatic,black,816500,17
+Toyota,Avensis,2003,267609,Foreign used,C,Petrol,Manual,blue,1936000,18
+Volvo,S60,2007,212655,Nigerian used,D,Petrol,Automatic,blue,670000,14
+Cadillac,Srx,2007,108733,Nigerian used,D,Petrol,Automatic,gold,1110000,14
+Lincoln,Navigator,2003,225338,Foreign used,E,Petrol,Automatic,black,1111000,18
+Volkswagen,CC,2013,78944,Nigerian used,C,Petrol,Automatic,grey,4411000,8
+Toyota,Land Cruiser Prado,2009,119918,Nigerian used,D,Petrol,Automatic,black,2431000,12
+Toyota,4Runner,2003,190457,Nigerian used,C,Petrol,Automatic,silver,1551000,18
+Toyota,4Runner,1999,51614,Nigerian used,E,Petrol,Automatic,black,891000,22
+Ford,Focus,2014,88082,Foreign used,E,Petrol,Automatic,grey,3091000,7
+Toyota,Highlander,2004,194589,Nigerian used,C,Petrol,Automatic,black,1936000,17
+Mercedes-Benz,E280,2008,87047,Nigerian used,E,Petrol,Automatic,black,1660000,13
+Honda,Accord,2003,209377,Nigerian used,D,Petrol,Automatic,gold,945000,18
+Mazda,Cx-7,2011,164712,Nigerian used,D,Petrol,Automatic,black,2651000,10
+Nissan,Maxima,2002,260522,Nigerian used,E,Petrol,Automatic,blue,451000,19
+Toyota,Sienna,2010,71333,Nigerian used,D,Petrol,Automatic,blue,2211000,11
+Acura,Mdx,2003,186513,Nigerian used,E,Petrol,Automatic,black,1331000,18
+Honda,Odyssey,2005,162291,Nigerian used,C,Petrol,Automatic,silver,1331000,16
+Mercedes-Benz,C300,2012,77915,Nigerian used,C,Petrol,Automatic,black,4411000,9
+Toyota,Vitz,2007,6589,Nigerian used,C,Petrol,Automatic,black,1111000,14
+Honda,Odyssey,2005,219998,Foreign used,D,Petrol,Automatic,green,1330000,16
+Honda,Accord,2017,68624,Foreign used,D,Petrol,Automatic,white,6611000,4
+Infiniti,G,2007,207602,Foreign used,C,Petrol,Automatic,black,1771000,14
+Nissan,Pathfinder,2005,112666,Nigerian used,D,Petrol,Automatic,black,1621500,16
+Nissan,Pathfinder,2001,173398,Nigerian used,E,Petrol,Automatic,gold,561000,20
+Lexus,Es,2005,71206,Foreign used,C,Petrol,Automatic,white,2541000,16
+Toyota,Carina,1995,183586,Nigerian used,D,Petrol,Manual,grey,403500,26
+Peugeot,307,2004,101290,Foreign used,E,Petrol,Manual,silver,1331000,17
+Honda,Accord,2004,306601,Nigerian used,D,Petrol,Automatic,green,750000,17
+Volkswagen,Passat,2010,61710,Nigerian used,E,Petrol,Automatic,black,1661000,11
+Land Rover,Range Rover Sport,2008,162918,Nigerian used,C,Petrol,Automatic,black,3311000,13
+Mercedes-Benz,GLA250,2016,25221,Nigerian used,E,Petrol,Automatic,black,6611000,5
+Kia,Rio,2014,224323,Nigerian used,E,Petrol,Manual,black,891000,7
+Honda,Accord,2003,165955,Nigerian used,D,Petrol,Automatic,gold,711500,18
+Mercedes-Benz,E320,2003,272743,Foreign used,C,Petrol,Automatic,grey,1991000,18
+Peugeot,407,2006,240163,Nigerian used,C,Petrol,Automatic,blue,1450000,15
+Toyota,Corolla,2014,64447,Foreign used,C,Petrol,Automatic,grey,4961000,7
+Toyota,Highlander,2008,60102,Foreign used,D,Petrol,Automatic,black,4961000,13
+Mazda,Tribute,2003,144312,Nigerian used,E,Petrol,Automatic,green,836000,18
+Honda,Cr-V,1999,111970,Nigerian used,E,Petrol,Automatic,white,561000,22
+Mazda,Tribute,2003,241782,Nigerian used,D,Petrol,Automatic,black,671000,18
+Lexus,Es,2010,170403,Foreign used,D,Petrol,Automatic,white,3861000,11
+Toyota,Corolla,2014,62036,Foreign used,C,Petrol,Automatic,grey,4411000,7
+Nissan,Altima,2014,39122,Nigerian used,C,Petrol,Automatic,black,6611000,7
+Toyota,Corolla,2016,64899,Foreign used,E,Petrol,Automatic,white,4851000,5
+Mercedes-Benz,C230,2006,195590,Foreign used,C,Petrol,Automatic,black,2211000,15
+Acura,Mdx,2006,123698,Nigerian used,E,Petrol,Automatic,grey,1551000,15
+Lexus,Rx 300,1999,229105,Nigerian used,D,Petrol,Automatic,grey,891000,22
+Toyota,4Runner,2007,255858,Nigerian used,D,Petrol,Automatic,blue,1331000,14
+Toyota,Corolla,2016,47039,Foreign used,D,Petrol,Automatic,black,4851000,5
+Kia,Sedona,2005,154669,Foreign used,D,Petrol,Automatic,blue,1331000,16
+Toyota,Camry,1998,239702,Nigerian used,D,Petrol,Automatic,gold,506000,23
+Toyota,Corolla,2003,195200,Nigerian used,E,Petrol,Automatic,red,1661000,18
+Kia,Sorento,2005,140279,Nigerian used,D,Petrol,Automatic,black,1661000,16
+Chrysler,Sebring,2008,104098,Foreign used,D,Petrol,Automatic,silver,3091000,13
+Nissan,Maxima,1999,189340,Nigerian used,D,Petrol,Automatic,green,561000,22
+Peugeot,206,2001,69280,Nigerian used,E,Petrol,Automatic,blue,726000,20
+Honda,Pilot,2012,170877,Foreign used,C,Petrol,Automatic,grey,4301000,9
+Toyota,Corolla,2016,20054,Foreign used,B,Petrol,Automatic,red,6061000,5
+Toyota,Corolla,2008,85006,Nigerian used,D,Petrol,Automatic,silver,1661000,13
+Mercedes-Benz,B180,2006,176479,Nigerian used,C,Petrol,Automatic,grey,2101000,15
+Volkswagen,Passat,2007,155649,Nigerian used,D,Petrol,Automatic,blue,1331000,14
+Lexus,Gx,2006,103462,Foreign used,C,Petrol,Automatic,silver,6391000,15
+Lexus,Rx 330,2004,167261,Nigerian used,C,Petrol,Automatic,grey,2761000,17
+Acura,Mdx,2001,195138,Foreign used,E,Petrol,Automatic,green,1441000,20
+Ford,Econoline,1998,169106,Nigerian used,E,Petrol,Automatic,black,1661000,23
+Mercedes-Benz,C320,2001,101348,Foreign used,C,Petrol,Automatic,black,1936000,20
+Mercedes-Benz,C280,2006,164041,Foreign used,C,Petrol,Automatic,silver,2871000,15
+Land Rover,Freelander,2002,112004,Nigerian used,E,Petrol,Automatic,blue,781000,19
+Lexus,Rx 330,2004,151659,Nigerian used,C,Petrol,Automatic,silver,2431000,17
+Mercedes-Benz,C300,2013,79807,Foreign used,C,Petrol,Automatic,silver,6611000,8
+Toyota,Sequoia,2006,100419,Nigerian used,C,Petrol,Automatic,black,2210000,15
+Honda,Accord,2003,215974,Foreign used,C,Petrol,Automatic,gold,1606000,18
+Toyota,Camry,2002,253100,Nigerian used,C,Petrol,Automatic,green,1331000,19
+Lexus,Gs,2001,223286,Nigerian used,E,Petrol,Automatic,gold,1001000,20
+Mercedes-Benz,C300,2009,54226,Foreign used,C,Petrol,Automatic,red,4191000,12
+Volkswagen,Jetta,2000,171415,Nigerian used,E,Petrol,Automatic,red,527500,21
+Nissan,Titan,2005,221617,Nigerian used,E,Petrol,Automatic,white,1500000,16
+Toyota,Avalon,2000,106758,Nigerian used,D,Petrol,Automatic,gold,1032500,21
+Hyundai,Accent,2007,178415,Nigerian used,E,Petrol,Manual,black,570000,14
+Mercedes-Benz,S550,2007,99499,Foreign used,E,Petrol,Automatic,gold,4520000,14
+Toyota,Solara,2008,148221,Foreign used,D,Petrol,Automatic,silver,1578000,13
+Honda,Accord,2012,134811,Nigerian used,E,Petrol,Automatic,black,1538750,9
+Lexus,Rx,2006,159386,Nigerian used,D,Hybrid,Automatic,grey,2045000,15
+Ford,Escape,2003,137494,Nigerian used,E,Petrol,Automatic,beige,682000,18
+Lexus,Rx 350,2008,75437,Nigerian used,D,Petrol,Automatic,green,3146000,13
