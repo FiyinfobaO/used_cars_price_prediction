@@ -31,7 +31,7 @@ By carrying out EDA on the cleaned data as seen in this [notebook](https://githu
 For example: By plotting the distribution of the car prices and mileage values separately using distplot, it was seen that both the price and mileage distribution was positive skewed with most of the datapoints lieing on the left side so the price data had more of lower price values and the mileage had more cars of lower mileage kilometer values values.
 
 The presence of outliers was also discovered using boxplot in the price and mileage columns. These outliers were removed by using the IQR method. Various plots were also made to show the relationships between the features and the target variable using countplot, swarmplot, stripplot, barplot and scatterplot from the seaborn library.
-![mileage_distribution_picture](/images/mileage_distribution.png)
+![car_price_distribution_picture](/images/car_price_distribution.png)
 ![yearvsprice_picture](/images/yearvsprice.png)
 ![sell_condvsprice_picture](/images/sell_condvsprice.png)
 
