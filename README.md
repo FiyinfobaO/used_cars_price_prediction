@@ -1,5 +1,5 @@
 # used_cars_price_prediction
-This is an end-to-end project on predicting the prices of used cars in Nigeria.
+This is an end-to-end Data science project on predicting the prices of used cars in Nigeria.
 
 The project was carried out in 5 key stages:
 1. Data scraping from the [cars 45 site](https://buy.cars45.com/cars). 
