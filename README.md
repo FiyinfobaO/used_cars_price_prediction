@@ -13,11 +13,13 @@ The data was scraped using the [scraper notebook](https://github.com/FiyinfobaO/
 * The car manufacturer/make
 * The car model
 * The year the car was made
+* The mileage(km)
 * The car price
 * The car grade
 * The type of fuel used 
 * The selling condition of the car
 * The transmission of the car
+* The car color
 
 # Data Cleaning and Preprocessing 
 The following steps were taken in order to clean the data using this [notebook](https://github.com/FiyinfobaO/used_cars_price_prediction/blob/master/data_cleaning_and_processing.ipynb):
